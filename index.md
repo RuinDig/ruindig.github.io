@@ -1,1 +1,2 @@
-設定中
+# Page-RuinDig
+工事中
