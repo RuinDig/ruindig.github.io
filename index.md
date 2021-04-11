@@ -1,5 +1,3 @@
-工事中
-
 <p><button style="width:100px; height:50px;"><a href="https://twitter.com/RuinDig">Twitter</a></button></p>
 
 <p><button style="width:100px; height:50px;"><a href="https://www.instagram.com/ruin.dig">Instagram</a></button></p>
