@@ -1,7 +1,3 @@
-layout: page
-title: "卒業論文/学士論文"
-permalink: /graduate-thesis.html
-
 # 位置情報ゲーム「Ingress」を用いた自治体での観光振興の取り組み―神奈川県横須賀市と東京都中野区の事例研究によるモデル構築―
 東洋大学国際地域学部国際地域学科国際地域専攻 1810140082 内田悠貴
 
@@ -32,3 +28,9 @@ permalink: /graduate-thesis.html
 横須賀市に対する「Niantic社の介入の有無によるイベントの盛況度合いに差はあったのか」という個別の質問では、2015年10月31日のミッションデイ横須賀(1866人)と2016年4月30日の咸臨丸フェスティバルウォーク×Yokosuka Ingress(総来場者数1836人、一般参加者1461人、Ingress参加者375人)を挙げ、Niantic社の介入の有無によるイベントの盛況度合いに差があったことがわかった。
 中野区に対する「今現在Ingressを用いた観光振興の取り組みを行っていない理由は何か」という個別の質問では、「当初、石巻や横須賀で活用したイベントが開催されており、中野区の地域特性を活かしやすい取り組みだと感じていたが、公式イベントでの有料チケット販売等のマネタイズ面や地域トラブル等の新聞記事での表出があること。また、住宅都市である中野区では、商業地域のすぐ隣に住宅街があり、住宅街を避けてイベントすることの困難さや歩きスマホなどネガティブな要素も多いため、大きなイベントは難しいと考えている」という回答を得た。
 また、横須賀市からは、マネタイズ面の表面化について、「チケット販売は個人のコレクター心を満たすだけのものであったため、取り組み当初からの姿勢は変わっていない」という回答が得られた。これらより、横須賀市と中野区におけるIngressを用いた観光振興の取り組みに差が生じている要因は地方自治体のマネタイズ面への姿勢と都市の性格であると結論付けた。また、横須賀市と中野区へのインタビューを基に、Ingressを用いた観光振興の取り組みに求められる要素を以下のモデル図に示した。
+![Ingressを用いた自治体での観光振興の要素モデル図](https://user-images.githubusercontent.com/20723919/114301235-f3f19a80-9afe-11eb-93c4-626cd9bc3971.jpg)
+モデル図A　Ingressを用いた自治体での観光振興の要素モデル図
+PDF一覧
+[論文全文](https://github.com/RuinDig/ruindig.github.io/files/6291552/Full-text_JA_RuinDig-YukiUchida_graduate-thesis_Ingress-sightseeing.pdf)
+[スライド](https://github.com/RuinDig/ruindig.github.io/files/6291550/Slide_JA_RuinDig-YukiUchida_graduate-thesis_Ingress-sightseeing.pdf)
+[論文要旨](https://github.com/RuinDig/ruindig.github.io/files/6291551/Abstract_JA_RuinDig-YukiUchida_graduate-thesis_Ingress-sightseeing.pdf)
