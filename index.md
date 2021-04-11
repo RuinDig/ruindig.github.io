@@ -1,2 +1,11 @@
-<p>工事中</p>
-<p><button><a href="https://github.com/RuinDig">GitHub</a></button></p>
+工事中
+
+<p><button width="100px" height="50px"><a href="https://twitter.com/RuinDig">Twitter</a></button></p>
+
+<p><button width="100px" height="50px"><a href="https://www.instagram.com/ruin.dig">G</a></button></p>
+
+<p><button width="100px" height="50px"><a href="https://ruindig.hatenablog.jp">blog</a></button></p>
+
+<p><button width="100px" height="50px"><a href="https://note.com/ruindig">note</a></button></p>
+
+<p><button width="100px" height="50px"><a href="https://note.com/ruindig/message">Contact</a></button></p>
