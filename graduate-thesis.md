@@ -12,9 +12,9 @@
 第4章　研究方法
 
 第5章　研究結果
-　1.SNS投稿の検索・調査結果 
-　2.横須賀市へのインタビュー 
-　3.中野区へのインタビュー
+　<ul><li>1.SNS投稿の検索・調査結果</li>
+　<li>2.横須賀市へのインタビュー</li>
+　<li>3.中野区へのインタビュー</li></ul>
 
 第6章　結論
 
@@ -38,7 +38,11 @@
 
 ![Ingressを用いた自治体での観光振興の要素モデル図](https://user-images.githubusercontent.com/20723919/114301235-f3f19a80-9afe-11eb-93c4-626cd9bc3971.jpg)
 モデル図A　Ingressを用いた自治体での観光振興の要素モデル図
+
 PDF一覧
+
 [論文全文](https://github.com/RuinDig/ruindig.github.io/files/6291552/Full-text_JA_RuinDig-YukiUchida_graduate-thesis_Ingress-sightseeing.pdf)
+
 [スライド](https://github.com/RuinDig/ruindig.github.io/files/6291550/Slide_JA_RuinDig-YukiUchida_graduate-thesis_Ingress-sightseeing.pdf)
+
 [論文要旨](https://github.com/RuinDig/ruindig.github.io/files/6291551/Abstract_JA_RuinDig-YukiUchida_graduate-thesis_Ingress-sightseeing.pdf)
