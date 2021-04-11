@@ -2,7 +2,7 @@
 
 <p><button width="100px" height="50px"><a href="https://twitter.com/RuinDig">Twitter</a></button></p>
 
-<p><button width="100px" height="50px"><a href="https://www.instagram.com/ruin.dig">G</a></button></p>
+<p><button width="100px" height="50px"><a href="https://www.instagram.com/ruin.dig">Instagram</a></button></p>
 
 <p><button width="100px" height="50px"><a href="https://ruindig.hatenablog.jp">blog</a></button></p>
 
