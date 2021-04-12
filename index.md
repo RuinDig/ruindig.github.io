@@ -1,4 +1,4 @@
-<p><button style="width:100px; height:50px;"><a href="https://twitter.com/RuinDig">Twitter</a></button></p>
+<p><a href="https://twitter.com/RuinDig"><button style="width:100px; height:50px;">Twitter</button></a></p>
 
 <p><button style="width:100px; height:50px;"><a href="https://www.instagram.com/ruin.dig">Instagram</a></button></p>
 
