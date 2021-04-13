@@ -52,10 +52,10 @@ PDF一覧
 外部ページ
 
 [位置情報ゲーム「Ingress」を用いた自治体での観光振興の取り組み―神奈川県横須賀市と東京都中野区の事例研究によるモデル構築― 内田悠貴 - blog-RuinDig](https://ruindig.hatenablog.jp/entry/ingress/rd-yu-graduate-thesis)
-<iframe class="hatenablogcard" style="width:100%;height:200px;margin:15px 0;max-width:680px;" title="位置情報ゲーム「Ingress」を用いた自治体での観光振興の取り組み―神奈川県横須賀市と東京都中野区の事例研究によるモデル構築― 内田悠貴 - blog-RuinDig" src="https://hatenablog-parts.com/embed?url=https://ruindig.hatenablog.jp/entry/ingress/rd-yu-graduate-thesis" frameborder="0" scrolling="no"></iframe>
+<p><iframe class="hatenablogcard" style="width:100%;height:200px;margin:15px 0;max-width:680px;" title="位置情報ゲーム「Ingress」を用いた自治体での観光振興の取り組み―神奈川県横須賀市と東京都中野区の事例研究によるモデル構築― 内田悠貴 - blog-RuinDig" src="https://hatenablog-parts.com/embed?url=https://ruindig.hatenablog.jp/entry/ingress/rd-yu-graduate-thesis" frameborder="0" scrolling="no"></iframe></p>
 
 [学士論文『位置情報ゲーム「Ingress」を用いた自治体での観光振興の取り組み—神奈川県横須賀市と東京都中野区の事例研究によるモデル構築—』｜目次｜内田悠貴｜RuinDig｜note](https://note.com/ruindig/n/n78b0c3112584)
-<iframe class="note-embed" src="https://note.com/embed/notes/n78b0c3112584" style="border: 0; display: block; max-width: 99%; width: 494px; padding: 0px; margin: 10px 0px; position: static; visibility: visible;" height="220"></iframe><script async src="https://note.com/scripts/embed.js" charset="utf-8"></script></p>
+<p><iframe class="note-embed" src="https://note.com/embed/notes/n78b0c3112584" style="border: 0; display: block; max-width: 99%; width: 494px; padding: 0px; margin: 10px 0px; position: static; visibility: visible;" height="220"></iframe><script async src="https://note.com/scripts/embed.js" charset="utf-8"></script></p>
 
 [位置情報ゲーム「Ingress」に関する論文を書きました #Ingress｜RuinDig｜note](https://note.com/ruindig/n/nf0b11ff38123)
-<iframe class="note-embed" src="https://note.com/embed/notes/nf0b11ff38123" style="border: 0; display: block; max-width: 99%; width: 494px; padding: 0px; margin: 10px 0px; position: static; visibility: visible;" height="220"></iframe><script async src="https://note.com/scripts/embed.js" charset="utf-8"></script>
+<p><iframe class="note-embed" src="https://note.com/embed/notes/nf0b11ff38123" style="border: 0; display: block; max-width: 99%; width: 494px; padding: 0px; margin: 10px 0px; position: static; visibility: visible;" height="220"></iframe><script async src="https://note.com/scripts/embed.js" charset="utf-8"></script></p>
