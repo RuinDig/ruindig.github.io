@@ -41,7 +41,7 @@
 ![Ingressを用いた自治体での観光振興の要素モデル図](https://user-images.githubusercontent.com/20723919/114301235-f3f19a80-9afe-11eb-93c4-626cd9bc3971.jpg)
 モデル図A　Ingressを用いた自治体での観光振興の要素モデル図
 
-PDF一覧
+<strong>PDF一覧</strong>
 
 [論文全文](https://github.com/RuinDig/ruindig.github.io/files/6291552/Full-text_JA_RuinDig-YukiUchida_graduate-thesis_Ingress-sightseeing.pdf)
 
@@ -49,7 +49,7 @@ PDF一覧
 
 [論文要旨](https://github.com/RuinDig/ruindig.github.io/files/6291551/Abstract_JA_RuinDig-YukiUchida_graduate-thesis_Ingress-sightseeing.pdf)
 
-外部ページ
+<strong>外部ページ</strong>
 
 [位置情報ゲーム「Ingress」を用いた自治体での観光振興の取り組み―神奈川県横須賀市と東京都中野区の事例研究によるモデル構築― 内田悠貴 - blog-RuinDig](https://ruindig.hatenablog.jp/entry/ingress/rd-yu-graduate-thesis)
 <p><iframe class="hatenablogcard" style="width:100%;height:200px;margin:15px 0;max-width:680px;" title="位置情報ゲーム「Ingress」を用いた自治体での観光振興の取り組み―神奈川県横須賀市と東京都中野区の事例研究によるモデル構築― 内田悠貴 - blog-RuinDig" src="https://hatenablog-parts.com/embed?url=https://ruindig.hatenablog.jp/entry/ingress/rd-yu-graduate-thesis" frameborder="0" scrolling="no"></iframe></p>
