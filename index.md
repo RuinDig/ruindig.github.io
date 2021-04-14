@@ -1,4 +1,4 @@
-<p><a href="https://twitter.com/RuinDig"><button style="width:100px; height:50px;"><span style="color:blue">Twitter</span></button></a></p>
+<div style="text-align:center"><p><a href="https://twitter.com/RuinDig"><button style="width:100px; height:50px;"><span style="color:blue">Twitter</span></button></a></p></div>
 
 <p><a href="https://www.instagram.com/ruin.dig"><button style="width:100px; height:50px;"><span style="color:blue">Instagram</span></button></a></p>
 
