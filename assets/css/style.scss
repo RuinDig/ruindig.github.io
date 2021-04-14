@@ -90,7 +90,6 @@ h6 {
 
 p {
   font-size: 17px;
-  margin: 10px 0 15px 0;
 }
 
 footer p {
@@ -191,9 +190,8 @@ blockquote {
   border-left: 3px solid #bbb;
 }
 
-
 ul, ol, dl {
-  margin-bottom: 15px
+  margin-bottom: 10px
 }
 
 ul {
@@ -415,11 +413,11 @@ Small Device Styles
   }
 
   h6 {
-    font-size: 12px;
+    font-size: 19px;
   }
 
   code, pre {
-    font-size: 11px;
+    font-size: 17px;
   }
 
 }
@@ -469,10 +467,14 @@ h6 {
   font-size: 19px;
 }
 
-  code, pre {
-    min-width: 240px;
-    max-width: 320px;
-    font-size: 17px;
-  }
+p {
+  font-size: 17px;
+}
+  
+code, pre {
+   min-width: 240px;
+   max-width: 320px;
+   font-size: 17px;
+}
 
 }
