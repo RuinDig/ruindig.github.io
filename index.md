@@ -4,6 +4,8 @@
 
 <p><a href="https://ruindig.hatenablog.jp"><button style="width:100px; height:50px;"><span style="color:blue">blog</span></button></a></p>
 
+<p><a href="https://github.com/RuinDig"><button style="width:100px; height:50px;"><span style="color:blue">GitHub</span></button></a></p>
+
 <p><a href="https://note.com/ruindig"><button style="width:100px; height:50px;"><span style="color:blue">note</span></button></a></p>
 
 <p><a href="https://note.com/ruindig/message"><button style="width:100px; height:50px;"><span style="color:blue">Contact</span></button></a></p>
