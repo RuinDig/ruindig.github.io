@@ -1,7 +1,11 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="{{ site.lang | default: "en-US" }}" prefix="og: https://ogp.me/ns#">
 
-  <head>
+  <head> 
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="{{ page.title }}" />
+    <meta property="og:site_name" content="{{ site.title | default: site.github.repository_name }}" />
   　<base href="{{site.github.url}}" charset="utf-8"/>
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
