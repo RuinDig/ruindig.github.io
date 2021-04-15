@@ -6,6 +6,11 @@
     <meta property="og:type" content="article" />
     <meta property="og:title" content="{{ page.title }}" />
     <meta property="og:site_name" content="{{ site.title | default: site.github.repository_name }}" />
+    {% if page.description %}
+    <meta property="og:description" content="{{ page.description }}" />
+    {% else %}
+    <meta property="og:description" content="{{ site.description | default: site.github.project_tagline }}" />
+    {% endif %}
   　<base href="{{site.github.url}}" charset="utf-8"/>
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
