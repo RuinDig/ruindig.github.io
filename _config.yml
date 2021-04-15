@@ -3,8 +3,6 @@ title: <a href="https://ruindig.github.io"><span style="color:white">Page-RuinDi
 description: RuinDigのポートフォリオページ｜Posts are my own.
 twitter:
   username: RuinDig
-facebook:
-  app_id: 282705790015631
 defaults:
   - scope:
       path: ""
