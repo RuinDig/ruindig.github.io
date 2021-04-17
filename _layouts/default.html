@@ -4,12 +4,18 @@
   <head> 
     <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
     <meta property="og:type" content="article" />
-    <meta property="og:site_name" content="Page-RuinDig" />
     <meta property="og:title" content="{{ page.title }}" />
+    <meta property="og:site_name" content="Page-RuinDig" />
+    {% if page.description %}
     <meta property="og:description" content="{{ page.description }}" />
+    {% else %}
+    <meta property="og:description" content="RuinDigのポートフォリオページ｜Posts are my own." />
+    {% endif %}
+    {% if page.preview %}
+    <meta property="og:image" content="{{ page.preview }}" />
+    {% else %}
     <meta property="og:image" content="https://ruindig.github.io/RuinDig.jpg" />
     <meta property="fb:app_id" content="282705790015631" />
-    {% else %}
     {% endif %}
   　<base href="{{site.github.url}}" charset="utf-8"/>
     <meta charset='utf-8'>
