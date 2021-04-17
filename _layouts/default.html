@@ -6,14 +6,8 @@
     <meta property="og:type" content="article" />
     <meta property="og:title" content="{{ page.title }}" />
     <meta property="og:site_name" content="{{ site.title | default: site.github.repository_name }}" />
-    {% if page.description %}
     <meta property="og:description" content="{{ page.description }}" />
-    {% else %}
     <meta property="og:description" content="{{ site.description | default: site.github.project_tagline }}" />
-    {% endif %}
-    {% if page.preview %}
-    <meta property="og:image" content="{{ page.preview }}" />
-    {% else %}
     <meta property="og:image" content="https://ruindig.github.io/RuinDig.jpg" />
     <meta property="fb:app_id" content="282705790015631" />
     {% endif %}
