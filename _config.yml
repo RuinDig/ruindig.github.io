@@ -1,5 +1,5 @@
 theme: jekyll-theme-slate
-title: <a href="https://ruindig.github.io">Page-RuinDig</a>
+title: <span style="white"><a href="https://ruindig.github.io">Page-RuinDig</a></span>
 description: RuinDigのポートフォリオページ｜Posts are my own.
 twitter:
   username: RuinDig
