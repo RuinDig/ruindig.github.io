@@ -1,4 +1,4 @@
-<div style="text-align:center"><title>Home</title></div>
+<title><div style="text-align:center"><h1>Home</h1></div></title>
 
 <div style="text-align:center"><p><a href="https://twitter.com/RuinDig"><button style="width:100px; height:50px;"><span style="color:blue">Twitter</span></button></a></p></div>
 
