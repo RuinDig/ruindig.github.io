@@ -11,3 +11,6 @@
 <div class="youtube">
 <iframe width="600" height="330" src="https://www.youtube.com/embed/ynA608peiZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+<div><video controls src="https://github.com/RuinDig/ruindig.github.io/blob/main/SHIBUYA-SKY_Tokyo_video01.MP4?raw=true" muted="false"></video></div>
+<div><video controls src="https://github.com/RuinDig/ruindig.github.io/blob/main/SHIBUYA-SKY_Tokyo_video02.MP4?raw=true" muted="false"></video></div>
