@@ -22,7 +22,7 @@ time, mark, audio, video {
   border: 0;
   font: inherit;
   vertical-align: baseline;
-  overflow-wrap: break-all;
+  overflow-wrap: normal;
 }
 
 /* HTML5 display-role reset for older browsers */
@@ -52,7 +52,7 @@ body {
   font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
-  overflow-wrap: break-all;
+  overflow-wrap: normal;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -400,6 +400,7 @@ Small Device Styles
 @media screen and (max-width: 480px) {
   body {
     font-size:17px;
+    word-break: break-all;
   }
 
   #downloads {
@@ -448,6 +449,7 @@ Small Device Styles
 @media screen and (max-width: 320px) {
   body {
     font-size:17px;
+    word-break: break-all;
   }
 
   #downloads {
