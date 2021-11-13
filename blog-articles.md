@@ -1,3 +1,5 @@
+# ブログ記事ピックアップ
+
 『ポケモンGO』や『イングレス』は、ビジネスや社会にどのような影響力があるのか - blog-RuinDig<br>
 [https://ruindig.hatenablog.jp/entry/tet2016/niantic](https://ruindig.hatenablog.jp/entry/tet2016/niantic)
 
