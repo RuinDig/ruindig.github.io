@@ -20,3 +20,16 @@
 <div class="youtube">
 <p><iframe width="600" height="330" src="https://www.youtube.com/embed/zymtC2QBWC4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 </div>
+
+<p><strong>いすみ鉄道</strong></p>
+<div class="youtube">
+<p><iframe width="600" height="330" src="https://www.youtube.com/embed/sMmlGLV6iEY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+</div>
+
+<div class="youtube">
+<p><iframe width="600" height="330" src="https://www.youtube.com/embed/WdCp1xRBJXs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+</div>
+
+<div class="youtube">
+<p><iframe width="600" height="330" src="https://www.youtube.com/embed/pXnE_JWhMu8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+</div>
