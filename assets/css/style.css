@@ -350,7 +350,7 @@ Full-Width Styles
   background: url(../images/sprite_download.png) no-repeat bottom left;
 }
 
-.longurl {word-break: break-all;}
+.longurl {overflow-wrap: break-all;}
 
 .tar_download_link {
   display: block;
@@ -445,7 +445,7 @@ Small Device Styles
 
 }
 
-.longurl {word-break: break-all;}
+.longurl {overflow-wrap: break-all;}
 
 @media screen and (max-width: 320px) {
   body {
