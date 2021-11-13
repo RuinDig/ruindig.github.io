@@ -22,6 +22,7 @@ time, mark, audio, video {
   border: 0;
   font: inherit;
   vertical-align: baseline;
+  overflow-wrap: break-all;
 }
 
 /* HTML5 display-role reset for older browsers */
@@ -51,6 +52,7 @@ body {
   font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
+  overflow-wrap: break-all;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -350,8 +352,6 @@ Full-Width Styles
   background: url(../images/sprite_download.png) no-repeat bottom left;
 }
 
-.url {overflow-wrap: break-all;}
-
 .tar_download_link {
   display: block;
   float: right;
@@ -444,8 +444,6 @@ Small Device Styles
   }
 
 }
-
-.url {overflow-wrap: break-all;}
 
 @media screen and (max-width: 320px) {
   body {
