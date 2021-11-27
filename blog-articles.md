@@ -24,3 +24,8 @@ Jabra Elite 85tを買ったのでレビュー - blog-RuinDig<br>
 [https://note.com/ruindig/n/na96fb2b34f38](https://note.com/ruindig/n/na96fb2b34f38)
 
 ![2020年からのIngressを振り返る―Ingress9周年に寄せて](https://user-images.githubusercontent.com/20723919/143670001-0f6bc23f-b19d-48d7-9f44-c0743836bfad.jpg)
+
+Ingress Prime1周年までの沿革―Ingress7周年に寄せて｜RuinDig｜note（ノート）<br>
+[https://note.com/ruindig/n/n182cb7a22a98](https://note.com/ruindig/n/n182cb7a22a98)
+
+![Ingress Prime1周年までの沿革―Ingress7周年に寄せて](https://user-images.githubusercontent.com/20723919/143670067-4bd361e5-95a8-4dac-8343-e030da1f9b46.jpeg)
