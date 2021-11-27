@@ -19,3 +19,8 @@ Jabra Elite 85tを買ったのでレビュー - blog-RuinDig<br>
 [https://ruindig.hatenablog.jp/entry/jabra-elite-85t](https://ruindig.hatenablog.jp/entry/jabra-elite-85t)
 
 ![Jabra Elite 85tを買ったのでレビュー](https://user-images.githubusercontent.com/20723919/141656068-d66930ab-cdea-4b7e-b8c9-e222c297a226.jpg)
+
+2020年からのIngressを振り返る―Ingress9周年に寄せて｜RuinDig｜note（ノート）<br>
+[https://note.com/ruindig/n/na96fb2b34f38](https://note.com/ruindig/n/na96fb2b34f38)
+
+![2020年からのIngressを振り返る―Ingress9周年に寄せて](https://user-images.githubusercontent.com/20723919/143670001-0f6bc23f-b19d-48d7-9f44-c0743836bfad.jpg)
