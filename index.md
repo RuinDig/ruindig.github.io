@@ -21,4 +21,5 @@
 <div style="text-align:center"><p><a href="https://ruindig.github.io/video"><button style="width:100px; height:50px;"><span style="color:blue">動画</span></button></a></p></div>
 
 <p style="text-align:center">CC-BY-4.0 - RuinDig/Yuki Uchida</p>
-<style="text-align:center">[!CC-BY-4.0](https://user-images.githubusercontent.com/20723919/145936543-577c7705-90e2-4d56-ad5d-26b0fbcea02d.png)</style>
+
+<div style="text-align: center;"><img src="https://user-images.githubusercontent.com/20723919/145936543-577c7705-90e2-4d56-ad5d-26b0fbcea02d.png" /></div>
