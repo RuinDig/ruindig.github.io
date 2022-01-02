@@ -2,6 +2,8 @@
 
 <div style="text-align:center"><p><a href="https://twitter.com/RuinDig"><button style="width:100px; height:50px;"><span style="color:blue">Twitter</span></button></a></p></div>
 
+<div style="text-align:center"><p><a href="https://twilog.org/RuinDig"><button style="width:100px; height:50px;"><span style="color:blue">Twilog</span></button></a></p></div>
+
 <div style="text-align:center"><p><a href="https://www.instagram.com/ruin.dig"><button style="width:100px; height:50px;"><span style="color:blue">Instagram</span></button></a></p></div>
 
 <div style="text-align:center"><p><a href="https://ruindig.hatenablog.jp"><button style="width:100px; height:50px;"><span style="color:blue">blog</span></button></a></p></div>
