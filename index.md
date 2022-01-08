@@ -12,6 +12,8 @@
 
 <div style="text-align:center"><p><a href="https://note.com/ruindig"><button style="width:100px; height:50px;"><span style="color:blue">note</span></button></a></p></div>
 
+<div style="text-align:center"><p><a href="https://archive.org/details/@ruindig"><button style="width:100px; height:50px;"><span style="color:blue">Internet Archive</span></button></a></p></div>
+
 <div style="text-align:center"><p><a href="mailto:ruindig@gmail.com"><button style="width:100px; height:50px;"><span style="color:blue">Contact</span></button></a></p></div>
 
 <div style="text-align:center"><p><a href="https://ruindig.github.io/graduate-thesis"><button style="width:100px; height:50px;"><span style="color:blue">卒業論文/学士論文</span></button></a></p></div>
