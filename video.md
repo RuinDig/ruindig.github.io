@@ -43,3 +43,5 @@
 <div class="youtube">
 <p><iframe width="600" height="330" src="https://www.youtube.com/embed/DzVNrehb_bE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 </div>
+
+<div id="codoc-entry-8FY1GS5i0A" class="codoc-entries" data-without-body="1" data-support-button-text="RuinDigを100円からサポートする" data-show-like="0" data-show-about-codoc="0" data-support-message="投げ銭(サポート)をお願いします"></div>
