@@ -30,5 +30,4 @@ Ingress Prime1周年までの沿革―Ingress7周年に寄せて｜RuinDig｜not
 
 ![Ingress Prime1周年までの沿革―Ingress7周年に寄せて](https://user-images.githubusercontent.com/20723919/143670067-4bd361e5-95a8-4dac-8343-e030da1f9b46.jpeg)
 
-<script src="https://codoc.jp/js/cms.js" data-css="blue" data-usercode="c9TQJjS1dA" charset="UTF-8" defer></script>
- <div id="codoc-entry-8FY1GS5i0A" class="codoc-entries" data-without-body="1" data-support-button-text="RuinDigを100円からサポートする" data-show-like="0" data-show-about-codoc="0" data-support-message="投げ銭(サポート)をお願いします"></div>
+<script src="https://codoc.jp/js/cms.js" data-css="blue" data-usercode="c9TQJjS1dA" charset="UTF-8" defer></script><div id="codoc-entry-8FY1GS5i0A" class="codoc-entries" data-without-body="1" data-support-button-text="RuinDigを100円からサポートする" data-show-like="0" data-show-about-codoc="0" data-support-message="投げ銭(サポート)をお願いします"></div>
