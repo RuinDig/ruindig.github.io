@@ -30,6 +30,6 @@
 
 <p style="text-align:center">CC-BY-4.0 - RuinDig/Yuki Uchida</p>
 
-<div style="text-align: center;"><img src="https://user-images.githubusercontent.com/20723919/145936543-577c7705-90e2-4d56-ad5d-26b0fbcea02d.png" /></div>
+<div style="text-align: center;"><a href="https://creativecommons.org/licenses/by/4.0/deed.ja"><img src="https://user-images.githubusercontent.com/20723919/145936543-577c7705-90e2-4d56-ad5d-26b0fbcea02d.png" /></a></div>
 
 <script src="https://codoc.jp/js/cms.js" data-css="blue" data-usercode="c9TQJjS1dA" charset="UTF-8" defer></script><div id="codoc-entry-8FY1GS5i0A" class="codoc-entries" data-without-body="1" data-support-button-text="RuinDigを100円からサポートする" data-show-like="0" data-show-about-codoc="0" data-support-message="投げ銭(サポート)をお願いします"></div>
