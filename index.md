@@ -24,9 +24,9 @@
 
 <div style="text-align:center"><p><a href="https://ruindig.github.io/video"><button style="width:100px; height:50px;"><span style="color:blue">動画</span></button></a></p></div>
 
-<a href="https://twitter.com/RuinDig" class="twitter-follow-button" data-show-count="false">Follow @RuinDig</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div style="text-align:center"><a href="https://twitter.com/RuinDig" class="twitter-follow-button" data-show-count="false">Follow @RuinDig</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
 
-<a class="github-button" href="https://github.com/RuinDig" data-color-scheme="no-preference: light; light: light_high_contrast; dark: light;" aria-label="Follow @RuinDig on GitHub">Follow @RuinDig</a><script async defer src="https://buttons.github.io/buttons.js"></script>
+<div style="text-align:center"><a class="github-button" href="https://github.com/RuinDig" data-color-scheme="no-preference: light; light: light_high_contrast; dark: light;" aria-label="Follow @RuinDig on GitHub">Follow @RuinDig</a><script async defer src="https://buttons.github.io/buttons.js"></script></div>
 
 <p style="text-align:center">CC-BY-4.0 - RuinDig/Yuki Uchida</p>
 
