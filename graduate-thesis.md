@@ -61,3 +61,5 @@
 
 [位置情報ゲーム「Ingress」に関する論文を書きました #Ingress｜RuinDig｜note](https://note.com/ruindig/n/nf0b11ff38123)
 <p><iframe class="note-embed" src="https://note.com/embed/notes/nf0b11ff38123" style="border: 0; display: block; max-width: 99%; width: 600px; padding: 0px; margin: 10px 0px; position: static; visibility: visible;" height="220"></iframe><script async src="https://note.com/scripts/embed.js" charset="utf-8"></script></p>
+
+<script src="https://codoc.jp/js/cms.js" data-css="blue" data-usercode="c9TQJjS1dA" charset="UTF-8" defer></script><div id="codoc-entry-8FY1GS5i0A" class="codoc-entries" data-without-body="1" data-support-button-text="RuinDigを100円からサポートする" data-show-like="0" data-show-about-codoc="0" data-support-message="投げ銭(サポート)をお願いします"></div>
