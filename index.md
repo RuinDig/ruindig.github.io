@@ -32,7 +32,7 @@
 
 <p style="text-align:center">CC-BY-4.0 - RuinDig/Yuki Uchida</p>
 
-<p>RuinDigのInternet Archiveのアカウントは<a href="https://archive.org/details/@ruindig">こちら</a>。各種動画や写真を無料でダウンロードできる。基本的には【CC-BY-4.0 RuinDig/Yuki Uchida】を表記すれば利用できるが、動画や写真によって異なる場合があるので、それぞれの詳細を参照する事。</p>
+<p>RuinDigのInternet Archiveのアカウントは<a href="https://archive.org/details/@ruindig">こちら</a>。各種動画や写真を無料でダウンロードできる。基本的には【CC-BY-4.0 RuinDig/Yuki Uchida】を表記すれば利用できるが、動画や写真によって異なる場合があるので、それぞれの詳細を参照するように。</p>
 
 <p>You can download videos and images without any fees at <a href="https://archive.org/details/@ruindig">RuinDig's Internet Archive</a>. Basically, you can use videos and images with credit "CC-BY-4.0 RuinDig/Yuki Uchida". Check each videos and images details.</p>
 
