@@ -34,7 +34,7 @@
 
 <p>RuinDigがInternet Archiveにアップロードした写真と動画は<a href="https://archive.org/details/@ruindig?and[]=creator%3A%22ruindig%2Fyuki+uchida%22">こちら</a>。各種動画や写真を無料でダウンロードできます。基本的には【CC-BY-4.0 - RuinDig/Yuki Uchida】を表記すれば利用できますが、動画や写真によって異なる場合があるので、それぞれの詳細を参照してください。</p>
 
-<p>You can download videos and images without any fees at <a href="https://archive.org/details/@ruindig">RuinDig's Internet Archive</a>. Basically, you can use videos and images with credit "CC-BY-4.0 RuinDig/Yuki Uchida". Check each videos and images details.</p>
+<p>You can download videos and images without any fees at <a href="https://archive.org/details/@ruindig?and[]=creator%3A%22ruindig%2Fyuki+uchida%22">RuinDig's Internet Archive uploads</a>. Basically, you can use videos and images with credit "CC-BY-4.0 RuinDig/Yuki Uchida". Check each videos and images details.</p>
 
 <div style="text-align: center;"><a href="https://creativecommons.org/licenses/by/4.0/deed.ja"><img src="https://user-images.githubusercontent.com/20723919/145936543-577c7705-90e2-4d56-ad5d-26b0fbcea02d.png" /></a></div>
 
