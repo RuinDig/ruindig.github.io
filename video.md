@@ -44,7 +44,7 @@
 <p><iframe width="600" height="330" src="https://www.youtube.com/embed/DzVNrehb_bE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 </div>
 
-<div style="text-align: center;"><p>CC-BY-4.0 - RuinDig</p></div>
+<div style="text-align: center;"><p>CC-BY-4.0 - RuinDig/Yuki Uchida</p></div>
 
 <div style="text-align: center;"><a href="https://creativecommons.org/licenses/by/4.0/deed.ja"><img src="https://user-images.githubusercontent.com/20723919/145936543-577c7705-90e2-4d56-ad5d-26b0fbcea02d.png" /></a></div>
 
