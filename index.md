@@ -8,9 +8,11 @@
 
 <div style="text-align:center"><p><a href="https://ruindig.hatenablog.jp"><button style="width:100px; height:50px;"><span style="color:blue">blog</span></button></a></p></div>
 
-<div style="text-align:center"><p><a href="https://github.com/RuinDig"><button style="width:100px; height:50px;"><span style="color:blue">GitHub</span></button></a></p></div>
-
 <div style="text-align:center"><p><a href="https://note.com/ruindig"><button style="width:100px; height:50px;"><span style="color:blue">note</span></button></a></p></div>
+
+<div style="text-align:center"><p><a href="https://www.youtube.com/RuinDig"><button style="width:100px; height:50px;"><span style="color:blue">YouTube</span></button></a></p></div>
+
+<div style="text-align:center"><p><a href="https://github.com/RuinDig"><button style="width:100px; height:50px;"><span style="color:blue">GitHub</span></button></a></p></div>
 
 <div style="text-align:center"><p><a href="https://archive.org/details/@ruindig"><button style="width:100px; height:50px;"><span style="color:blue">Internet Archive</span></button></a></p></div>
 
