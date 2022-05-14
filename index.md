@@ -36,4 +36,4 @@
 
 <p>You can download videos and images without any fees at <a href="https://archive.org/details/@ruindig?and%5B%5D=creator%3A%22ruindig%2Fyuki+uchida%22&sort=-date">RuinDig's Internet Archive uploads</a>. Basically, you can use videos and images with credit "CC-BY-4.0 RuinDig/Yuki Uchida". Check each videos and images details.</p>
 
-<script src="https://codoc.jp/js/cms.js" data-css="blue" data-usercode="c9TQJjS1dA" charset="UTF-8" defer></script><div id="codoc-entry-8FY1GS5i0A" class="codoc-entries" data-without-body="1" data-support-button-text="RuinDigを100円からサポートする" data-show-like="0" data-show-about-codoc="0" data-support-message="投げ銭(サポート)をお願いします"></div>
+<script src="https://codoc.jp/js/cms.js" data-css="blue" data-usercode="c9TQJjS1dA" charset="UTF-8" defer></script><div id="codoc-entry-8FY1GS5i0A" class="codoc-entries" data-without-body="1" data-support-button-text="RuinDigに100円から投げ銭する" data-show-like="0" data-show-about-codoc="0" data-support-message="ここから投げ銭(サポート)ができます"></div>
