@@ -32,8 +32,8 @@
 
 <div style="text-align:center"><p><a class="github-button" href="https://github.com/RuinDig" data-color-scheme="no-preference: light; light: light_high_contrast; dark: light;" aria-label="Follow @RuinDig on GitHub">Follow @RuinDig</a><script async defer src="https://buttons.github.io/buttons.js"></script></p></div>
 
-<p>RuinDigがInternet Archiveにアップロードした写真と動画は<a href="https://archive.org/details/@ruindig?and%5B%5D=creator%3A%22ruindig%2Fyuki+uchida%22&sort=-date">こちら</a>。各種動画や写真を無料でダウンロードできます。基本的には【CC-BY-4.0 - RuinDig/Yuki Uchida】を表記すれば利用できますが、動画や写真によって異なる場合があるので、それぞれの詳細を参照してください。</p>
+<p>RuinDigがInternet Archiveにアップロードした写真と動画は<a href="https://archive.org/details/@ruindig?and%5B%5D=creator%3A%22ruindig%2Fyuki+uchida%22&sort=-date">こちら</a>。各種動画や写真を無料でダウンロードできます。基本的には【<a href="https://creativecommons.org/licenses/by/4.0/deed.ja">CC-BY-4.0</a> - RuinDig/Yuki Uchida】を表記すれば利用できますが、動画や写真によって異なる場合があるので、それぞれの詳細を参照してください。</p>
 
-<p>You can download videos and images without any fees at <a href="https://archive.org/details/@ruindig?and%5B%5D=creator%3A%22ruindig%2Fyuki+uchida%22&sort=-date">RuinDig's Internet Archive uploads</a>. Basically, you can use videos and images with credit "CC-BY-4.0 RuinDig/Yuki Uchida". Check each videos and images details.</p>
+<p>You can download videos and images without any fees at <a href="https://archive.org/details/@ruindig?and%5B%5D=creator%3A%22ruindig%2Fyuki+uchida%22&sort=-date">RuinDig's Internet Archive uploads</a>. Basically, you can use videos and images with credit "<a href="https://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a> RuinDig/Yuki Uchida". Check each videos and images details.</p>
 
 <script src="https://codoc.jp/js/cms.js" data-css="blue" data-usercode="c9TQJjS1dA" charset="UTF-8" defer></script><div id="codoc-entry-8FY1GS5i0A" class="codoc-entries" data-without-body="1" data-support-button-text="RuinDigに100円から投げ銭する" data-show-like="0" data-show-about-codoc="0" data-support-message="ここから投げ銭(サポート)ができます"></div>
