@@ -1,0 +1,11 @@
+theme: jekyll-theme-slate
+title: <a href="https://ruindig.github.io"><span style="color:white">Page-RuinDig</span></a>
+description: RuinDigのポートフォリオページ｜Posts are my own.
+twitter:
+  username: RuinDig
+defaults:
+  - scope:
+      path: ""
+    values:
+      image:
+        path: /RuinDig.jpg
