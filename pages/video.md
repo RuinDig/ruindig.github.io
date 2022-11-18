@@ -52,12 +52,14 @@ title: 動画ギャラリー
 
 <p><strong>渋谷駅山手線内回り2番線ホーム拡張工事 2021.10.24</strong></p>
 <p><a href="https://archive.org/download/Video_Shibuya-Station-Yamanoteline_2021-10-24/%E6%B8%8B%E8%B0%B7%E9%A7%85%E5%B1%B1%E6%89%8B%E7%B7%9A%E3%83%9B%E3%83%BC%E3%83%A0%E6%8B%A1%E5%BC%B5%E5%B7%A5%E4%BA%8B_2021-10-24.mp4">Download from Internet Archive</a></p>
+<p><a href="https://upload.wikimedia.org/wikipedia/commons/1/1e/JR%E6%B8%8B%E8%B0%B7%E9%A7%85%E5%B1%B1%E6%89%8B%E7%B7%9A2%E7%95%AA%E7%B7%9A%E3%83%9B%E3%83%BC%E3%83%A0%E6%8B%A1%E5%BC%B5%E5%B7%A5%E4%BA%8B.webm">Download from Wikimedia Commons</a></p>
 <div class="youtube">
 <p><iframe width="600" height="330" src="https://www.youtube.com/embed/DzVNrehb_bE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 </div>
 
 <p><strong>国立競技場VIPエリア&展望デッキツアーの様子</strong></p>
 <p><a href="https://archive.org/download/video-japan-national-stadium-vip-area-tour/%E5%9B%BD%E7%AB%8B%E7%AB%B6%E6%8A%80%E5%A0%B4VIP%E3%82%A8%E3%83%AA%E3%82%A2and%E5%B1%95%E6%9C%9B%E3%83%87%E3%83%83%E3%82%AD%E3%83%84%E3%82%A2%E3%83%BC.mp4">Download from Internet Archive</a></p>
+<p><a href="https://upload.wikimedia.org/wikipedia/commons/0/0d/%E5%9B%BD%E7%AB%8B%E7%AB%B6%E6%8A%80%E5%A0%B4VIP%E3%82%A8%E3%83%AA%E3%82%A2and%E5%B1%95%E6%9C%9B%E3%83%87%E3%83%83%E3%82%AD%E3%83%84%E3%82%A2%E3%83%BC.webm">Download from Wikimedia Commons</a></p>
 <div class="youtube">
 <p><iframe width="600" height="330" src="https://www.youtube.com/embed/w7W38AlUQAs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 </div>
