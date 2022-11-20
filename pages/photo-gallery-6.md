@@ -1,5 +1,5 @@
 ---
-title: 写真ギャラリー6
+title: 写真ギャラリー6/Photo gallery 6
 ---
 
 # 写真ギャラリー6
