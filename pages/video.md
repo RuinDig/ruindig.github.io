@@ -1,5 +1,5 @@
 ---
-title: 動画ギャラリー
+title: 動画ギャラリー/Video gallery
 ---
 
 # 動画ギャラリー
