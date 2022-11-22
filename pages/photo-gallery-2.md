@@ -2,7 +2,7 @@
 title: 写真ギャラリー2/Photo gallery 2
 ---
 
-# 写真ギャラリー2
+# 写真ギャラリー2/Photo gallery 2
 
 ### プロ野球 - NPB
 
