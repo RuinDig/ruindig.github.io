@@ -2,7 +2,7 @@
 title: 写真ギャラリー1/Photo gallery 1
 ---
 
-# 写真ギャラリー1
+# 写真ギャラリー1/Photo gallery 1
 
 ### 国立競技場
 
