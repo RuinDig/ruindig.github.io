@@ -165,6 +165,7 @@ img {
   -moz-box-shadow: 0 0 0px #ebebeb;
   -o-box-shadow: 0 0 0px #ebebeb;
   -ms-box-shadow: 0 0 0px #ebebeb;
+  content-visibility: auto;
 }
 
 p img {
