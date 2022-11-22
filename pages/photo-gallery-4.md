@@ -2,7 +2,7 @@
 title: 写真ギャラリー4/Photo gallery 4
 ---
 
-# 写真ギャラリー4
+# 写真ギャラリー4/Photo gallery 4
 
 ### Red Bull Air Race Chiba 2019 final round 2019.9.8
 
