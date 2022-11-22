@@ -2,7 +2,7 @@
 title: 動画ギャラリー/Video gallery
 ---
 
-# 動画ギャラリー
+# 動画ギャラリー/Video gallery
 
 <p><strong>[4K] ダイヤモンド富士 美浜大橋 2021.2.21</strong></p>
 <p><a href="https://archive.org/download/diamond-fuji-chiba-japan-2021-02-21/4K_%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E5%AF%8C%E5%A3%AB-%E7%BE%8E%E6%B5%9C%E5%A4%A7%E6%A9%8B_2021-02-21.mp4">Download from Internet Archive</a></p>
