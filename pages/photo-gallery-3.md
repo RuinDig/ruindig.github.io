@@ -208,6 +208,8 @@ title: 写真ギャラリー3/Photo gallery 3
 
 **9回表**
 
+<div style="text-align: center;">
+<ul class="slider">
 <li><img src="https://user-images.githubusercontent.com/20723919/203319891-abeb0e0a-6519-4fc5-a651-065ebf5f57c3.JPG" alt="千葉ロッテマリーンズ・益田直也投手(背番号52)が登板する" loading="lazy"><p class="slider-text5">千葉ロッテマリーンズ・益田直也投手(背番号52)が登板する</p></li>
 <li><img src="https://user-images.githubusercontent.com/20723919/203319903-36d0a136-cb0a-4b18-a87a-654a428d9fb0.JPG" alt="千葉ロッテマリーンズ・益田直也投手(背番号52)が登板する" loading="lazy"><p class="slider-text5">千葉ロッテマリーンズ・益田直也投手(背番号52)が登板する</p></li>
 <li><img src="https://user-images.githubusercontent.com/20723919/203319908-2062b19e-765d-4d31-9617-3b17047cce36.JPG" alt="千葉ロッテマリーンズ・益田直也投手(背番号52)が登板する" loading="lazy"><p class="slider-text5">千葉ロッテマリーンズ・益田直也投手(背番号52)が登板する</p></li>
@@ -215,6 +217,8 @@ title: 写真ギャラリー3/Photo gallery 3
 <li><img src="https://user-images.githubusercontent.com/20723919/203319919-02e11942-632c-43b8-ab85-6a4738f9bab2.JPG" alt="千葉ロッテマリーンズ・益田直也投手(背番号52)が登板する" loading="lazy"><p class="slider-text5">千葉ロッテマリーンズ・益田直也投手(背番号52)が登板する</p></li>
 <li><img src="https://user-images.githubusercontent.com/20723919/203319924-428113d0-d627-40be-9221-e6ed8b0d316e.JPG" alt="千葉ロッテマリーンズ・益田直也投手(背番号52)が登板する" loading="lazy"><p class="slider-text5">千葉ロッテマリーンズ・益田直也投手(背番号52)が登板する</p></li>
 <li><img src="https://user-images.githubusercontent.com/20723919/203319932-90a767ab-ddef-43fa-9f92-34519eacbe1b.JPG" alt="千葉ロッテマリーンズ・益田直也投手(背番号52)が登板する" loading="lazy"><p class="slider-text5">千葉ロッテマリーンズ・益田直也投手(背番号52)が登板する</p></li>
+</ul>
+</div>
 
 <div style="text-align: center;"><p><a href="https://ruindig.github.io/pages/photo-gallery"><<</a> <a href="https://ruindig.github.io/pages/photo-gallery-2"><button style="width:24px; height:24px; text-align:center;"><span style="color:blue; font-size:17px;">2</span></button></a> - 3 - <a href="https://ruindig.github.io/pages/photo-gallery-4"><button style="width:24px; height:24px; text-align:center;"><span style="color:blue; font-size:17px;">4</span></button></a> <a href="https://ruindig.github.io/pages/photo-gallery-6">>></a></p></div>
 
