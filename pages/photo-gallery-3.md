@@ -220,6 +220,31 @@ title: 写真ギャラリー3/Photo gallery 3
 </ul>
 </div>
 
+<div style="text-align: center;">
+<ul class="slider">
+<li><img src="https://user-images.githubusercontent.com/20723919/203321502-9cc64311-cd55-46d0-b186-0cb56656259f.JPG" alt="9回表から打席に立った、北海道日本ハムファイターズ・谷内亮太選手(背番号32)の第1打席の2球目はファウルになる" loading="lazy"><p class="slider-text5">9回表から打席に立った、北海道日本ハムファイターズ・谷内亮太選手(背番号32)の第1打席の2球目はファウルになる</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/203321504-11a82280-d2d6-47d0-9fa1-cf87df848938.JPG" alt="9回表から打席に立った、北海道日本ハムファイターズ・谷内亮太選手(背番号32)の第1打席の2球目はファウルになる" loading="lazy"><p class="slider-text5">9回表から打席に立った、北海道日本ハムファイターズ・谷内亮太選手(背番号32)の第1打席の2球目はファウルになる</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/203321507-f3deba62-34c3-48f9-ac45-522092b5a891.JPG" alt="9回表から打席に立った、北海道日本ハムファイターズ・谷内亮太選手(背番号32)の第1打席の2球目はファウルになる" loading="lazy"><p class="slider-text5">9回表から打席に立った、北海道日本ハムファイターズ・谷内亮太選手(背番号32)の第1打席の2球目はファウルになる</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/203321508-c504a3ef-dc8d-44c7-8487-bfa3f45977a5.JPG" alt="9回表から打席に立った、北海道日本ハムファイターズ・谷内亮太選手(背番号32)の第1打席の2球目はファウルになる" loading="lazy"><p class="slider-text5">9回表から打席に立った、北海道日本ハムファイターズ・谷内亮太選手(背番号32)の第1打席の2球目はファウルになる</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/203321512-ef85d922-877a-47e3-b7d8-5d0ca1e5ff42.JPG" alt="9回表から打席に立った、北海道日本ハムファイターズ・谷内亮太選手(背番号32)の第1打席の2球目はファウルになる" loading="lazy"><p class="slider-text5">9回表から打席に立った、北海道日本ハムファイターズ・谷内亮太選手(背番号32)の第1打席の2球目はファウルになる</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/203321517-ad9e1898-f3d7-4737-a099-e70410fd2db4.JPG" alt="9回表から打席に立った、北海道日本ハムファイターズ・谷内亮太選手(背番号32)の第1打席の2球目はファウルになる" loading="lazy"><p class="slider-text5">9回表から打席に立った、北海道日本ハムファイターズ・谷内亮太選手(背番号32)の第1打席の2球目はファウルになる</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/203321523-6b11d853-b498-4487-bfce-a5de9a902568.JPG" alt="9回表から打席に立った、北海道日本ハムファイターズ・谷内亮太選手(背番号32)の第1打席の2球目はファウルになる" loading="lazy"><p class="slider-text5">9回表から打席に立った、北海道日本ハムファイターズ・谷内亮太選手(背番号32)の第1打席の2球目はファウルになる</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/203321525-928b1ea5-8a39-4dfd-852f-35b9e196a713.JPG" alt="9回表から打席に立った、北海道日本ハムファイターズ・谷内亮太選手(背番号32)の第1打席の2球目はファウルになる" loading="lazy"><p class="slider-text5">9回表から打席に立った、北海道日本ハムファイターズ・谷内亮太選手(背番号32)の第1打席の2球目はファウルになる</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/203321527-db43a099-f234-44af-bb4a-27a28e5dfa1f.JPG" alt="9回表から打席に立った、北海道日本ハムファイターズ・谷内亮太選手(背番号32)の第1打席の2球目はファウルになる" loading="lazy"><p class="slider-text5">9回表から打席に立った、北海道日本ハムファイターズ・谷内亮太選手(背番号32)の第1打席の2球目はファウルになる</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/203321492-79775ab4-bb93-46a2-86d6-cd1dc2d58e41.JPG" alt="9回表から打席に立った、北海道日本ハムファイターズ・谷内亮太選手(背番号32)の第1打席の2球目はファウルになる" loading="lazy"><p class="slider-text5">9回表から打席に立った、北海道日本ハムファイターズ・谷内亮太選手(背番号32)の第1打席の2球目はファウルになる</p></li>
+</ul>
+</div>
+
+<div style="text-align: center;">
+<ul class="slider">
+<li><img src="https://user-images.githubusercontent.com/20723919/203322068-e832fb61-ffdb-4c06-81d4-adc9e54f1318.JPG" alt="9回表から打席に立った、北海道日本ハムファイターズ・谷内亮太選手(背番号32)の第1打席の6球目は見逃し三振になって3アウトになる" loading="lazy"><p class="slider-text5">9回表から打席に立った、北海道日本ハムファイターズ・谷内亮太選手(背番号32)の第1打席の6球目は見逃し三振になって3アウトになる</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/203322083-dca53351-3521-46dc-92e8-39e0ada42140.JPG" alt="9回表から打席に立った、北海道日本ハムファイターズ・谷内亮太選手(背番号32)の第1打席の6球目は見逃し三振になって3アウトになる" loading="lazy"><p class="slider-text5">9回表から打席に立った、北海道日本ハムファイターズ・谷内亮太選手(背番号32)の第1打席の6球目は見逃し三振になって3アウトになる</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/203322088-ca7d61a1-63cf-4146-ab0e-3de809c78916.JPG" alt="9回表から打席に立った、北海道日本ハムファイターズ・谷内亮太選手(背番号32)の第1打席の6球目は見逃し三振になって3アウトになる" loading="lazy"><p class="slider-text5">9回表から打席に立った、北海道日本ハムファイターズ・谷内亮太選手(背番号32)の第1打席の6球目は見逃し三振になって3アウトになる</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/203322093-3d00d5c3-cad2-4ac7-8220-cde86073b110.JPG" alt="9回表から打席に立った、北海道日本ハムファイターズ・谷内亮太選手(背番号32)の第1打席の6球目は見逃し三振になって3アウトになる" loading="lazy"><p class="slider-text5">9回表から打席に立った、北海道日本ハムファイターズ・谷内亮太選手(背番号32)の第1打席の6球目は見逃し三振になって3アウトになる</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/203322098-6eaf0857-ddd0-4297-84e2-a242c272dd1c.JPG" alt="9回表から打席に立った、北海道日本ハムファイターズ・谷内亮太選手(背番号32)の第1打席の6球目は見逃し三振になって3アウトになる" loading="lazy"><p class="slider-text5">9回表から打席に立った、北海道日本ハムファイターズ・谷内亮太選手(背番号32)の第1打席の6球目は見逃し三振になって3アウトになる</p></li>
+</ul>
+</div>
+
 <div style="text-align: center;"><p><a href="https://ruindig.github.io/pages/photo-gallery"><<</a> <a href="https://ruindig.github.io/pages/photo-gallery-2"><button style="width:24px; height:24px; text-align:center;"><span style="color:blue; font-size:17px;">2</span></button></a> - 3 - <a href="https://ruindig.github.io/pages/photo-gallery-4"><button style="width:24px; height:24px; text-align:center;"><span style="color:blue; font-size:17px;">4</span></button></a> <a href="https://ruindig.github.io/pages/photo-gallery-6">>></a></p></div>
 
 <div style="text-align: center; font-size:17px;"><p><strong>3/6</strong></p></div>
