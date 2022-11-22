@@ -2,7 +2,7 @@
 title: 写真ギャラリー5/Photo gallery 5
 ---
 
-# 写真ギャラリー5
+# 写真ギャラリー5/Photo gallery 5
 
 ### 渋谷スカイ SHIBUYA SKY
 
