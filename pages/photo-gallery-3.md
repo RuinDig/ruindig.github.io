@@ -2,7 +2,7 @@
 title: 写真ギャラリー3/Photo gallery 3
 ---
 
-# 写真ギャラリー3
+# 写真ギャラリー3/Photo gallery 3
 
 ### 日本のプロ野球 - NPB
 
