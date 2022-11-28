@@ -38,6 +38,8 @@ title: Home
 
 <div style="text-align:center"><p><a href="https://ruindig.github.io/pages/london"><button style="width:138px; height:60px;"><span style="color:blue; font-size:17px;">London</span></button></a></p></div>
 
+<div style="text-align:center"><p><a href="https://www.amazon.co.jp/hz/wishlist/ls/9FWMM626RKNI"><button style="width:138px; height:60px;"><span style="color:blue; font-size:17px;">Amazon欲しい物リスト</span></button></a></p></div>
+
 <div style="text-align:center"><p><a href="https://twitter.com/RuinDig" class="twitter-follow-button" data-show-count="false">Follow @RuinDig</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p></div>
 
 <div style="text-align:center"><p><a class="github-button" href="https://github.com/RuinDig" data-color-scheme="no-preference: light; light: light_high_contrast; dark: light;" aria-label="Follow @RuinDig on GitHub">Follow @RuinDig</a><script async defer src="https://buttons.github.io/buttons.js"></script></p></div>
