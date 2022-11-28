@@ -44,4 +44,8 @@ title: Home
 
 <div style="text-align:center"><p><a class="github-button" href="https://github.com/RuinDig" data-color-scheme="no-preference: light; light: light_high_contrast; dark: light;" aria-label="Follow @RuinDig on GitHub">Follow @RuinDig</a><script async defer src="https://buttons.github.io/buttons.js"></script></p></div>
 
+<li>If you want to support as tip, you can tip via <a href="https://paypal.me/ruindig/1000">PayPal</a>.</li>
+<li>投げ銭がしたい場合は<a href="https://paypal.me/ruindig/1000">PayPal</a>から投げ銭ができます。</li>
+<li><a href="https://www.yggdore.com">ユグドア</a>のチップ送金サービスでの投げ銭ができます。送金先のURLに<code>https://ruindig.github.io</code>を入力してください。<a href="https://www.yggdore.com/flow/sendbank/">(使い方はこちら)</a></li>
+
 <script src="https://codoc.jp/js/cms.js" data-css="blue" data-usercode="c9TQJjS1dA" charset="UTF-8" defer></script><div id="codoc-entry-8FY1GS5i0A" class="codoc-entries" data-without-body="1" data-support-button-text="RuinDigに100円から投げ銭/Press to Tip" data-show-like="0" data-show-about-codoc="0" data-support-message="よろしければここから投げ銭ができます。日々の活力になります。Optional: You can tip here from 100JPY. Tip here will be a daily energy."></div>
