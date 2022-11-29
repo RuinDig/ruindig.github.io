@@ -88,4 +88,8 @@ I lived in London, Great Britain, from July 2002 to March 2007, for 4 years and 
 
 <div style="text-align: center;"><a href="https://creativecommons.org/licenses/by/4.0/deed.ja"><img src="https://user-images.githubusercontent.com/20723919/145936543-577c7705-90e2-4d56-ad5d-26b0fbcea02d.png" loading="lazy"></a></div>
 
+<div style="text-align:center"><p><a href="https://twitter.com/RuinDig" class="twitter-follow-button" data-show-count="false">Follow @RuinDig</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p></div>
+
+<div style="text-align:center"><p><a class="github-button" href="https://github.com/RuinDig" data-color-scheme="no-preference: light; light: light_high_contrast; dark: light;" aria-label="Follow @RuinDig on GitHub">Follow @RuinDig</a><script async defer src="https://buttons.github.io/buttons.js"></script></p></div>
+
 <script src="https://codoc.jp/js/cms.js" data-css="blue" data-usercode="c9TQJjS1dA" charset="UTF-8" defer></script><div id="codoc-entry-8FY1GS5i0A" class="codoc-entries" data-without-body="1" data-support-button-text="RuinDigに100円から投げ銭/Press to Tip" data-show-like="0" data-show-about-codoc="0" data-support-message="よろしければここから投げ銭ができます。日々の活力になります。Optional: You can tip here from 100JPY. Tip here will be a daily energy."></div>
