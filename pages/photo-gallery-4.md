@@ -220,4 +220,8 @@ title: 写真ギャラリー4/Photo gallery 4
 
 <p>You can download videos and images without any fees at <a href="https://archive.org/details/@ruindig?and[]=creator%3A%22ruindig%2Fyuki+uchida%22&sort=-date&and[]=mediatype%3A%22image%22&and[]=mediatype%3A%22movies%22">RuinDig's Internet Archive uploads</a>. Basically, you can use videos and images with credit "<a href="https://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a> - RuinDig/Yuki Uchida". Check each videos and images details.</p>
 
+<div style="text-align:center"><p><a href="https://twitter.com/RuinDig" class="twitter-follow-button" data-show-count="false">Follow @RuinDig</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p></div>
+
+<div style="text-align:center"><p><a class="github-button" href="https://github.com/RuinDig" data-color-scheme="no-preference: light; light: light_high_contrast; dark: light;" aria-label="Follow @RuinDig on GitHub">Follow @RuinDig</a><script async defer src="https://buttons.github.io/buttons.js"></script></p></div>
+
 <script src="https://codoc.jp/js/cms.js" data-css="blue" data-usercode="c9TQJjS1dA" charset="UTF-8" defer></script><div id="codoc-entry-8FY1GS5i0A" class="codoc-entries" data-without-body="1" data-support-button-text="RuinDigに100円から投げ銭/Press to Tip" data-show-like="0" data-show-about-codoc="0" data-support-message="よろしければここから投げ銭ができます。日々の活力になります。Optional: You can tip here from 100JPY. Tip here will be a daily energy."></div>
