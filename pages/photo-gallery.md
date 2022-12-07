@@ -2,9 +2,9 @@
 title: 写真ギャラリー1/Photo gallery 1
 ---
 
-# 写真ギャラリー1/Photo gallery 1
+<h1>写真ギャラリー1/Photo gallery 1</h1>
 
-### 国立競技場
+<h3>国立競技場</h3>
 
 <div style="text-align: center;">
 <ul class="slider">
@@ -26,7 +26,7 @@ title: 写真ギャラリー1/Photo gallery 1
 
 <hr>
 
-### X Games Chiba 2022 - Skateboard
+<h3>X Games Chiba 2022 - Skateboard</h3>
 
 <div style="text-align: center;">
 <ul class="slider">
@@ -172,9 +172,9 @@ title: 写真ギャラリー1/Photo gallery 1
 
 <hr>
 
-### ダイヤモンド富士
+<h3>ダイヤモンド富士</h3>
 
-**ダイヤモンド富士 千葉県・美浜大橋 2021.2.21**
+<p><strong>ダイヤモンド富士 千葉県・美浜大橋 2021.2.21</strong</p>
 
 <div style="text-align: center;">
 <ul class="slider">
