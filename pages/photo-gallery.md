@@ -174,7 +174,7 @@ title: 写真ギャラリー1/Photo gallery 1
 
 <h3>ダイヤモンド富士</h3>
 
-<p><strong>ダイヤモンド富士 千葉県・美浜大橋 2021.2.21</strong</p>
+<p><strong>ダイヤモンド富士 千葉県・美浜大橋 2021.2.21</strong></p>
 
 <div style="text-align: center;">
 <ul class="slider">
