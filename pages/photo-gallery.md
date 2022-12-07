@@ -1,6 +1,4 @@
----
-title: 写真ギャラリー1/Photo gallery 1
----
+<head>title: 写真ギャラリー1/Photo gallery 1</head>
 
 <h1>写真ギャラリー1/Photo gallery 1</h1>
 
