@@ -18,9 +18,9 @@ title: Home
 
 <div style="text-align:center"><p><a href="https://github.com/RuinDig"><button style="width:138px; height:60px;"><span style="color:blue; font-size:17px;">GitHub</span></button></a></p></div>
 
-<div style="text-align:center"><p><a href="https://archive.org/details/@ruindig"><button style="width:138px; height:60px;"><span style="color:blue; font-size:17px;">Internet Archive</span></button></a></p></div>
-
 <div style="text-align:center"><p><a href="https://www.linkedin.com/in/ruindig-yukiuchida"><button style="width:138px; height:60px;"><span style="color:blue; font-size:17px;">LinkedIn</span></button></a></p></div>
+
+<div style="text-align:center"><p><a href="https://archive.org/details/@ruindig"><button style="width:138px; height:60px;"><span style="color:blue; font-size:17px;">Internet Archive</span></button></a></p></div>
 
 <div style="text-align:center"><p><a href="https://commons.wikimedia.org/w/index.php?title=Special:ListFiles/RuinDig"><button style="width:138px; height:60px;"><span style="color:blue; font-size:17px;">Wikimedia Commons uploads</span></button></a></p></div>
 
