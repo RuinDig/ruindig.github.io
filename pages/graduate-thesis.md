@@ -48,11 +48,11 @@ title: 卒業論文/学士論文
 
 <strong>PDF一覧</strong>
 
-[論文全文](https://github.com/RuinDig/ruindig.github.io/blob/main/files/Full-text_JA_RuinDig-YukiUchida_graduate-thesis_Ingress-sightseeing.pdf)
+[論文全文](https://ruindig.github.io/files/Full-text_JA_RuinDig-YukiUchida_graduate-thesis_Ingress-sightseeing.pdf)
 
-[スライド](https://github.com/RuinDig/ruindig.github.io/blob/main/files/Slide_JA_RuinDig-YukiUchida_graduate-thesis_Ingress-sightseeing.pdf)
+[スライド](https://ruindig.github.io/files/Slide_JA_RuinDig-YukiUchida_graduate-thesis_Ingress-sightseeing.pdf)
 
-[論文要旨](https://github.com/RuinDig/ruindig.github.io/blob/files/Abstract_JA_RuinDig-YukiUchida_graduate-thesis_Ingress-sightseeing.pdf)
+[論文要旨](https://ruindig.github.io/files/Abstract_JA_RuinDig-YukiUchida_graduate-thesis_Ingress-sightseeing.pdf)
 
 <strong>外部ページ</strong>
 
