@@ -33,6 +33,21 @@ title: 写真ギャラリー7/Photo gallery 7
 </ul>
 </div>
 
+<div style="text-align: center;">
+<ul class="slider">
+<li><img src="https://user-images.githubusercontent.com/20723919/210049200-77467941-362e-43bd-8125-8a0e47780327.JPG" alt="国立競技場内の売店"><p class="slider-text4">国立競技場内の売店</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/210049201-a0dc1c5a-4b8a-4800-90a6-a269419aed06.JPG" alt="国立競技場内の売店"><p class="slider-text4">国立競技場内の売店</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/210049202-dc3f01e2-30da-4e34-a15a-09f024159704.JPG" alt="国立競技場内の売店"><p class="slider-text4">国立競技場内の売店</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/210049203-70721861-53da-45f5-bc4b-5cd8f0489ff2.JPG" alt="国立競技場内の売店"><p class="slider-text4">国立競技場内の売店</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/210049204-1c1a8f0f-d1fd-4643-80a8-89b44b07b7c4.JPG" alt="国立競技場内の売店"><p class="slider-text4">国立競技場内の売店</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/210049207-5b69e66d-860e-4252-a407-409c2fca4972.JPG" alt="国立競技場内の売店"><p class="slider-text4">国立競技場内の売店</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/210049208-ee35362e-63a6-4e10-a6fa-dba0c0b0f750.JPG" alt="国立競技場内の売店"><p class="slider-text4">国立競技場内の売店</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/210049209-05243dd7-6f29-41c9-b8a6-06f571c9a268.JPG" alt="国立競技場内の売店"><p class="slider-text4">国立競技場内の売店</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/210049210-d6fe1b2d-cb53-4c48-a8de-ed469dfcc371.JPG" alt="国立競技場内の売店"><p class="slider-text4">国立競技場内の売店</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/210049211-6b9cd6f7-0aef-4b30-8b4c-4f62b9910dfb.JPG" alt="国立競技場内の売店"><p class="slider-text4">国立競技場内の売店</p></li>
+</ul>
+</div>
+
 <div style="text-align:center;"><p><a href="https://ruindig.github.io/pages/photo-gallery"><<</a> <a href="https://ruindig.github.io/pages/photo-gallery-5"><button style="width:24px; height:24px; text-align:center;"><span style="color:blue; font-size:17px;">5</span></button></a> - <a href="https://ruindig.github.io/pages/photo-gallery-6"><button style="width:24px; height:24px; text-align:center;"><span style="color:blue; font-size:17px;">6</span></button></a> - 7 >></p></div>
 
 <div style="text-align: center;"><p><strong>7/7</strong></p></div>
