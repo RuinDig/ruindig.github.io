@@ -204,7 +204,7 @@ title: 写真ギャラリー4/Photo gallery 4
 </ul>
 </div>
 
-<div style="text-align: center;"><p><a href="https://ruindig.github.io/pages/photo-gallery"><<</a> <a href="https://ruindig.github.io/pages/photo-gallery-3"><button style="width:24px; height:24px; text-align:center;"><span style="color:blue; font-size:17px;">3</span></button></a> - 4 - <a href="https://ruindig.github.io/pages/photo-gallery-5"><button style="width:24px; height:24px; text-align:center;"><span style="color:blue; font-size:17px;">5</span></button></a> <a href="https://ruindig.github.io/pages/photo-gallery-6">>></a></p></div>
+<div style="text-align: center;"><p><a href="https://ruindig.github.io/pages/photo-gallery"><<</a> <a href="https://ruindig.github.io/pages/photo-gallery-3"><button style="width:24px; height:24px; text-align:center;"><span style="color:blue; font-size:17px;">3</span></button></a> - 4 - <a href="https://ruindig.github.io/pages/photo-gallery-5"><button style="width:24px; height:24px; text-align:center;"><span style="color:blue; font-size:17px;">5</span></button></a> <a href="https://ruindig.github.io/pages/photo-gallery-7">>></a></p></div>
 
 <div style="text-align: center; font-size:17px;"><p><strong>4/6</strong></p></div>
 
