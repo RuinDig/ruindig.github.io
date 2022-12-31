@@ -87,8 +87,8 @@ title: 写真ギャラリー7/Photo gallery 7
 
 <div style="text-align: center;">
 <ul class="slider">
-<li><img src="https://user-images.githubusercontent.com/20723919/210131467-522be85d-b0a6-462e-8cbf-32231205cb9c.JPG" alt="フィールド左右のカメラマン席"><p class="slider-text4">フィールド左右のカメラマン席</p></li>
-<li><img src="https://user-images.githubusercontent.com/20723919/210131468-9e9b996e-e468-4161-81a8-27323743d9e7.JPG" alt="フィールド左右のカメラマン席"><p class="slider-text4">フィールド左右のカメラマン席</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/210131467-522be85d-b0a6-462e-8cbf-32231205cb9c.JPG" alt="カメラマンと撮影スタッフ"><p class="slider-text4">カメラマンと撮影スタッフ</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/210131468-9e9b996e-e468-4161-81a8-27323743d9e7.JPG" alt="スタッフ"><p class="slider-text4">スタッフ</p></li>
 <li><img src="https://user-images.githubusercontent.com/20723919/210131469-11e1a215-4fdb-43f6-aafd-c943388c3948.JPG" alt="フィールド左右のカメラマン席"><p class="slider-text4">フィールド左右のカメラマン席</p></li>
 <li><img src="https://user-images.githubusercontent.com/20723919/210131470-a39089c8-96b5-416c-8198-0408db624a1e.JPG" alt="フィールド左右のカメラマン席"><p class="slider-text4">フィールド左右のカメラマン席</p></li>
 <li><img src="https://user-images.githubusercontent.com/20723919/210131471-05cd8e4c-b708-49b1-896f-3a6d367177ba.JPG" alt="フィールド左右のカメラマン席"><p class="slider-text4">フィールド左右のカメラマン席</p></li>
