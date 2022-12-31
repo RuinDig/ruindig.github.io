@@ -67,9 +67,9 @@ title: 写真ギャラリー7/Photo gallery 7
 <li><img src="https://user-images.githubusercontent.com/20723919/210125094-fa0574e2-c64b-4eb1-93cb-7800ac2f98f5.JPG" alt="試合前のウォーミングアップ"><p class="slider-text4">試合前のウォーミングアップ</p></li>
 <li><img src="https://user-images.githubusercontent.com/20723919/210125096-7ef0ad42-98d0-464a-ab98-fde8f596ae93.JPG" alt="試合前のウォーミングアップ"><p class="slider-text4">試合前のウォーミングアップ</p></li>
 <li><img src="https://user-images.githubusercontent.com/20723919/210125097-4b6ff6d0-6927-42ea-b73e-87be192fea0c.JPG" alt="試合前のウォーミングアップ"><p class="slider-text4">試合前のウォーミングアップ</p></li>
-<li><img src="https://user-images.githubusercontent.com/20723919/210125098-85fe86f1-19c2-49b7-a082-f17cbdab4eb8.JPG" alt="試合前のウォーミングアップ、フィールドに姿を見せるニュージーランド代表のイアン・フォスター監督"><p class="slider-text4">試合前のウォーミングアップ、フィールドに姿を見せるニュージーランド代表のイアン・フォスター監督</p></li>
 <li><img src="https://user-images.githubusercontent.com/20723919/210125099-2cf5cc32-e7fa-4d7d-9d58-4cb5f2888498.JPG" alt="試合前のウォーミングアップ"><p class="slider-text4">試合前のウォーミングアップ</p></li>
-<li><img src="https://user-images.githubusercontent.com/20723919/210125100-e94f92ec-896f-46c9-b3a6-3c8e4b114975.JPG" alt="試合前のウォーミングアップ、選手にボールを蹴って返す、ニュージーランド代表のイアン・フォスター監督"><p class="slider-text4">試合前のウォーミングアップ、選手にボールを蹴って返す、ニュージーランド代表のイアン・フォスター監督</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/210125098-85fe86f1-19c2-49b7-a082-f17cbdab4eb8.JPG" alt="試合前のウォーミングアップその1 試合前のウォーミングアップ、フィールドに姿を見せるニュージーランド代表のイアン・フォスター監督"><p class="slider-text4">試合前のウォーミングアップその1 試合前のウォーミングアップ、フィールドに姿を見せるニュージーランド代表のイアン・フォスター監督</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/210125100-e94f92ec-896f-46c9-b3a6-3c8e4b114975.JPG" alt="試合前のウォーミングアップその1 試合前のウォーミングアップ、選手にボールを蹴って返す、ニュージーランド代表のイアン・フォスター監督"><p class="slider-text4">試合前のウォーミングアップその1 試合前のウォーミングアップ、選手にボールを蹴って返す、ニュージーランド代表のイアン・フォスター監督</p></li>
 </ul>
 </div>
 
@@ -96,6 +96,20 @@ title: 写真ギャラリー7/Photo gallery 7
 <li><img src="https://user-images.githubusercontent.com/20723919/210131474-8d10063e-2b6a-4df4-9084-f7cc896e7a0a.JPG" alt="フィールド左右のカメラマン席"><p class="slider-text4">フィールド左右のカメラマン席</p></li>
 <li><img src="https://user-images.githubusercontent.com/20723919/210131475-b9480f7d-2068-40af-bae9-56e75913eace.JPG" alt="フィールド左右のカメラマン席"><p class="slider-text4">フィールド左右のカメラマン席</p></li>
 <li><img src="https://user-images.githubusercontent.com/20723919/210131476-82ee2eff-cdd2-47f2-9384-799d251cc870.JPG" alt="フィールド左右のカメラマン席"><p class="slider-text4">フィールド左右のカメラマン席</p></li>
+</ul>
+</div>
+
+<div style="text-align: center;">
+<ul class="slider">
+<li><img src="https://user-images.githubusercontent.com/20723919/210136485-17c9f2da-0e65-4e58-a719-3d001e656388.JPG" alt="試合前の練習風景"><p class="slider-text4">試合前の練習風景</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/210136488-443eabd1-51d4-44df-8140-6477e4c2a17e.JPG" alt="試合前の練習風景"><p class="slider-text4">試合前の練習風景</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/210136489-e04cc0a8-2194-449f-9bcc-b7028f0e173f.JPG" alt="試合前の練習風景"><p class="slider-text4">試合前の練習風景</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/210136491-3a2a4f1b-19a2-4dc0-82e2-a07a6cf03b95.JPG" alt="試合前の練習風景"><p class="slider-text4">試合前の練習風景</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/210136492-6e6f2d73-e96b-4c1d-a886-b1297820a3d6.JPG" alt="試合前の練習風景"><p class="slider-text4">試合前の練習風景</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/210136493-73f2db59-c2be-4800-9af1-5e45b7a0a727.JPG" alt="試合前の練習風景"><p class="slider-text4">試合前の練習風景</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/210136496-d522d00a-ba3e-422f-bba5-1b37218078c3.JPG" alt="試合前の練習風景"><p class="slider-text4">試合前の練習風景</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/210136497-e77ed3ec-71ef-440f-8650-dc5b49d29aa5.JPG" alt="試合前の練習風景"><p class="slider-text4">試合前の練習風景</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/210136498-c8caa927-7e51-4a7c-a699-f2b7bd769fc8.JPG" alt="試合前の練習風景"><p class="slider-text4">試合前の練習風景</p></li>
 </ul>
 </div>
 
