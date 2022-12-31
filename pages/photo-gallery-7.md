@@ -48,6 +48,18 @@ title: 写真ギャラリー7/Photo gallery 7
 </ul>
 </div>
 
+<div style="text-align: center;">
+<ul class="slider">
+<li><img src="https://user-images.githubusercontent.com/20723919/210124768-dd16d376-7ffb-4658-bc9e-b25ccff42d7c.JPG" alt="親子ラグビー教室"><p class="slider-text4">親子ラグビー教室</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/210124770-313542bc-51a2-4327-b932-7d52c61d1731.JPG" alt="親子ラグビー教室"><p class="slider-text4">親子ラグビー教室</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/210124771-bb070442-f3c3-4a66-b9bc-3fd6607307a3.JPG" alt="親子ラグビー教室"><p class="slider-text4">親子ラグビー教室</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/210124772-654e423d-0e13-497b-930d-cac85b3e423b.JPG" alt="親子ラグビー教室"><p class="slider-text4">親子ラグビー教室</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/210124773-73e66934-0b16-4a3e-95dd-4e59be9c2583.JPG" alt="親子ラグビー教室"><p class="slider-text4">親子ラグビー教室</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/210124774-695be633-3496-4896-82fb-d8c6a65199cb.JPG" alt="親子ラグビー教室"><p class="slider-text4">親子ラグビー教室</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/210124776-36cab918-d35e-47fd-99df-8c91d1963822.JPG" alt="親子ラグビー教室"><p class="slider-text4">親子ラグビー教室</p></li>
+</ul>
+</div>
+
 <div style="text-align:center;"><p><a href="https://ruindig.github.io/pages/photo-gallery"><<</a> <a href="https://ruindig.github.io/pages/photo-gallery-5"><button style="width:24px; height:24px; text-align:center;"><span style="color:blue; font-size:17px;">5</span></button></a> - <a href="https://ruindig.github.io/pages/photo-gallery-6"><button style="width:24px; height:24px; text-align:center;"><span style="color:blue; font-size:17px;">6</span></button></a> - 7 >></p></div>
 
 <div style="text-align: center;"><p><strong>7/7</strong></p></div>
