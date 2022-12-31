@@ -4,8 +4,6 @@ title: 写真ギャラリー7/Photo gallery 7
 
 # 写真ギャラリー7/Photo gallery 7
 
-<p><strong>更新中 Still updating.</strong></p>
-
 <h3>ラグビー日本代表対ニュージーランド代表テストマッチ 2022.10.29</h3>
 
 <div style="text-align: center;">
