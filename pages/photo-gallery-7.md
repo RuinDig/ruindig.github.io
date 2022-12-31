@@ -60,6 +60,21 @@ title: 写真ギャラリー7/Photo gallery 7
 </ul>
 </div>
 
+<div style="text-align: center;">
+<ul class="slider">
+<li><img src="https://user-images.githubusercontent.com/20723919/210125089-8aa7f967-72f4-4d23-9f6a-49fb06f53754.JPG" alt="カメラとスタッフ"><p class="slider-text4">カメラとスタッフ</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/210125091-ff4456dd-8a89-45b0-a264-9924dad4f20f.JPG" alt="ゴールポスト"><p class="slider-text4">ゴールポスト</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/210125092-7579799e-5fbe-48a7-9adc-64efe93cbd8b.JPG" alt="試合前のウォーミングアップ"><p class="slider-text4">試合前のウォーミングアップ</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/210125093-c59d90e9-5197-47ec-b1d0-12a5ef21416b.JPG" alt="試合前のウォーミングアップ"><p class="slider-text4">試合前のウォーミングアップ</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/210125094-fa0574e2-c64b-4eb1-93cb-7800ac2f98f5.JPG" alt="試合前のウォーミングアップ"><p class="slider-text4">試合前のウォーミングアップ</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/210125096-7ef0ad42-98d0-464a-ab98-fde8f596ae93.JPG" alt="試合前のウォーミングアップ"><p class="slider-text4">試合前のウォーミングアップ</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/210125097-4b6ff6d0-6927-42ea-b73e-87be192fea0c.JPG" alt="試合前のウォーミングアップ"><p class="slider-text4">試合前のウォーミングアップ</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/210125098-85fe86f1-19c2-49b7-a082-f17cbdab4eb8.JPG" alt="試合前のウォーミングアップ、フィールドに姿を見せるニュージーランド代表のイアン・フォスター監督"><p class="slider-text4">試合前のウォーミングアップ、フィールドに姿を見せるニュージーランド代表のイアン・フォスター監督</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/210125099-2cf5cc32-e7fa-4d7d-9d58-4cb5f2888498.JPG" alt="試合前のウォーミングアップ"><p class="slider-text4">試合前のウォーミングアップ</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/210125100-e94f92ec-896f-46c9-b3a6-3c8e4b114975.JPG" alt="試合前のウォーミングアップ、選手にボールを蹴って返す、ニュージーランド代表のイアン・フォスター監督"><p class="slider-text4">試合前のウォーミングアップ、選手にボールを蹴って返す、ニュージーランド代表のイアン・フォスター監督</p></li>
+</ul>
+</div>
+
 <div style="text-align:center;"><p><a href="https://ruindig.github.io/pages/photo-gallery"><<</a> <a href="https://ruindig.github.io/pages/photo-gallery-5"><button style="width:24px; height:24px; text-align:center;"><span style="color:blue; font-size:17px;">5</span></button></a> - <a href="https://ruindig.github.io/pages/photo-gallery-6"><button style="width:24px; height:24px; text-align:center;"><span style="color:blue; font-size:17px;">6</span></button></a> - 7 >></p></div>
 
 <div style="text-align: center;"><p><strong>7/7</strong></p></div>
