@@ -32,7 +32,7 @@ title: Home
 
 <div style="text-align:center"><p><a href="https://ruindig.github.io/pages/blog-articles"><button style="width:138px; height:60px;"><span style="color:blue; font-size:17px;">ブログ記事ピックアップ</span></button></a></p></div>
 
-<div style="text-align:center"><p><a href="https://ruindig.github.io/pages/photo-gallery"><button style="width:138px; height:60px;"><span style="color:blue; font-size:17px;">写真ギャラリー<br>Photo gallery</span></button></a></p></div>
+<div style="text-align:center"><p><a href="https://ruindig.github.io/pages/photo-gallery-1"><button style="width:138px; height:60px;"><span style="color:blue; font-size:17px;">写真ギャラリー<br>Photo gallery</span></button></a></p></div>
 
 <div style="text-align:center"><p><a href="https://ruindig.github.io/pages/video"><button style="width:138px; height:60px;"><span style="color:blue; font-size:17px;">動画ギャラリー<br>Video gallery</span></button></a></p></div>
 
