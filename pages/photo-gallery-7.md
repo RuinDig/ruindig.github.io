@@ -73,6 +73,18 @@ title: 写真ギャラリー7/Photo gallery 7
 </ul>
 </div>
 
+<div style="text-align: center;">
+<ul class="slider">
+<li><img src="https://user-images.githubusercontent.com/20723919/210126508-f960265b-bc51-495b-99d7-1775205158a4.JPG" alt="放送席付近"><p class="slider-text4">放送席付近</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/210126510-ee3880b2-ed1a-4065-99d5-217c963e6ed6.JPG" alt="放送席付近"><p class="slider-text4">放送席付近</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/210126511-136b6f6f-81cf-4b97-9fa7-1c9200fae9ee.JPG" alt="放送席付近"><p class="slider-text4">放送席付近</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/210126513-c053db74-c012-45b4-a9bf-d3d4b3b7d1ac.JPG" alt="貴賓席とリボンボード"><p class="slider-text4">貴賓席とリボンボード</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/210126515-0051a843-9f70-408f-9f55-494509a89a15.JPG" alt="リボンボード"><p class="slider-text4">リボンボード</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/210126517-6fa41ba6-b275-45ff-ace3-be988986cc5f.JPG" alt="リボンボード"><p class="slider-text4">リボンボード</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/210126518-0fecdb80-4556-44ab-8e91-fc0e4d705230.JPG" alt="リボンボード"><p class="slider-text4">リボンボード</p></li>
+</ul>
+</div>
+
 <div style="text-align:center;"><p><a href="https://ruindig.github.io/pages/photo-gallery"><<</a> <a href="https://ruindig.github.io/pages/photo-gallery-5"><button style="width:24px; height:24px; text-align:center;"><span style="color:blue; font-size:17px;">5</span></button></a> - <a href="https://ruindig.github.io/pages/photo-gallery-6"><button style="width:24px; height:24px; text-align:center;"><span style="color:blue; font-size:17px;">6</span></button></a> - 7 >></p></div>
 
 <div style="text-align: center;"><p><strong>7/7</strong></p></div>
