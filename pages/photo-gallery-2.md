@@ -90,7 +90,7 @@ title: 写真ギャラリー2/Photo gallery 2
 </ul>
 </div>
 
-<div style="text-align: center;"><p><a href="https://ruindig.github.io/pages/photo-gallery"><<</a> <a href="https://ruindig.github.io/pages/photo-gallery"><button style="width:26px; height:26px; text-align:center;"><span style="color:blue; font-size:17px;">1</span></button></a> - 2 - <a href="https://ruindig.github.io/pages/photo-gallery-3"><button style="width:26px; height:26px; text-align:center;"><span style="color:blue; font-size:17px;">3</span></button></a> <a href="https://ruindig.github.io/pages/photo-gallery-7">>></a></p></div>
+<div style="text-align: center;"><p><a href="https://ruindig.github.io/pages/photo-gallery-1"><<</a> <a href="https://ruindig.github.io/pages/photo-gallery-1"><button style="width:26px; height:26px; text-align:center;"><span style="color:blue; font-size:17px;">1</span></button></a> - 2 - <a href="https://ruindig.github.io/pages/photo-gallery-3"><button style="width:26px; height:26px; text-align:center;"><span style="color:blue; font-size:17px;">3</span></button></a> <a href="https://ruindig.github.io/pages/photo-gallery-7">>></a></p></div>
 
 <div style="text-align: center;"><p><strong>2/7</strong></p></div>
 
