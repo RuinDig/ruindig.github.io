@@ -85,6 +85,20 @@ title: 写真ギャラリー7/Photo gallery 7
 </ul>
 </div>
 
+<div style="text-align: center;">
+<ul class="slider">
+<li><img src="https://user-images.githubusercontent.com/20723919/210131467-522be85d-b0a6-462e-8cbf-32231205cb9c.JPG" alt="フィールド左右のカメラマン席"><p class="slider-text4">フィールド左右のカメラマン席</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/210131468-9e9b996e-e468-4161-81a8-27323743d9e7.JPG" alt="フィールド左右のカメラマン席"><p class="slider-text4">フィールド左右のカメラマン席</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/210131469-11e1a215-4fdb-43f6-aafd-c943388c3948.JPG" alt="フィールド左右のカメラマン席"><p class="slider-text4">フィールド左右のカメラマン席</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/210131470-a39089c8-96b5-416c-8198-0408db624a1e.JPG" alt="フィールド左右のカメラマン席"><p class="slider-text4">フィールド左右のカメラマン席</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/210131471-05cd8e4c-b708-49b1-896f-3a6d367177ba.JPG" alt="フィールド左右のカメラマン席"><p class="slider-text4">フィールド左右のカメラマン席</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/210131473-f7f2a403-940b-4ffd-9d32-cde4b4182f66.JPG" alt="フィールド左右のカメラマン席"><p class="slider-text4">フィールド左右のカメラマン席</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/210131474-8d10063e-2b6a-4df4-9084-f7cc896e7a0a.JPG" alt="フィールド左右のカメラマン席"><p class="slider-text4">フィールド左右のカメラマン席</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/210131475-b9480f7d-2068-40af-bae9-56e75913eace.JPG" alt="フィールド左右のカメラマン席"><p class="slider-text4">フィールド左右のカメラマン席</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/210131476-82ee2eff-cdd2-47f2-9384-799d251cc870.JPG" alt="フィールド左右のカメラマン席"><p class="slider-text4">フィールド左右のカメラマン席</p></li>
+</ul>
+</div>
+
 <div style="text-align:center;"><p><a href="https://ruindig.github.io/pages/photo-gallery"><<</a> <a href="https://ruindig.github.io/pages/photo-gallery-5"><button style="width:24px; height:24px; text-align:center;"><span style="color:blue; font-size:17px;">5</span></button></a> - <a href="https://ruindig.github.io/pages/photo-gallery-6"><button style="width:24px; height:24px; text-align:center;"><span style="color:blue; font-size:17px;">6</span></button></a> - 7 >></p></div>
 
 <div style="text-align: center;"><p><strong>7/7</strong></p></div>
