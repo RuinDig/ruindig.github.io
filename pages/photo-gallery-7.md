@@ -141,6 +141,16 @@ title: 写真ギャラリー7/Photo gallery 7
 </ul>
 </div>
 
+<div style="text-align: center;">
+<ul class="slider">
+<li><img src="https://user-images.githubusercontent.com/20723919/210164161-30f94596-dc62-4511-bbf2-665ac10730fa.JPG" alt="審判員の試合前のウォーミングアップ風景"><p class="slider-text4">審判員の試合前のウォーミングアップ風景</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/210164162-f4bb31cd-cd1e-40d8-81b3-fbfdc7f486d9.JPG" alt="審判員の試合前のウォーミングアップ風景"><p class="slider-text4">審判員の試合前のウォーミングアップ風景</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/210164163-1654f8c2-aac4-4b69-9eb5-9a672d0cdd55.JPG" alt="審判員の試合前のウォーミングアップ風景"><p class="slider-text4">審判員の試合前のウォーミングアップ風景</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/210164164-8c1d4ec3-f6f7-44ff-84f0-43d44e0af9d3.JPG" alt="審判員の試合前のウォーミングアップ風景"><p class="slider-text4">審判員の試合前のウォーミングアップ風景</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/210164165-e0028b7c-c5f8-4095-8aa8-303e8f2d96e9.JPG" alt="審判員の試合前のウォーミングアップ風景"><p class="slider-text4">審判員の試合前のウォーミングアップ風景</p></li>
+</ul>
+</div>
+
 <div style="text-align:center;"><p><a href="https://ruindig.github.io/pages/photo-gallery-1"><<</a> <a href="https://ruindig.github.io/pages/photo-gallery-5"><button style="width:24px; height:24px; text-align:center;"><span style="color:blue; font-size:17px;">5</span></button></a> - <a href="https://ruindig.github.io/pages/photo-gallery-6"><button style="width:24px; height:24px; text-align:center;"><span style="color:blue; font-size:17px;">6</span></button></a> - 7 >></p></div>
 
 <div style="text-align: center;"><p><strong>7/7</strong></p></div>
