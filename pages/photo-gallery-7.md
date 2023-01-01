@@ -68,8 +68,8 @@ title: 写真ギャラリー7/Photo gallery 7
 <li><img src="https://user-images.githubusercontent.com/20723919/210125096-7ef0ad42-98d0-464a-ab98-fde8f596ae93.JPG" alt="試合前のウォーミングアップ"><p class="slider-text4">試合前のウォーミングアップ</p></li>
 <li><img src="https://user-images.githubusercontent.com/20723919/210125097-4b6ff6d0-6927-42ea-b73e-87be192fea0c.JPG" alt="試合前のウォーミングアップ"><p class="slider-text4">試合前のウォーミングアップ</p></li>
 <li><img src="https://user-images.githubusercontent.com/20723919/210125099-2cf5cc32-e7fa-4d7d-9d58-4cb5f2888498.JPG" alt="試合前のウォーミングアップ"><p class="slider-text4">試合前のウォーミングアップ</p></li>
-<li><img src="https://user-images.githubusercontent.com/20723919/210125098-85fe86f1-19c2-49b7-a082-f17cbdab4eb8.JPG" alt="試合前のウォーミングアップその1 試合前のウォーミングアップ、フィールドに姿を見せるニュージーランド代表のイアン・フォスター監督"><p class="slider-text4">試合前のウォーミングアップその1 試合前のウォーミングアップ、フィールドに姿を見せるニュージーランド代表のイアン・フォスター監督</p></li>
-<li><img src="https://user-images.githubusercontent.com/20723919/210125100-e94f92ec-896f-46c9-b3a6-3c8e4b114975.JPG" alt="試合前のウォーミングアップその1 試合前のウォーミングアップ、選手にボールを蹴って返す、ニュージーランド代表のイアン・フォスター監督"><p class="slider-text4">試合前のウォーミングアップその1 試合前のウォーミングアップ、選手にボールを蹴って返す、ニュージーランド代表のイアン・フォスター監督</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/210125098-85fe86f1-19c2-49b7-a082-f17cbdab4eb8.JPG" alt="試合前のウォーミングアップその1 試合前のウォーミングアップ、フィールドに姿を見せるニュージーランド代表のイアン・フォスターヘッドコーチ"><p class="slider-text4">試合前のウォーミングアップその1 試合前のウォーミングアップ、フィールドに姿を見せるニュージーランド代表のイアン・フォスターヘッドコーチ</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/210125100-e94f92ec-896f-46c9-b3a6-3c8e4b114975.JPG" alt="試合前のウォーミングアップその1 試合前のウォーミングアップ、選手にボールを蹴って返す、ニュージーランド代表のイアン・フォスターヘッドコーチ"><p class="slider-text4">試合前のウォーミングアップその1 試合前のウォーミングアップ、選手にボールを蹴って返す、ニュージーランド代表のイアン・フォスターヘッドコーチ</p></li>
 </ul>
 </div>
 
@@ -124,6 +124,20 @@ title: 写真ギャラリー7/Photo gallery 7
 <li><img src="https://user-images.githubusercontent.com/20723919/210150683-443705b5-bb1a-43c7-8b10-8068fa15d42e.JPG" alt="試合前の練習風景その2"><p class="slider-text4">試合前の練習風景その2</p></li>
 <li><img src="https://user-images.githubusercontent.com/20723919/210150685-f6949e6f-54d9-4fe8-bfa6-db9b956fe163.JPG" alt="試合前の練習風景その2"><p class="slider-text4">試合前の練習風景その2</p></li>
 <li><img src="https://user-images.githubusercontent.com/20723919/210150687-7d909888-1243-4169-b941-c19e345373e5.JPG" alt="試合前の練習風景その2"><p class="slider-text4">試合前の練習風景その2</p></li>
+</ul>
+</div>
+
+<div style="text-align: center;">
+<ul class="slider">
+<li><img src="https://user-images.githubusercontent.com/20723919/210159715-d10edff0-10aa-485c-b7f3-1f863c117fd4.JPG" alt="試合前の練習風景その3"><p class="slider-text4">試合前の練習風景その3</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/210159717-2f4c2c8c-6d6e-4322-b006-f5edcf816841.JPG" alt="試合前の練習風景その3"><p class="slider-text4">試合前の練習風景その3</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/210159718-c35a85cb-fecf-497b-b015-fafcaa1e20f3.JPG" alt="試合前の練習風景その3"><p class="slider-text4">試合前の練習風景その3</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/210159719-cff9a0d3-3c5d-4d69-8b74-0009382f7567.JPG" alt="試合前の練習風景その3"><p class="slider-text4">試合前の練習風景その3</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/210159720-b5c3aa37-0423-4a20-a709-dbfba186c198.JPG" alt="試合前の練習風景その3"><p class="slider-text4">試合前の練習風景その3</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/210159721-e777f42e-8f33-41b4-b31a-65b4147f388b.JPG" alt="試合前の練習風景その3"><p class="slider-text4">試合前の練習風景その3</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/210159723-464df924-7fd5-4689-848e-56ebf683c7c6.JPG" alt="試合前の練習風景その3"><p class="slider-text4">試合前の練習風景その3</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/210159725-b1de5d31-4222-4bec-b184-e18d12fc571c.JPG" alt="試合前の練習風景その3 フィールドに姿を見せるラグビー日本代表のジェイミー・ジョセフヘッドコーチ"><p class="slider-text4">試合前の練習風景その3 フィールドに姿を見せるラグビー日本代表のジェイミー・ジョセフヘッドコーチ</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/210159726-d4de3e0d-1ac9-4c99-b164-8ab3440fd477.JPG" alt="試合前の練習風景その3 フィールドに姿を見せるラグビー日本代表のジェイミー・ジョセフヘッドコーチ(中央)"><p class="slider-text4">試合前の練習風景その3 フィールドに姿を見せるラグビー日本代表のジェイミー・ジョセフヘッドコーチ(中央)</p></li>
 </ul>
 </div>
 
