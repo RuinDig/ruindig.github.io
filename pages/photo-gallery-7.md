@@ -143,12 +143,29 @@ title: 写真ギャラリー7/Photo gallery 7
 
 <div style="text-align: center;">
 <ul class="slider">
+<li><img src="https://user-images.githubusercontent.com/20723919/210219162-52a762a2-9a34-4f6c-86ce-a43d4e0c10a6.JPG" alt="審判員の試合前のウォーミングアップ風景"><p class="slider-text4">審判員の試合前のウォーミングアップ風景</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/210219169-e96a48de-8ee4-4ad1-8142-50b3f45aa5bd.JPG" alt="審判員の試合前のウォーミングアップ風景"><p class="slider-text4">審判員の試合前のウォーミングアップ風景</p></li>
 <li><img src="https://user-images.githubusercontent.com/20723919/210164161-30f94596-dc62-4511-bbf2-665ac10730fa.JPG" alt="審判員の試合前のウォーミングアップ風景"><p class="slider-text4">審判員の試合前のウォーミングアップ風景</p></li>
 <li><img src="https://user-images.githubusercontent.com/20723919/210164374-898c72a1-7c57-440e-84e9-a9629c217cc5.JPG" alt="審判員の試合前のウォーミングアップ風景"><p class="slider-text4">審判員の試合前のウォーミングアップ風景</p></li>
 <li><img src="https://user-images.githubusercontent.com/20723919/210164162-f4bb31cd-cd1e-40d8-81b3-fbfdc7f486d9.JPG" alt="審判員の試合前のウォーミングアップ風景"><p class="slider-text4">審判員の試合前のウォーミングアップ風景</p></li>
 <li><img src="https://user-images.githubusercontent.com/20723919/210164163-1654f8c2-aac4-4b69-9eb5-9a672d0cdd55.JPG" alt="審判員の試合前のウォーミングアップ風景"><p class="slider-text4">審判員の試合前のウォーミングアップ風景</p></li>
 <li><img src="https://user-images.githubusercontent.com/20723919/210164164-8c1d4ec3-f6f7-44ff-84f0-43d44e0af9d3.JPG" alt="審判員の試合前のウォーミングアップ風景"><p class="slider-text4">審判員の試合前のウォーミングアップ風景</p></li>
 <li><img src="https://user-images.githubusercontent.com/20723919/210164165-e0028b7c-c5f8-4095-8aa8-303e8f2d96e9.JPG" alt="審判員の試合前のウォーミングアップ風景"><p class="slider-text4">審判員の試合前のウォーミングアップ風景</p></li>
+</ul>
+</div>
+
+<div style="text-align: center;">
+<ul class="slider">
+<li><img src="https://user-images.githubusercontent.com/20723919/210219820-adef3399-0a1c-4225-bbdf-6ef2905a6d61.JPG" alt="試合前の練習風景その4"><p class="slider-text4">試合前の練習風景その4</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/210219827-842ef1e7-1ee9-42fb-91d4-fbd828a557f9.JPG" alt="試合前の練習風景その4"><p class="slider-text4">試合前の練習風景その4</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/210219828-c9a98bd1-3724-4399-9646-069507448fe8.JPG" alt="試合前の練習風景その4"><p class="slider-text4">試合前の練習風景その4</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/210219829-4f58314e-9def-4ede-8975-8ead92695cb6.JPG" alt="試合前の練習風景その4"><p class="slider-text4">試合前の練習風景その4</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/210219830-066b4e07-877a-451a-9a35-33d02aae7d0f.JPG" alt="試合前の練習風景その4"><p class="slider-text4">試合前の練習風景その4</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/210219832-ec7d77bf-64c4-4aa6-846d-eba9b066c901.JPG" alt="試合前の練習風景その4"><p class="slider-text4">試合前の練習風景その4</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/210219834-82aee7da-4e7f-4493-9448-422d116a13f6.JPG" alt="試合前の練習風景その4"><p class="slider-text4">試合前の練習風景その4</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/210219836-a8f73caf-c72c-426a-91e6-9108ee64e9d1.JPG" alt="試合前の練習風景その4"><p class="slider-text4">試合前の練習風景その4</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/210219839-d3fff286-af74-4e84-9657-624449702077.JPG" alt="試合前の練習風景その4"><p class="slider-text4">試合前の練習風景その4</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/210219842-fb89eecf-fe10-4e54-b93d-2ca39fa6e0ba.JPG" alt="試合前の練習風景その4"><p class="slider-text4">試合前の練習風景その4</p></li>
 </ul>
 </div>
 
