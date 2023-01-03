@@ -24,7 +24,7 @@ title: Home
 
 <div style="text-align:center"><p><a href="https://commons.wikimedia.org/w/index.php?title=Special:ListFiles/RuinDig"><button style="width:138px; height:60px;"><span style="color:blue; font-size:17px;">Wikimedia Commons</span></button></a></p></div>
 
-<div style="text-align:center"><p><a href="mailto:ruindig@gmail.com?subject=%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B%20Contact"><button style="width:138px; height:60px;"><span style="color:blue; font-size:17px;">Contact</span></button></a></p></div>
+<div style="text-align:center"><p><a href="mailto:ruindig@gmail.com?subject=%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B%20Contact"><button style="width:138px; height:60px;"><span style="color:blue; font-size:17px;">Contact<br>お問い合わせ</span></button></a></p></div>
 
 <div style="text-align:center"><p><a href="https://ruindig.github.io/pages/graduate-thesis"><button style="width:138px; height:60px;"><span style="color:blue; font-size:17px;">卒業論文/学士論文</span></button></a></p></div>
 
