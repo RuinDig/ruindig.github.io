@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}" prefix="og: https://ogp.me/ns#">
 
- <head>
+<head>
     <meta property="og:url" content="{{ site.url }}{{ page.url }}">
     <meta property="og:type" content="article">
     <meta property="og:title" content="{{ page.title }} - Page-RuinDig">
@@ -50,13 +50,54 @@
     gtag('js', new Date());
     gtag('config', 'G-HGL272VV3C');
     </script>
- </head>
+</head>
 
- <body>
+<body>
   <div class="cookie-consent">
   <div class="cookie-text">当サイトではCookieを使用します。Cookieの使用に関する詳細は「<a href="https://ruindig.github.io/pages/privacy-policy">プライバシーポリシー</a>」をご覧ください。</div>
   <div class="cookie-agree">OK</div>
   </div>
+<script type='text/javascript'>
+(function() {
+  const expire = 1;
+  let cc = document.querySelector('.cookie-consent');
+  let ca = document.querySelector('.cookie-agree');
+  const flag = localStorage.getItem('popupFlag');
+  if (flag != null) {
+    const data = JSON.parse(flag);
+    if (data['value'] == 'true') {
+      popup();
+    } else {
+      const current = new Date();
+      if (current.getTime() > data['expire']) {
+        setWithExpiry('popupFlag', 'true', expire);
+        popup();
+      }      
+    }
+  } else {
+    setWithExpiry('popupFlag', 'true', expire);
+    popup();
+  }
+  ca.addEventListener('click', () => {
+    cc.classList.add('cc-hide1');
+    setWithExpiry('popupFlag', 'false', expire);
+  });
+  
+  function setWithExpiry(key, value, expire) {
+    const current = new Date();
+    expire = current.getTime() + expire * 24 * 3600 * 1000;
+    const item = {
+      value: value,
+      expire: expire
+    };
+    localStorage.setItem(key, JSON.stringify(item));
+  }
+  
+  function popup() {
+    cc.classList.add('is-show');
+  }
+}());
+</script>
 
     <script>
     window.fbAsyncInit = function() {
