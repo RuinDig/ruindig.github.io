@@ -365,6 +365,7 @@ hr {
 }
 .cookie-consent.is-show {
     visibility: visible;
+    background: #000000;
 }
 .cookie-consent a {
     color: #fff !important;
