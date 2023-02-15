@@ -286,11 +286,12 @@ hr {
 .slider {
   width: calc(100% - 40px);
   margin: 0 auto;
-  user-select: text !important;
+  user-select: element !important;
 }
 .slider-text {
   margin: 10px 8px 10px 8px;
   padding: 0px 8px 20px 8px;
+  user-select: element;
 }
 .slider-text2 {
   margin: 10px 8px 10px 8px;

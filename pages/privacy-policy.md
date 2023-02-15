@@ -15,4 +15,4 @@ It uses cookies to collect traffic data. This traffic data is collected anonymou
 Privacy controls in Google Analytics - Google Analytics Help  
 [https://support.google.com/analytics/answer/9019185?hl=en](https://support.google.com/analytics/answer/9019185?hl=en)  
 Safeguarding your data - Google Analytics Help  
-[https://support.google.com/analytics/answer/6004245?hl=en](https://support.google.com/analytics/answer/6004245?hl=en)  
+[https://support.google.com/analytics/answer/6004245?hl=en](https://support.google.com/analytics/answer/6004245?hl=en)
