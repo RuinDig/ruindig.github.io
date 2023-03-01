@@ -169,6 +169,25 @@ title: 写真ギャラリー7/Photo gallery 7
 </ul>
 </div>
 
+<div style="text-align: center;">
+<ul class="slider">
+<li><img src="https://user-images.githubusercontent.com/20723919/221139453-adaa6355-e309-406e-8c3d-80dc57cb099e.JPG" alt="ニュージーランド代表オールブラックスのハカ"><p class="slider-text4">ニュージーランド代表オールブラックスのハカ</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/221139456-222ef66b-3f8e-43fd-8925-65f68296100a.JPG" alt="ニュージーランド代表オールブラックスのハカ"><p class="slider-text4">ニュージーランド代表オールブラックスのハカ</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/221139459-f13fa5e5-7db7-4722-8b17-b1053cb19943.JPG" alt="ニュージーランド代表オールブラックスのハカ"><p class="slider-text4">ニュージーランド代表オールブラックスのハカ</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/221139461-c2d8b53a-589f-4aa2-8569-64ec3a5431d9.JPG" alt="ニュージーランド代表オールブラックスのハカ"><p class="slider-text4">ニュージーランド代表オールブラックスのハカ</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/221139463-6395d581-ad54-4b8d-9b31-0979a1a185bf.JPG" alt="ニュージーランド代表オールブラックスのハカ"><p class="slider-text4">ニュージーランド代表オールブラックスのハカ</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/221139778-3a3bce0e-70a2-4705-b2cf-401bfe6abeec.JPG" alt="ニュージーランド代表オールブラックスのハカ"><p class="slider-text4">ニュージーランド代表オールブラックスのハカ</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/221139469-81f44f2a-af10-4ea6-94c1-8bbe43cf9c8e.JPG" alt="ニュージーランド代表オールブラックスのハカ"><p class="slider-text4">ニュージーランド代表オールブラックスのハカ</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/221139475-1eaf9a94-d84c-4364-b020-796a896ef64e.JPG" alt="ニュージーランド代表オールブラックスのハカ"><p class="slider-text4">ニュージーランド代表オールブラックスのハカ</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/221139480-badec309-6b11-4dcd-b521-41ec090f43d7.JPG" alt="ニュージーランド代表オールブラックスのハカ"><p class="slider-text4">ニュージーランド代表オールブラックスのハカ</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/221139484-cf6e60e8-cb79-498e-98d9-a39501956bda.JPG" alt="ニュージーランド代表オールブラックスのハカ"><p class="slider-text4">ニュージーランド代表オールブラックスのハカ</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/221139487-b2528025-13f2-4981-bce3-d32d037ca4e5.JPG" alt="ニュージーランド代表オールブラックスのハカ"><p class="slider-text4">ニュージーランド代表オールブラックスのハカ</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/221139488-ecd5b355-4e30-42c0-9763-ff2f8a804c78.JPG" alt="ニュージーランド代表オールブラックスのハカ"><p class="slider-text4">ニュージーランド代表オールブラックスのハカ</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/221139490-72f2aab3-c0eb-4b37-99f3-6dbfeb2b3366.JPG" alt="ニュージーランド代表オールブラックスのハカ"><p class="slider-text4">ニュージーランド代表オールブラックスのハカ</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/221139446-df6fdcfa-7a92-4d95-a6ae-7bb40dcdaaef.JPG" alt="ニュージーランド代表オールブラックスのハカ"><p class="slider-text4">ニュージーランド代表オールブラックスのハカ</p></li>
+</ul>
+</div>
+
 <div style="text-align:center;"><p><a href="https://ruindig.github.io/pages/photo-gallery-1"><<</a> <a href="https://ruindig.github.io/pages/photo-gallery-5"><button style="width:24px; height:24px; text-align:center;"><span style="color:blue; font-size:17px;">5</span></button></a> - <a href="https://ruindig.github.io/pages/photo-gallery-6"><button style="width:24px; height:24px; text-align:center;"><span style="color:blue; font-size:17px;">6</span></button></a> - 7 >></p></div>
 
 <div style="text-align: center;"><p><strong>7/7</strong></p></div>
