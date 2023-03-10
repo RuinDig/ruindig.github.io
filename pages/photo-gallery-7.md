@@ -188,6 +188,32 @@ title: 写真ギャラリー7/Photo gallery 7
 </ul>
 </div>
 
+<div style="text-align: center;">
+<ul class="slider">
+<li><img src="https://user-images.githubusercontent.com/20723919/222886001-a2b861c0-d086-44cd-9bd1-5f836befc0cc.JPG"></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/222886002-32fd63dc-be0a-4caf-868e-9d07ac6812a1.JPG"></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/222886003-b4966616-992d-4f9e-b8f5-6f83e300f5a7.JPG"></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/222886004-72be33b5-e20d-4633-8dac-96339dbd8403.JPG"></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/222886006-be2824c1-35c7-4b85-b583-b43529c8279d.JPG"></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/222886007-66e1e93b-a158-4ac5-b70e-31acbd6a2795.JPG"></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/222886008-ca14de0d-a07e-41ea-8a8b-601a18739d31.JPG"></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/222886009-4bcf7905-ffd0-4c0f-93fc-73516472c60b.JPG"></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/222886010-02ec4200-eda3-4799-af92-44732b096c66.JPG"></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/222886011-479d47cc-9d7e-47da-a6da-2535faafcc59.JPG"></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/222886014-af18a9fb-660e-4e47-8c0b-c3451b8a5d26.JPG"></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/222886017-6ac3d69b-6e30-47a1-91ac-ca1b032e529b.JPG"></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/222886018-46fb8e8c-f098-4299-a9e4-f921d3162613.JPG"></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/222886020-1894cf2b-1839-48bc-8e3c-8b70ac09f51e.JPG"></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/222886021-0de5fb2c-9817-4ece-972f-e8c31125763c.JPG"></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/222886022-3d3b8ae1-8aad-45b0-b12b-66513edbbec1.JPG"></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/222886025-772ad083-3a24-478a-8632-075a44136f52.JPG"></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/222886026-20e6d17d-117e-478e-9644-77493a0444b1.JPG"></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/222886027-8f090e80-18a7-44d8-ac72-9e662727e4a2.JPG"></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/222886030-aa9413bc-9739-4dae-82bc-cb4bd6cfb90b.JPG"></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/222885999-c7177d8e-6839-4cab-bfe6-2a98cbe6a3a0.JPG"></li>
+</ul>
+</div>
+
 <div style="text-align:center;"><p><a href="https://ruindig.github.io/pages/photo-gallery-1"><<</a> <a href="https://ruindig.github.io/pages/photo-gallery-5"><button style="width:24px; height:24px; text-align:center;"><span style="color:blue; font-size:17px;">5</span></button></a> - <a href="https://ruindig.github.io/pages/photo-gallery-6"><button style="width:24px; height:24px; text-align:center;"><span style="color:blue; font-size:17px;">6</span></button></a> - 7 >></p></div>
 
 <div style="text-align: center;"><p><strong>7/7</strong></p></div>
