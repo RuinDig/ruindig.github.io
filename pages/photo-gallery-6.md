@@ -62,6 +62,8 @@ title: 写真ギャラリー6/Photo gallery 6
 </ul>
 </div>
 
+<hr>
+
 ### 2017年新年一般参賀
 
 東京の皇居で行われた、2017年1月2日の新年一般参賀
@@ -93,6 +95,8 @@ Visit of the General Public to the Palace for the New Year Greeting on 2017.1.2 
 <li><img src="https://user-images.githubusercontent.com/20723919/193505820-a4e521e3-7ae5-4b3d-a527-1390fe6b2d6e.JPG" width="500" alt="2017年1月2日、東京の皇居にて"><p class="slider-text3">2017年1月2日、東京の皇居にて</p></li>
 </ul>
 </div>
+
+<hr>
 
 ### 2019年御即位一般参賀
 
