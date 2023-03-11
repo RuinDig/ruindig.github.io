@@ -24,15 +24,15 @@ title: 写真ギャラリー2/Photo gallery 2
 </div>
 
 <div style="text-align: center;">
-<img src="https://user-images.githubusercontent.com/20723919/183127270-d3a2a6ce-7783-4e1d-93af-166245bf9af9.JPG" width="500" height="500" alt="ZOZOマリンスタジアム"><p class="slider-text4">ZOZOマリンスタジアム・2005年千葉ロッテマリーンズ6冠達成記念碑</p>
+<img src="https://user-images.githubusercontent.com/20723919/183127270-d3a2a6ce-7783-4e1d-93af-166245bf9af9.JPG" width="500" alt="ZOZOマリンスタジアム"><p class="slider-text4">ZOZOマリンスタジアム・2005年千葉ロッテマリーンズ6冠達成記念碑</p>
 </div>
 
 <div style="text-align: center;">
-<img src="https://user-images.githubusercontent.com/20723919/183247333-f49b55b3-8f49-4113-a5c9-b36521d879e4.JPG" width="500" height="500" alt="ZOZOマリンスタジアム"><p class="slider-text4">ZOZOマリンスタジアム・2005年千葉ロッテマリーンズ6冠達成記念碑に刻まれた手形</p>
+<img src="https://user-images.githubusercontent.com/20723919/183247333-f49b55b3-8f49-4113-a5c9-b36521d879e4.JPG" width="500" alt="ZOZOマリンスタジアム"><p class="slider-text4">ZOZOマリンスタジアム・2005年千葉ロッテマリーンズ6冠達成記念碑に刻まれた手形</p>
 </div>
 
 <div style="text-align: center;">
-<img src="https://user-images.githubusercontent.com/20723919/183127274-e7abc23c-50c9-41c2-844b-e111c5860db0.JPG" width="500" height="500" alt="ZOZOマリンスタジアム"><p class="slider-text4">ZOZOマリンスタジアム・2005年千葉ロッテマリーンズ6冠達成記念碑に刻まれた手形</p>
+<img src="https://user-images.githubusercontent.com/20723919/183127274-e7abc23c-50c9-41c2-844b-e111c5860db0.JPG" width="500" alt="ZOZOマリンスタジアム"><p class="slider-text4">ZOZOマリンスタジアム・2005年千葉ロッテマリーンズ6冠達成記念碑に刻まれた手形</p>
 </div>
 
 <div style="text-align: center;">
