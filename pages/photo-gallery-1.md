@@ -178,17 +178,17 @@ title: 写真ギャラリー1/Photo gallery 1
 
 <div style="text-align: center;">
 <ul class="slider">
-<li><img src="https://user-images.githubusercontent.com/20723919/164883243-9251690f-2758-4f30-8932-dbceef74563e.JPG" width="500" height="500" alt="ダイヤモンド富士 千葉県・美浜大橋 2021.2.21"><p class="slider-text4">ダイヤモンド富士 千葉県・美浜大橋 2021.2.21</p></li>
-<li><img src="https://user-images.githubusercontent.com/20723919/164883252-f1726fc0-e60e-4d95-8020-08d8c99ec59d.JPG" width="500" height="500" alt="ダイヤモンド富士 千葉県・美浜大橋 2021.2.21"><p class="slider-text4">ダイヤモンド富士 千葉県・美浜大橋 2021.2.21</p></li>
-<li><img src="https://user-images.githubusercontent.com/20723919/164883272-2f9b79b8-8ca2-418e-9bb3-8651ac25fac5.JPG" width="500" height="500" alt="ダイヤモンド富士 千葉県・美浜大橋 2021.2.21"><p class="slider-text4">ダイヤモンド富士 千葉県・美浜大橋 2021.2.21</p></li>
-<li><img src="https://user-images.githubusercontent.com/20723919/164883274-3dc7d3d7-2abf-4521-9ec4-8b4a83638e8e.JPG" width="500" height="500" alt="ダイヤモンド富士 千葉県・美浜大橋 2021.2.21"><p class="slider-text4">ダイヤモンド富士 千葉県・美浜大橋 2021.2.21</p></li>
-<li><img src="https://user-images.githubusercontent.com/20723919/164883275-5b565d39-5489-439e-b5ba-6439e39fa5fe.JPG" width="500" height="500" alt="ダイヤモンド富士 千葉県・美浜大橋 2021.2.21"><p class="slider-text4">ダイヤモンド富士 千葉県・美浜大橋 2021.2.21</p></li>
-<li><img src="https://user-images.githubusercontent.com/20723919/164883279-3cd6c6ba-a461-40bf-8dce-b55f60eaf805.JPG" width="500" height="500" alt="ダイヤモンド富士 千葉県・美浜大橋 2021.2.21"><p class="slider-text4">ダイヤモンド富士 千葉県・美浜大橋 2021.2.21</p></li>
-<li><img src="https://user-images.githubusercontent.com/20723919/164883280-b8079aeb-ec43-4e62-b3b0-2ed3987b7910.JPG" width="500" height="500" alt="ダイヤモンド富士 千葉県・美浜大橋 2021.2.21"><p class="slider-text4">ダイヤモンド富士 千葉県・美浜大橋 2021.2.21</p></li>
-<li><img src="https://user-images.githubusercontent.com/20723919/164883281-6a1a499b-d4fb-4209-9aa3-cde4723947a3.JPG" width="500" height="500" alt="ダイヤモンド富士 千葉県・美浜大橋 2021.2.21"><p class="slider-text4">ダイヤモンド富士 千葉県・美浜大橋 2021.2.21</p></li>
-<li><img src="https://user-images.githubusercontent.com/20723919/164883284-2a489e5d-a28f-4fe6-a0b5-4c3a27d59a65.JPG" width="500" height="500" alt="ダイヤモンド富士 千葉県・美浜大橋 2021.2.21"><p class="slider-text4">ダイヤモンド富士 千葉県・美浜大橋 2021.2.21</p></li>
-<li><img src="https://user-images.githubusercontent.com/20723919/164883285-5ae1a90f-baf3-4a0a-9fe6-6cf0d4b129f7.JPG" width="500" height="500" alt="ダイヤモンド富士 千葉県・美浜大橋 2021.2.21"><p class="slider-text4">ダイヤモンド富士 千葉県・美浜大橋 2021.2.21</p></li>
-<li><img src="https://user-images.githubusercontent.com/20723919/164883286-0486f5e5-dbc3-4c11-bf39-f0d8b1ca786f.JPG" width="500" height="500" alt="ダイヤモンド富士 千葉県・美浜大橋 2021.2.21"><p class="slider-text4">ダイヤモンド富士 千葉県・美浜大橋 2021.2.21</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/164883243-9251690f-2758-4f30-8932-dbceef74563e.JPG" width="500" alt="ダイヤモンド富士 千葉県・美浜大橋 2021.2.21"><p class="slider-text4">ダイヤモンド富士 千葉県・美浜大橋 2021.2.21</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/164883252-f1726fc0-e60e-4d95-8020-08d8c99ec59d.JPG" width="500"  alt="ダイヤモンド富士 千葉県・美浜大橋 2021.2.21"><p class="slider-text4">ダイヤモンド富士 千葉県・美浜大橋 2021.2.21</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/164883272-2f9b79b8-8ca2-418e-9bb3-8651ac25fac5.JPG" width="500"  alt="ダイヤモンド富士 千葉県・美浜大橋 2021.2.21"><p class="slider-text4">ダイヤモンド富士 千葉県・美浜大橋 2021.2.21</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/164883274-3dc7d3d7-2abf-4521-9ec4-8b4a83638e8e.JPG" width="500"  alt="ダイヤモンド富士 千葉県・美浜大橋 2021.2.21"><p class="slider-text4">ダイヤモンド富士 千葉県・美浜大橋 2021.2.21</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/164883275-5b565d39-5489-439e-b5ba-6439e39fa5fe.JPG" width="500"  alt="ダイヤモンド富士 千葉県・美浜大橋 2021.2.21"><p class="slider-text4">ダイヤモンド富士 千葉県・美浜大橋 2021.2.21</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/164883279-3cd6c6ba-a461-40bf-8dce-b55f60eaf805.JPG" width="500"  alt="ダイヤモンド富士 千葉県・美浜大橋 2021.2.21"><p class="slider-text4">ダイヤモンド富士 千葉県・美浜大橋 2021.2.21</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/164883280-b8079aeb-ec43-4e62-b3b0-2ed3987b7910.JPG" width="500"  alt="ダイヤモンド富士 千葉県・美浜大橋 2021.2.21"><p class="slider-text4">ダイヤモンド富士 千葉県・美浜大橋 2021.2.21</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/164883281-6a1a499b-d4fb-4209-9aa3-cde4723947a3.JPG" width="500"  alt="ダイヤモンド富士 千葉県・美浜大橋 2021.2.21"><p class="slider-text4">ダイヤモンド富士 千葉県・美浜大橋 2021.2.21</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/164883284-2a489e5d-a28f-4fe6-a0b5-4c3a27d59a65.JPG" width="500"  alt="ダイヤモンド富士 千葉県・美浜大橋 2021.2.21"><p class="slider-text4">ダイヤモンド富士 千葉県・美浜大橋 2021.2.21</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/164883285-5ae1a90f-baf3-4a0a-9fe6-6cf0d4b129f7.JPG" width="500"  alt="ダイヤモンド富士 千葉県・美浜大橋 2021.2.21"><p class="slider-text4">ダイヤモンド富士 千葉県・美浜大橋 2021.2.21</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/164883286-0486f5e5-dbc3-4c11-bf39-f0d8b1ca786f.JPG" width="500"  alt="ダイヤモンド富士 千葉県・美浜大橋 2021.2.21"><p class="slider-text4">ダイヤモンド富士 千葉県・美浜大橋 2021.2.21</p></li>
 </ul>
 </div>
 
