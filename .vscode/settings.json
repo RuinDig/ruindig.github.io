@@ -1,0 +1,10 @@
+{
+    "wordcounter.text.char": "文字/Char",
+    "wordcounter.text.chars": "文字/Chars",
+    "wordcounter.text.line": "行/Line",
+    "wordcounter.text.lines": "行/Lines",
+    "wordcounter.text.paragraph": "段落/Paragraph",
+    "wordcounter.text.paragraphs": "段落/Paragraphs",
+    "wordcounter.text.word": "語/Word",
+    "wordcounter.text.words": "語/Words"
+}
