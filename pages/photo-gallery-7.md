@@ -238,7 +238,7 @@ title: 写真ギャラリー7/Photo gallery 7
 
 <div style="text-align:center;"><p><a href="https://ruindig.github.io/pages/photo-gallery-1"><<</a> <a href="https://ruindig.github.io/pages/photo-gallery-5"><button style="width:24px; height:24px; text-align:center;"><span style="color:blue; font-size:17px;">5</span></button></a> - <a href="https://ruindig.github.io/pages/photo-gallery-6"><button style="width:24px; height:24px; text-align:center;"><span style="color:blue; font-size:17px;">6</span></button></a> - 7 >></p></div>
 
-<div style="text-align: center;"><p><strong>7/7</strong></p></div>
+<div style="text-align: center;"><p><strong>7/8</strong></p></div>
 
 <hr>
 

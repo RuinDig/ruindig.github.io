@@ -282,9 +282,9 @@ title: 写真ギャラリー3/Photo gallery 3
 </ul>
 </div>
 
-<div style="text-align: center;"><p><a href="https://ruindig.github.io/pages/photo-gallery-1"><<</a> <a href="https://ruindig.github.io/pages/photo-gallery-2"><button style="width:24px; height:24px; text-align:center;"><span style="color:blue; font-size:17px;">2</span></button></a> - 3 - <a href="https://ruindig.github.io/pages/photo-gallery-4"><button style="width:24px; height:24px; text-align:center;"><span style="color:blue; font-size:17px;">4</span></button></a> <a href="https://ruindig.github.io/pages/photo-gallery-7">>></a></p></div>
+<div style="text-align: center;"><p><a href="https://ruindig.github.io/pages/photo-gallery-1"><<</a> <a href="https://ruindig.github.io/pages/photo-gallery-2"><button style="width:24px; height:24px; text-align:center;"><span style="color:blue; font-size:17px;">2</span></button></a> - 3 - <a href="https://ruindig.github.io/pages/photo-gallery-4"><button style="width:24px; height:24px; text-align:center;"><span style="color:blue; font-size:17px;">4</span></button></a> <a href="https://ruindig.github.io/pages/photo-gallery-8">>></a></p></div>
 
-<div style="text-align: center; font-size:17px;"><p><strong>3/7</strong></p></div>
+<div style="text-align: center; font-size:17px;"><p><strong>3/8</strong></p></div>
 
 <hr>
 
