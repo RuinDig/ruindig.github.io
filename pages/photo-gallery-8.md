@@ -6,6 +6,17 @@ title: 写真ギャラリー8/Photo gallery 8
 
 ### 工事中 under construction
 
+<div style="text-align: center;">
+<ul class="slider">
+<li><img src="https://user-images.githubusercontent.com/20723919/229515258-f6f9d0de-0af4-4f6e-98ec-f8917d89976c.JPG" width="500" alt="外野でウォーミングアップする佐々木朗希投手(左)と話をする吉井理人投手コーチ"><p class="slider-text4">外野でウォーミングアップする佐々木朗希投手(左)と話をする吉井理人投手コーチ</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/229515267-01076ea4-e8b5-49d8-be28-57c8c29162a7.JPG" width="500" alt="外野でウォーミングアップする佐々木朗希投手(左)と話をする吉井理人投手コーチ"><p class="slider-text4">外野でウォーミングアップする佐々木朗希投手(左)と話をする吉井理人投手コーチ</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/229515269-6fe8026d-4ada-474e-9578-a3ad6d598cb9.JPG" width="500" alt="外野でウォーミングアップする佐々木朗希投手(左)と話をする吉井理人投手コーチ"><p class="slider-text4">外野でウォーミングアップする佐々木朗希投手(左)と話をする吉井理人投手コーチ</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/229515275-46158db2-0bbf-4eda-b8f3-6bb1c5f573cf.JPG" width="500" alt="外野でウォーミングアップする佐々木朗希投手(左)と話をする吉井理人投手コーチ"><p class="slider-text4">外野でウォーミングアップする佐々木朗希投手(左)と話をする吉井理人投手コーチ</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/229515278-51c014fb-2c84-462f-8884-93d5c0c65e41.JPG" width="500" alt="外野でウォーミングアップする佐々木朗希投手(左)と話をする吉井理人投手コーチ"><p class="slider-text4">吉井理人投手コーチと話をする佐々木朗希投手(左)の姿</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/229515283-2af690ca-3c9f-43fc-a531-44d1e3eb86c1.JPG" width="500" alt="外野でウォーミングアップする佐々木朗希投手(左)と話をする吉井理人投手コーチ"><p class="slider-text4">吉井理人投手コーチと話をする佐々木朗希投手(左)の姿</p></li>
+</ul>
+</div>
+
 <div style="text-align:center;"><p><a href="https://ruindig.github.io/pages/photo-gallery-1"><<</a> <a href="https://ruindig.github.io/pages/photo-gallery-6"><button style="width:24px; height:24px; text-align:center;"><span style="color:blue; font-size:17px;">6</span></button></a> - <a href="https://ruindig.github.io/pages/photo-gallery-7"><button style="width:24px; height:24px; text-align:center;"><span style="color:blue; font-size:17px;">7</span></button></a> - 8 >></p></div>
 
 <div style="text-align: center;"><p><strong>8/8</strong></p></div>
