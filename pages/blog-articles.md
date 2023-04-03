@@ -4,6 +4,11 @@ title: ブログ記事ピックアップ
 
 # ブログ記事ピックアップ
 
+WBC2023準々決勝・日本対イタリア戦をNikon COOLPIX P950で撮った感想 - blog-RuinDig<br>
+[https://ruindig.hatenablog.jp/entry/wbc2023/nikon-coolpix-p950](https://ruindig.hatenablog.jp/entry/wbc2023/nikon-coolpix-p950)
+
+![WBC2023準々決勝・日本対イタリア戦をNikon COOLPIX P950で撮った感想](https://user-images.githubusercontent.com/20723919/229513450-02040e4f-4db4-498e-b5d6-42f4c379cddf.JPG)
+
 Why IP68 resistance smartphones are wanted in Japan - blog-RuinDig<br>
 [https://ruindig.hatenablog.jp/entry/en/ip68-smartphone-japan](https://ruindig.hatenablog.jp/entry/en/ip68-smartphone-japan)
 
@@ -62,10 +67,10 @@ Jabra Elite 85tを買ったのでレビュー - blog-RuinDig<br>
 樋口久子さん「お金は使ったら無くなるけど、タイトルはずっと残るから」｜RuinDig｜note（ノート）<br>
 [https://note.com/ruindig/n/n408735552fa0](https://note.com/ruindig/n/n408735552fa0)
 
-コンデジにはまだ生きていてほしい｜RuinDig｜note（ノート）<br>
-[https://note.com/ruindig/n/n7d22cd4f7f9e](https://note.com/ruindig/n/n7d22cd4f7f9e)
+俺も軽くて安い高倍率ズームが欲しい、ただし条件がある｜RuinDig｜note（ノート）<br>
+[https://note.com/ruindig/n/na61cf99c2320](https://note.com/ruindig/n/na61cf99c2320)
 
-![コンデジにはまだ生きていてほしい](https://user-images.githubusercontent.com/20723919/187373571-d54ee57d-8c5f-4fe5-84c9-9b2da366f339.jpg)
+![俺も軽くて安い高倍率ズームが欲しい、ただし条件がある](https://user-images.githubusercontent.com/20723919/187373571-d54ee57d-8c5f-4fe5-84c9-9b2da366f339.jpg)
 
 2020年からのIngressを振り返る―Ingress9周年に寄せて｜RuinDig｜note（ノート）<br>
 [https://note.com/ruindig/n/na96fb2b34f38](https://note.com/ruindig/n/na96fb2b34f38)
