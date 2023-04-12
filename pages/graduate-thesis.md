@@ -55,6 +55,16 @@ title: 卒業論文/学士論文
 
 [論文要旨](https://ruindig.github.io/files/Abstract_JA_RuinDig-YukiUchida_graduate-thesis_Ingress-sightseeing.pdf)
 
+<strong>論文スライド</strong>
+
+<strong>SlideShare</strong>
+
+<iframe style="border: 1px solid #CCC; border-width: 1px; margin-bottom: 5px; max-width: 100%;" src="//www.slideshare.net/slideshow/embed_code/key/ySnsvZXSBMd6w2" width="600" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen=""></iframe>
+
+<strong>Speaker Deck</strong>
+
+<iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/201af9e84890449b8440b09a8c6846ae" title="位置情報ゲーム「Ingress」を用いた自治体での観光振興の取り組み―神奈川県横須賀市と東京都中野区の事例研究によるモデル構築― 内田悠貴" allowfullscreen="true" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 314;" data-ratio="1.78343949044586"></iframe>
+
 <strong>外部ページ</strong>
 
 [位置情報ゲーム「Ingress」を用いた自治体での観光振興の取り組み―神奈川県横須賀市と東京都中野区の事例研究によるモデル構築― 内田悠貴 - blog-RuinDig](https://ruindig.hatenablog.jp/entry/ingress/rd-yu-graduate-thesis)
