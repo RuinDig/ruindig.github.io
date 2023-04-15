@@ -4,7 +4,7 @@ title: 写真ギャラリー8/Photo gallery 8
 
 # 写真ギャラリー8/Photo gallery 8
 
-### 工事中 under construction
+### World Baseball Classic 2023 Japan vs. Italy
 
 <div style="text-align: center;">
 <ul class="slider">
@@ -14,6 +14,46 @@ title: 写真ギャラリー8/Photo gallery 8
 <li><img src="https://user-images.githubusercontent.com/20723919/229515275-46158db2-0bbf-4eda-b8f3-6bb1c5f573cf.JPG" width="500" alt="外野でウォーミングアップする佐々木朗希投手(左)と話をする吉井理人投手コーチ"><p class="slider-text4">外野でウォーミングアップする佐々木朗希投手(左)と話をする吉井理人投手コーチ</p></li>
 <li><img src="https://user-images.githubusercontent.com/20723919/229515278-51c014fb-2c84-462f-8884-93d5c0c65e41.JPG" width="500" alt="外野でウォーミングアップする佐々木朗希投手(左)と話をする吉井理人投手コーチ"><p class="slider-text4">吉井理人投手コーチと話をする佐々木朗希投手(左)の姿</p></li>
 <li><img src="https://user-images.githubusercontent.com/20723919/229515283-2af690ca-3c9f-43fc-a531-44d1e3eb86c1.JPG" width="500" alt="外野でウォーミングアップする佐々木朗希投手(左)と話をする吉井理人投手コーチ"><p class="slider-text4">吉井理人投手コーチと話をする佐々木朗希投手(左)の姿</p></li>
+</ul>
+</div>
+
+<div style="text-align: center;">
+<ul class="slider">
+<li><img src="https://user-images.githubusercontent.com/20723919/229873300-2d4e608f-8260-4c8a-a692-8d8fb2c5e945.JPG" width="500" alt="試合前の内野守備練習に参加する源田壮亮選手(背番号2)と中野拓夢選手(背番号7)"><p class="slider-text4">試合前の内野守備練習に参加する源田壮亮選手(背番号2)と中野拓夢選手(背番号7)</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/229873307-8e799709-8cca-4242-95d8-2631bb19458a.JPG" width="500" alt="試合前の内野守備練習に参加する源田壮亮選手(背番号2)と中野拓夢選手(背番号7)"><p class="slider-text4">試合前の内野守備練習に参加する源田壮亮選手(背番号2)と中野拓夢選手(背番号7)</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/229873310-1896243e-8da5-45f4-8f56-c2e2c38d6f26.JPG" width="500" alt="試合前の内野守備練習に参加する源田壮亮選手(背番号2)と中野拓夢選手(背番号7)"><p class="slider-text4">試合前の内野守備練習に参加する源田壮亮選手(背番号2)と中野拓夢選手(背番号7)</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/229873314-8095d07f-aa0a-4596-ab7c-4d4e5504c987.JPG" width="500" alt="試合前の内野守備練習に参加する源田壮亮選手(背番号2)と中野拓夢選手(背番号7)"><p class="slider-text4">試合前の内野守備練習に参加する源田壮亮選手(背番号2)と中野拓夢選手(背番号7)</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/229873316-a230ad69-6be3-46b4-80f1-8814e9039179.JPG" width="500" alt="試合前の内野守備練習に参加する源田壮亮選手(背番号2)と中野拓夢選手(背番号7)"><p class="slider-text4">試合前の内野守備練習に参加する源田壮亮選手(背番号2)と中野拓夢選手(背番号7)</p></li>
+</ul>
+</div>
+
+<div style="text-align: center;">
+<ul class="slider">
+<li><img src="https://user-images.githubusercontent.com/20723919/229873726-eb96b59c-2eef-4d11-a9ab-6a07119d90a4.JPG" width="500" alt="試合前、外野で準備するブルペンキャッチャーの鶴岡慎也さん"><p class="slider-text4">試合前、外野で準備するブルペンキャッチャーの鶴岡慎也さん</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/229873736-244a4990-3c5f-406d-b786-415c30138aec.JPG" width="500" alt="試合前、外野で準備するブルペンキャッチャーの鶴岡慎也さん(右)と水原一平さん(左)"><p class="slider-text4">試合前、外野で準備するブルペンキャッチャーの梶原有司さん(右)と水原一平さん(左)</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/229873741-19931fed-830c-451f-bc4a-7f8e03175e18.JPG" width="500" alt="試合前、外野で準備するブルペンキャッチャーの鶴岡慎也さん(手前)と水原一平さん(奥)"><p class="slider-text4">試合前、外野で準備するブルペンキャッチャーの梶原有司さん(手前)と水原一平さん(奥)</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/229873744-3589724e-e485-485b-bb4b-2fdd25eecf05.JPG" width="500" alt="試合前、外野でプライオボールを使って練習する大谷翔平選手"><p class="slider-text4">試合前、外野でプライオボールを使って練習する大谷翔平選手</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/229873749-73eef99b-6d1d-450a-bcdd-e577e24e466e.JPG" width="500" alt="試合前、外野でプライオボールを使って練習する大谷翔平選手"><p class="slider-text4">試合前、外野でプライオボールを使って練習する大谷翔平選手</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/229873751-73ced30a-ff09-4cb6-a118-25e819c6d96f.JPG" width="500" alt="試合前、外野でプライオボールを使って練習する大谷翔平選手を計測する水原一平さん"><p class="slider-text4">試合前、外野でプライオボールを使って練習する大谷翔平選手を計測する水原一平さん</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/229873754-68109412-53a5-40ff-aea1-aa60dff51b82.JPG" width="500" alt="試合前、外野で練習する大谷翔平選手"><p class="slider-text4">試合前、外野で練習する大谷翔平選手</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/229873759-54676e22-332b-4dc0-b183-4b7b44f7458d.JPG" width="500" alt="試合前、大谷翔平選手(左)と水原一平さん(右)の外野での様子"><p class="slider-text4">試合前、大谷翔平選手(左)と水原一平さん(右)の外野での様子</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/229873764-44c306cc-3952-4623-be33-fce65fb36a3d.JPG" width="500" alt="試合前、外野で牽制球の投球練習をする大谷翔平選手(左)と計測する水原一平さん(右)の様子"><p class="slider-text4">試合前、外野で牽制球の投球練習をする大谷翔平選手(左)と計測する水原一平さん(右)の様子</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/229873769-cd4b543e-98b3-4ff7-b2ad-8d4866bff91a.JPG" width="500" alt="試合前、外野で練習をする大谷翔平選手"><p class="slider-text4">試合前、外野で練習をする大谷翔平選手の様子</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/229873773-9c52f980-aa85-436d-a3b7-51a3ef96c9f2.JPG" width="500" alt="試合前、外野でプライオボールを使って練習する大谷翔平選手(左)とそれを計測する水原一平さん(右)"><p class="slider-text4">試合前、外野でプライオボールを使って練習する大谷翔平選手(左)とそれを計測する水原一平さん(右)</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/229873775-37f2cce3-3a92-422d-9ad4-0b54827ab081.JPG" width="500" alt="試合前、外野で練習をする大谷翔平選手"><p class="slider-text4">試合前、外野で練習をする大谷翔平選手</p></li>
+</ul>
+</div>
+
+<div style="text-align: center;">
+<ul class="slider">
+<li><img src="https://user-images.githubusercontent.com/20723919/229874109-c715c96c-9468-4771-8744-a6d966e3a224.JPG" width="500" alt="5回表、マウンド上、大谷翔平選手(左)と源田壮亮選手(右)"><p class="slider-text4">5回表、マウンド上、大谷翔平選手(左)と源田壮亮選手(右)</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/229874118-1834dd43-7966-4245-a1dd-cdb40dc6fa78.JPG" width="500" alt="5回表、マウンド上に集まる内野手陣"><p class="slider-text4">5回表、マウンド上に集まる内野手陣</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/229874121-80e93a51-69d7-4337-b8fd-658a9ae32738.JPG" width="500" alt="5回表、栗山英樹監督が大谷翔平選手に投手交代を告げる"><p class="slider-text4">5回表、栗山英樹監督が大谷翔平選手に投手交代を告げる</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/229874124-2def4cf2-82ea-483b-8dac-78d52dca01af.JPG" width="500" alt="5回表、投手交代のためマウンドから降りてベンチに下がる大谷翔平選手(奥)"><p class="slider-text4">5回表、投手交代のためマウンドから降りてベンチに下がる大谷翔平選手(奥)</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/229874125-0d9139e8-b8cf-423c-8aa3-c7855c62c7d0.JPG" width="500" alt="5回表、大谷翔平選手に代わって伊藤大海投手(中央左)が登板する。"><p class="slider-text4">5回表、大谷翔平選手に代わって伊藤大海投手(中央左)が登板する。</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/229874129-299d61d7-86e4-4c96-9aab-f611abddb676.JPG" width="500" alt="5回表、伊藤大海投手(奥)がロジンを使うと粉が舞い上がる。手前左は源田壮亮選手、手前右は村上宗隆選手。"><p class="slider-text4">5回表、伊藤大海投手(奥)がロジンを使うと粉が舞い上がる。手前左は源田壮亮選手、手前右は村上宗隆選手。</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/229874133-fb7e4eb9-188c-4f0c-8c17-400a35dc2d83.JPG" width="500" alt="5回表、伊藤大海投手がロジンを手にする"><p class="slider-text4">5回表、伊藤大海投手がロジンを手にする</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/229874136-74899615-ab19-4213-afe2-3fd17581bc28.JPG" width="500" alt="5回表、マウンド上で投球する伊藤大海投手"><p class="slider-text4">5回表、マウンド上で投球する伊藤大海投手</p></li>
 </ul>
 </div>
 
