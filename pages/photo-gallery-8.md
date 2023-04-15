@@ -4,7 +4,7 @@ title: 写真ギャラリー8/Photo gallery 8
 
 # 写真ギャラリー8/Photo gallery 8
 
-### World Baseball Classic 2023 Japan vs. Italy
+### World Baseball Classic 2023 Quarter Final: Japan vs. Italy
 
 <div style="text-align: center;">
 <ul class="slider">
