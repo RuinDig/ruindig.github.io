@@ -64,11 +64,32 @@ title: 動画ギャラリー/Video gallery
 <p><iframe width="600" height="330" src="https://www.youtube.com/embed/w7W38AlUQAs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 </div>
 
+<p><strong>2022年の大相撲秋巡業 - 大相撲千葉場所 - トークショーの一部</strong></p>
+<p><a href="https://archive.org/details/2022-Autumn-Sumo-Tour-Talkshow-in-Chiba">Watch on Internet Archive</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:2022%E5%B9%B4%E7%A7%8B%E5%B7%A1%E6%A5%AD_%E5%A4%A7%E7%9B%B8%E6%92%B2%E5%8D%83%E8%91%89%E5%A0%B4%E6%89%80%E3%83%88%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%BC.webm">Watch on Wikimedia Commons</a></p>
+<div class="youtube">
+<p><iframe width="600" height="330" src="https://www.youtube.com/embed/Ia36bTr5m-s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+</div>
+
+<p><strong>2022年の大相撲秋巡業 - 大相撲千葉場所 - 大銀杏ができるまで</strong></p>
+<p><a href="https://archive.org/details/2022-Sumo-Autumn-Tour-Ooicho-hair-setting">Watch on Internet Archive</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:2022%E5%B9%B4%E7%A7%8B%E5%B7%A1%E6%A5%AD---%E5%A4%A7%E7%9B%B8%E6%92%B2%E5%8D%83%E8%91%89%E5%A0%B4%E6%89%80---%E5%A4%A7%E9%8A%80%E6%9D%8F%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%E3%81%BE%E3%81%A7.webm">Watch on Wikimedia Commons</a></p>
+<div class="youtube">
+<p><iframe width="600" height="330" src="https://www.youtube.com/embed/4NLIWGIZB5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+</div>
+
 <p><strong>Ingress Epiphany Dawn Yokohama After Party 2022-12-10</strong></p>
 <p><a href="https://archive.org/details/ingress-epiphany-dawn-yokohama-after-party_ruindig_2022-12-10">Watch on Internet Archive</a></p>
 <p><a href="https://commons.wikimedia.org/wiki/File:Ingress-Epiphany-Dawn-Yokohama-After-Party-RuinDig_2022-12-10.webm">Watch on Wikimedia Commons</a></p>
 <div class="youtube">
 <p><iframe width="600" height="330" src="https://www.youtube.com/embed/xoH8Tn2knkY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+</div>
+
+<p><strong>Tatsuji(たつじ/達治) call and fight song for Lars Taylor-Tatsuji Nootbaar on World Baseball Classic 2023</strong></p>
+<p><a href="https://archive.org/details/tatsuji-call-and-fight-song-for-lars-taylor-tatsuji-nootbaar">Watch on Internet Archive</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Tatsuji-Call_Lars-Taylor-Tatsuji-Nootbaar.webm">Watch on Wikimedia Commons</a></p>
+<div class="youtube">
+<p><iframe width="600" height="330" src="https://www.youtube.com/embed/KHrR9uQyQDE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 </div>
 
 <div style="text-align: center;"><p><a href="https://ruindig.github.io/pages/guide-photo-video"><strong>動画の使い方/Guideline for video use</strong></a></p></div>
