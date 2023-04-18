@@ -306,7 +306,7 @@ title: 写真ギャラリー7/Photo gallery 7
 </ul>
 </div>
 
-<div style="text-align:center;"><p><a href="https://ruindig.github.io/pages/photo-gallery-1"><<</a> <a href="https://ruindig.github.io/pages/photo-gallery-6"><button style="width:24px; height:24px; text-align:center;"><span style="color:blue; font-size:17px;">6</span></button></a> - 7 -  <a href="https://ruindig.github.io/pages/photo-gallery-8"><button style="width:24px; height:24px; text-align:center;"><span style="color:blue; font-size:17px;">8</span></button></a> <a href="https://ruindig.github.io/pages/photo-gallery-8"><button style="width:24px; height:24px; text-align:center;"><span style="color:blue; font-size:17px;">8</span></button></a>>></p></div>
+<div style="text-align:center;"><p><a href="https://ruindig.github.io/pages/photo-gallery-1"><<</a> <a href="https://ruindig.github.io/pages/photo-gallery-6"><button style="width:24px; height:24px; text-align:center;"><span style="color:blue; font-size:17px;">6</span></button></a> - 7 -  <a href="https://ruindig.github.io/pages/photo-gallery-8"><button style="width:24px; height:24px; text-align:center;"><span style="color:blue; font-size:17px;">8</span></button></a> <a href="https://ruindig.github.io/pages/photo-gallery-8">>></a></p></div>
 
 <div style="text-align: center;"><p><strong>7/8</strong></p></div>
 
