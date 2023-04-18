@@ -46,6 +46,21 @@ title: 写真ギャラリー8/Photo gallery 8
 
 <div style="text-align: center;">
 <ul class="slider">
+<li><img src="https://user-images.githubusercontent.com/20723919/232673285-248bdb84-6a7b-4062-9ec4-70177b4fde91.JPG" width="500" height="500"><p class="slider-text4">試合開始前、1塁側ベンチの野球日本代表・侍ジャパンの様子</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/232673293-28b25332-8177-42b5-9425-7c2f32db76c3.JPG" width="500" height="500"><p class="slider-text4">試合開始前、1塁側ベンチの野球日本代表・侍ジャパンの様子</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/232673297-abc37f23-3879-4b5b-950e-1da7a188daea.JPG" width="500" height="500"><p class="slider-text4">試合開始前、1塁側ベンチの野球日本代表・侍ジャパンの様子</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/232673301-b0a05d36-1e47-44a8-9847-327ad18915a5.JPG" width="500" height="500"><p class="slider-text4">試合開始前、1塁側ベンチの野球日本代表・侍ジャパンの様子</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/232673302-ed1190eb-03c7-4069-ae52-a73c6231ab8d.JPG" width="500" height="500"><p class="slider-text4">試合開始前、1塁側ベンチの野球日本代表・侍ジャパンの様子</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/232673304-8e9ae922-41a2-434e-a3fd-3c67bc6a6944.JPG" width="500" height="500"><p class="slider-text4">試合開始前、1塁側ベンチの野球日本代表・侍ジャパンの様子</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/232673305-3f24a742-abb6-4e0d-8889-8e98177b75e2.JPG" width="500" height="500"><p class="slider-text4">試合開始前、1塁側ベンチの野球日本代表・侍ジャパンの様子</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/232673307-65688aac-4238-4be1-856a-b81c26ecee1a.JPG" width="500" height="500"><p class="slider-text4">試合開始前、1塁側ベンチの野球日本代表・侍ジャパンの様子</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/232673309-63a8d139-1ee1-4aa3-92f9-de3524042055.JPG" width="500" height="500"><p class="slider-text4">試合開始前、1塁側ベンチの野球日本代表・侍ジャパンの様子</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/232673311-02a618cc-865e-49cb-8e4b-315e261fa4d3.JPG" width="500" height="500"><p class="slider-text4">試合開始前の東京ドームのグラウンド</p></li>
+</ul>
+</div>
+
+<div style="text-align: center;">
+<ul class="slider">
 <li><img src="https://user-images.githubusercontent.com/20723919/229874109-c715c96c-9468-4771-8744-a6d966e3a224.JPG" width="500" alt="5回表、マウンド上、大谷翔平選手(左)と源田壮亮選手(右)"><p class="slider-text4">5回表、マウンド上、大谷翔平選手(左)と源田壮亮選手(右)</p></li>
 <li><img src="https://user-images.githubusercontent.com/20723919/229874118-1834dd43-7966-4245-a1dd-cdb40dc6fa78.JPG" width="500" alt="5回表、マウンド上に集まる内野手陣"><p class="slider-text4">5回表、マウンド上に集まる内野手陣</p></li>
 <li><img src="https://user-images.githubusercontent.com/20723919/229874121-80e93a51-69d7-4337-b8fd-658a9ae32738.JPG" width="500" alt="5回表、栗山英樹監督が大谷翔平選手に投手交代を告げる"><p class="slider-text4">5回表、栗山英樹監督が大谷翔平選手に投手交代を告げる</p></li>
