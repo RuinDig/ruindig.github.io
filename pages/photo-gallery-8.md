@@ -72,6 +72,18 @@ title: 写真ギャラリー8/Photo gallery 8
 </ul>
 </div>
 
+<div style="text-align: center;">
+<ul class="slider">
+<li><img src="https://user-images.githubusercontent.com/20723919/233025992-3fee21f6-003d-41d9-aea6-84600a8fc226.JPG" width="500" height="500"></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/233025997-ffb19960-5b58-44e1-bdfb-cfa472d9be14.JPG" width="500" height="500"></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/233026001-60ddb296-61b8-4f62-adc0-c4e948cca388.JPG" width="500" height="500"></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/233026008-9714203f-a428-4dfd-bc15-cfa225ae3d9e.JPG" width="500" height="500"></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/233026010-92d76207-956b-41c2-ab39-a32480f6c80b.JPG" width="500" height="500"></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/233026016-f6de7ff6-e4f1-4d61-adc2-3ceaaf55cb13.JPG" width="500" height="500"></li>
+<p class="slider-text4">8回表のイタリアの攻撃で、ドミニク・フレッチャー選手のホームランについて2塁塁審とコミュニケーションを取るラーズ・ヌートバー選手。ベンチでは大谷翔平選手が手と柵を使ってホームランの当たりについて説明していた。投手はダルビッシュ有投手、キャッチャーは甲斐拓也選手。</p>
+</ul>
+</div>
+
 <div style="text-align:center;"><p><a href="https://ruindig.github.io/pages/photo-gallery-1"><<</a> <a href="https://ruindig.github.io/pages/photo-gallery-6"><button style="width:24px; height:24px; text-align:center;"><span style="color:blue; font-size:17px;">6</span></button></a> - <a href="https://ruindig.github.io/pages/photo-gallery-7"><button style="width:24px; height:24px; text-align:center;"><span style="color:blue; font-size:17px;">7</span></button></a> - 8 >></p></div>
 
 <div style="text-align: center;"><p><strong>8/8</strong></p></div>
