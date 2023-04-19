@@ -8,6 +8,32 @@ title: 写真ギャラリー8/Photo gallery 8
 
 <div style="text-align: center;">
 <ul class="slider">
+![WBC2023-Quarterfinal-JPNvsITA_Sony-DSC-HX99_2023-03-16_001](https://user-images.githubusercontent.com/20723919/233027399-a9d05dfd-ab93-4270-81f5-705f80d5db80.JPG)
+![WBC2023-Quarterfinal-JPNvsITA_Sony-DSC-HX99_2023-03-16_002](https://user-images.githubusercontent.com/20723919/233027408-f58fab9b-057d-4442-bb98-ff45d0692d0a.JPG)
+![WBC2023-Quarterfinal-JPNvsITA_Sony-DSC-HX99_2023-03-16_003](https://user-images.githubusercontent.com/20723919/233027413-ec627ccd-ed75-4d4c-886e-715b65d8778a.JPG)
+![WBC2023-Quarterfinal-JPNvsITA_Sony-DSC-HX99_2023-03-16_004](https://user-images.githubusercontent.com/20723919/233027415-41275db8-abaf-40e7-b1b9-923e3279d039.JPG)
+![WBC2023-Quarterfinal-JPNvsITA_Sony-DSC-HX99_2023-03-16_005](https://user-images.githubusercontent.com/20723919/233027420-61eea989-2612-407a-94eb-3b2ddc576c92.JPG)
+![WBC2023-Quarterfinal-JPNvsITA_Sony-DSC-HX99_2023-03-16_006](https://user-images.githubusercontent.com/20723919/233027423-288ce63f-669d-4d52-9c90-90806483a09a.JPG)
+</ul>
+</div>
+
+<div style="text-align: center;">
+<ul class="slider">
+![WBC2023-Quarterfinal-JPNvsITA_Sony-DSC-HX99_2023-03-16_007](https://user-images.githubusercontent.com/20723919/233027630-bb2a46c9-7e6b-408a-9224-5eec6c291f22.JPG)
+![WBC2023-Quarterfinal-JPNvsITA_Sony-DSC-HX99_2023-03-16_009](https://user-images.githubusercontent.com/20723919/233027639-7080c994-8876-4549-ba1a-9da924903ccf.JPG)
+![WBC2023-Quarterfinal-JPNvsITA_Sony-DSC-HX99_2023-03-16_011](https://user-images.githubusercontent.com/20723919/233027648-6e17a60f-157d-4346-9de5-b0420c40e495.JPG)
+![WBC2023-Quarterfinal-JPNvsITA_Sony-DSC-HX99_2023-03-16_012](https://user-images.githubusercontent.com/20723919/233027655-2e26ea2b-1fb8-497f-be02-b89819a689db.JPG)
+![WBC2023-Quarterfinal-JPNvsITA_Sony-DSC-HX99_2023-03-16_013](https://user-images.githubusercontent.com/20723919/233027663-a6599f9c-71cf-41bc-aabd-c2748a7ce985.JPG)
+![WBC2023-Quarterfinal-JPNvsITA_Sony-DSC-HX99_2023-03-16_014](https://user-images.githubusercontent.com/20723919/233027665-c9481c72-856b-4ae2-9e80-c6d71be8c38f.JPG)
+![WBC2023-Quarterfinal-JPNvsITA_Sony-DSC-HX99_2023-03-16_015](https://user-images.githubusercontent.com/20723919/233027667-6603b64c-ecab-4d7f-b1c7-4d28970dde63.JPG)
+![WBC2023-Quarterfinal-JPNvsITA_Sony-DSC-HX99_2023-03-16_016](https://user-images.githubusercontent.com/20723919/233027671-4f33b2f9-b0c5-4b7d-98e7-9b4dd010752d.JPG)
+![WBC2023-Quarterfinal-JPNvsITA_Sony-DSC-HX99_2023-03-16_017](https://user-images.githubusercontent.com/20723919/233027674-86dd2bda-45cd-4ad1-9165-77351290395a.JPG)
+![WBC2023-Quarterfinal-JPNvsITA_Sony-DSC-HX99_2023-03-16_018](https://user-images.githubusercontent.com/20723919/233027609-7f110c48-9df8-466a-929d-b59b566106a6.JPG)
+</ul>
+</div>
+
+<div style="text-align: center;">
+<ul class="slider">
 <li><img src="https://user-images.githubusercontent.com/20723919/229515258-f6f9d0de-0af4-4f6e-98ec-f8917d89976c.JPG" width="500" alt="外野でウォーミングアップする佐々木朗希投手(左)と話をする吉井理人投手コーチ"><p class="slider-text4">外野でウォーミングアップする佐々木朗希投手(左)と話をする吉井理人投手コーチ</p></li>
 <li><img src="https://user-images.githubusercontent.com/20723919/229515267-01076ea4-e8b5-49d8-be28-57c8c29162a7.JPG" width="500" alt="外野でウォーミングアップする佐々木朗希投手(左)と話をする吉井理人投手コーチ"><p class="slider-text4">外野でウォーミングアップする佐々木朗希投手(左)と話をする吉井理人投手コーチ</p></li>
 <li><img src="https://user-images.githubusercontent.com/20723919/229515269-6fe8026d-4ada-474e-9578-a3ad6d598cb9.JPG" width="500" alt="外野でウォーミングアップする佐々木朗希投手(左)と話をする吉井理人投手コーチ"><p class="slider-text4">外野でウォーミングアップする佐々木朗希投手(左)と話をする吉井理人投手コーチ</p></li>
@@ -74,13 +100,12 @@ title: 写真ギャラリー8/Photo gallery 8
 
 <div style="text-align: center;">
 <ul class="slider">
-<li><img src="https://user-images.githubusercontent.com/20723919/233025992-3fee21f6-003d-41d9-aea6-84600a8fc226.JPG" width="500" height="500"></li>
-<li><img src="https://user-images.githubusercontent.com/20723919/233025997-ffb19960-5b58-44e1-bdfb-cfa472d9be14.JPG" width="500" height="500"></li>
-<li><img src="https://user-images.githubusercontent.com/20723919/233026001-60ddb296-61b8-4f62-adc0-c4e948cca388.JPG" width="500" height="500"></li>
-<li><img src="https://user-images.githubusercontent.com/20723919/233026008-9714203f-a428-4dfd-bc15-cfa225ae3d9e.JPG" width="500" height="500"></li>
-<li><img src="https://user-images.githubusercontent.com/20723919/233026010-92d76207-956b-41c2-ab39-a32480f6c80b.JPG" width="500" height="500"></li>
-<li><img src="https://user-images.githubusercontent.com/20723919/233026016-f6de7ff6-e4f1-4d61-adc2-3ceaaf55cb13.JPG" width="500" height="500"></li>
-<p class="slider-text4">8回表のイタリアの攻撃で、ドミニク・フレッチャー選手のホームランについて2塁塁審とコミュニケーションを取るラーズ・ヌートバー選手。ベンチでは大谷翔平選手が手と柵を使ってホームランの当たりについて説明していた。投手はダルビッシュ有投手、キャッチャーは甲斐拓也選手。</p>
+<li><img src="https://user-images.githubusercontent.com/20723919/233025992-3fee21f6-003d-41d9-aea6-84600a8fc226.JPG" width="500" height="500"><p class="slider-text4">8回表のイタリアの攻撃で、ドミニク・フレッチャー選手のホームランについて2塁塁審とコミュニケーションを取るラーズ・ヌートバー選手。ベンチでは大谷翔平選手が手と柵を使ってホームランの当たりについて説明していた。投手はダルビッシュ有投手、キャッチャーは甲斐拓也選手。</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/233025997-ffb19960-5b58-44e1-bdfb-cfa472d9be14.JPG" width="500" height="500"><p class="slider-text4">8回表のイタリアの攻撃で、ドミニク・フレッチャー選手のホームランについて2塁塁審とコミュニケーションを取るラーズ・ヌートバー選手。ベンチでは大谷翔平選手が手と柵を使ってホームランの当たりについて説明していた。投手はダルビッシュ有投手、キャッチャーは甲斐拓也選手。</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/233026001-60ddb296-61b8-4f62-adc0-c4e948cca388.JPG" width="500" height="500"><p class="slider-text4">8回表のイタリアの攻撃で、ドミニク・フレッチャー選手のホームランについて2塁塁審とコミュニケーションを取るラーズ・ヌートバー選手。ベンチでは大谷翔平選手が手と柵を使ってホームランの当たりについて説明していた。投手はダルビッシュ有投手、キャッチャーは甲斐拓也選手。</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/233026008-9714203f-a428-4dfd-bc15-cfa225ae3d9e.JPG" width="500" height="500"><p class="slider-text4">8回表のイタリアの攻撃で、ドミニク・フレッチャー選手のホームランについて2塁塁審とコミュニケーションを取るラーズ・ヌートバー選手。ベンチでは大谷翔平選手が手と柵を使ってホームランの当たりについて説明していた。投手はダルビッシュ有投手、キャッチャーは甲斐拓也選手。</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/233026010-92d76207-956b-41c2-ab39-a32480f6c80b.JPG" width="500" height="500"><p class="slider-text4">8回表のイタリアの攻撃で、ドミニク・フレッチャー選手のホームランについて2塁塁審とコミュニケーションを取るラーズ・ヌートバー選手。ベンチでは大谷翔平選手が手と柵を使ってホームランの当たりについて説明していた。投手はダルビッシュ有投手、キャッチャーは甲斐拓也選手。</p></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/233026016-f6de7ff6-e4f1-4d61-adc2-3ceaaf55cb13.JPG" width="500" height="500"><p class="slider-text4">8回表のイタリアの攻撃で、ドミニク・フレッチャー選手のホームランについて2塁塁審とコミュニケーションを取るラーズ・ヌートバー選手。ベンチでは大谷翔平選手が手と柵を使ってホームランの当たりについて説明していた。投手はダルビッシュ有投手、キャッチャーは甲斐拓也選手。</p></li>
 </ul>
 </div>
 
