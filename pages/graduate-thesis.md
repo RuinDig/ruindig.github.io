@@ -65,6 +65,10 @@ title: 卒業論文/学士論文
 
 <iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/201af9e84890449b8440b09a8c6846ae" title="スライド - 位置情報ゲーム「Ingress」を用いた自治体での観光振興の取り組み―神奈川県横須賀市と東京都中野区の事例研究によるモデル構築― 内田悠貴" allowfullscreen="true" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 314;" data-ratio="1.78343949044586"></iframe>
 
+<strong>Dockswell</strong>
+
+<script async class="docswell-embed" src="https://www.docswell.com/assets/libs/docswell-embed/docswell-embed.min.js" data-src="https://www.docswell.com/slide/ZGX13L/embed" data-aspect="0.5625"></script>
+
 <strong>外部ページ</strong>
 
 [位置情報ゲーム「Ingress」を用いた自治体での観光振興の取り組み―神奈川県横須賀市と東京都中野区の事例研究によるモデル構築― 内田悠貴 - blog-RuinDig](https://ruindig.hatenablog.jp/entry/ingress/rd-yu-graduate-thesis)
