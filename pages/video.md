@@ -78,6 +78,27 @@ title: 動画ギャラリー/Video gallery
 <p><iframe width="600" height="330" src="https://www.youtube.com/embed/4NLIWGIZB5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 </div>
 
+<p><strong>相撲甚句 - 2022年の大相撲秋巡業 - 大相撲千葉場所</strong></p>
+<p><a href="https://archive.org/details/sumo-jinku-2022-10-10">Watch on Internet Archive</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:%E7%9B%B8%E6%92%B2%E7%94%9A%E5%8F%A5---2022%E5%B9%B4%E7%A7%8B%E5%B7%A1%E6%A5%AD---%E5%A4%A7%E7%9B%B8%E6%92%B2%E5%8D%83%E8%91%89%E5%A0%B4%E6%89%80.webm">Watch on Wikimedia Commons</a></p>
+<div class="youtube">
+<p><iframe width="600" height="330" src="https://www.youtube.com/embed/DG_JitkQhDQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+</div>
+
+<p><strong>初っ切り - 2022年の大相撲秋巡業 - 大相撲千葉場所</strong></p>
+<p><a href="https://archive.org/details/sumo-shokkiri-2022-10-10">Watch on Internet Archive</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:%E5%88%9D%E3%81%A3%E5%88%87%E3%82%8A---2022%E5%B9%B4%E7%A7%8B%E5%B7%A1%E6%A5%AD---%E5%A4%A7%E7%9B%B8%E6%92%B2%E5%8D%83%E8%91%89%E5%A0%B4%E6%89%80.webm">Watch on Wikimedia Commons</a></p>
+<div class="youtube">
+<p><iframe width="600" height="330" src="https://www.youtube.com/embed/Owpogp3Mgc8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+</div>
+
+<p><strong>呼び出しによる太鼓の実演 - 2022年の大相撲秋巡業 - 大相撲千葉場所</strong></p>
+<p><a href="https://archive.org/details/sumo-yobodashi-taiko-performance-2022-10-10">Watch on Internet Archive</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:%E5%91%BC%E3%81%B3%E5%87%BA%E3%81%97%E3%81%AB%E3%82%88%E3%82%8B%E5%A4%AA%E9%BC%93%E3%81%AE%E5%AE%9F%E6%BC%94---2022%E5%B9%B4%E7%A7%8B%E5%B7%A1%E6%A5%AD---%E5%A4%A7%E7%9B%B8%E6%92%B2%E5%8D%83%E8%91%89%E5%A0%B4%E6%89%80.webm">Watch on Wikimedia Commons</a></p>
+<div class="youtube">
+<p><iframe width="600" height="330" src="https://www.youtube.com/embed/rN0tTuzNUVk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+</div>
+
 <p><strong>Ingress Epiphany Dawn Yokohama After Party 2022-12-10</strong></p>
 <p><a href="https://archive.org/details/ingress-epiphany-dawn-yokohama-after-party_ruindig_2022-12-10">Watch on Internet Archive</a></p>
 <p><a href="https://commons.wikimedia.org/wiki/File:Ingress-Epiphany-Dawn-Yokohama-After-Party-RuinDig_2022-12-10.webm">Watch on Wikimedia Commons</a></p>
