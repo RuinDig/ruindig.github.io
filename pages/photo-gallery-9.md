@@ -18,6 +18,10 @@ title: 写真ギャラリー9/Photo gallery 9
 <img src="https://user-images.githubusercontent.com/20723919/236242245-03b38d82-452d-4083-bc76-b85a164fbd52.jpg" width="600"><p>東京ドームで行われた野球のワールド・ベースボール・クラシック2023の準々決勝の日本対イタリア戦の8回表、ドミニク・フレッチャー選手のホームランについて2塁塁審とコミュニケーションを取るラーズ・ヌートバー選手。ベンチでは大谷翔平選手が手と柵を使ってホームランの当たりについて説明していた。日本代表チームの投手はダルビッシュ有投手、キャッチャーは甲斐拓也選手。2023年3月16日撮影。</p>
 </div>
 
+<div style="text-align: center;">
+<img src="https://user-images.githubusercontent.com/20723919/236262259-27c262a4-db83-4fee-9def-3e448a98e2e9.jpg" width="600"><p> JR東日本の新型の砕石輸送気動車のGV-E197系はレールの下に敷く砕石(バラスト)を輸送する車両。発車標(電光掲示板)はGV-E197系が通過する際の表示。JRのロゴが表示されている。JR蘇我駅で2023年4月8日に撮影。</p>
+</div>
+
 <div style="text-align:center;"><p><a href="https://ruindig.github.io/pages/photo-gallery-1"><<</a> <a href="https://ruindig.github.io/pages/photo-gallery-7"><button style="width:24px; height:24px; text-align:center;"><span style="color:blue; font-size:17px;">7</span></button></a> - <a href="https://ruindig.github.io/pages/photo-gallery-8"><button style="width:24px; height:24px; text-align:center;"><span style="color:blue; font-size:17px;">8</span></button></a> - 9 >></p></div>
 
 <div style="text-align: center;"><p><strong>9/9</strong></p></div>
