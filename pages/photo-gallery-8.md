@@ -8,27 +8,26 @@ title: 写真ギャラリー8/Photo gallery 8
 
 <div style="text-align: center;">
 <ul class="slider">
-![WBC2023-Quarterfinal-JPNvsITA_Sony-DSC-HX99_2023-03-16_001](https://user-images.githubusercontent.com/20723919/233027399-a9d05dfd-ab93-4270-81f5-705f80d5db80.JPG)
-![WBC2023-Quarterfinal-JPNvsITA_Sony-DSC-HX99_2023-03-16_002](https://user-images.githubusercontent.com/20723919/233027408-f58fab9b-057d-4442-bb98-ff45d0692d0a.JPG)
-![WBC2023-Quarterfinal-JPNvsITA_Sony-DSC-HX99_2023-03-16_003](https://user-images.githubusercontent.com/20723919/233027413-ec627ccd-ed75-4d4c-886e-715b65d8778a.JPG)
-![WBC2023-Quarterfinal-JPNvsITA_Sony-DSC-HX99_2023-03-16_004](https://user-images.githubusercontent.com/20723919/233027415-41275db8-abaf-40e7-b1b9-923e3279d039.JPG)
-![WBC2023-Quarterfinal-JPNvsITA_Sony-DSC-HX99_2023-03-16_005](https://user-images.githubusercontent.com/20723919/233027420-61eea989-2612-407a-94eb-3b2ddc576c92.JPG)
-![WBC2023-Quarterfinal-JPNvsITA_Sony-DSC-HX99_2023-03-16_006](https://user-images.githubusercontent.com/20723919/233027423-288ce63f-669d-4d52-9c90-90806483a09a.JPG)
+<li><img src="https://user-images.githubusercontent.com/20723919/233027399-a9d05dfd-ab93-4270-81f5-705f80d5db80.JPG" width="500"></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/233027408-f58fab9b-057d-4442-bb98-ff45d0692d0a.JPG" width="500"></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/233027413-ec627ccd-ed75-4d4c-886e-715b65d8778a.JPG" width="500"></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/233027415-41275db8-abaf-40e7-b1b9-923e3279d039.JPG" width="500"></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/233027420-61eea989-2612-407a-94eb-3b2ddc576c92.JPG" width="500"></li>
 </ul>
 </div>
 
 <div style="text-align: center;">
 <ul class="slider">
-![WBC2023-Quarterfinal-JPNvsITA_Sony-DSC-HX99_2023-03-16_007](https://user-images.githubusercontent.com/20723919/233027630-bb2a46c9-7e6b-408a-9224-5eec6c291f22.JPG)
-![WBC2023-Quarterfinal-JPNvsITA_Sony-DSC-HX99_2023-03-16_009](https://user-images.githubusercontent.com/20723919/233027639-7080c994-8876-4549-ba1a-9da924903ccf.JPG)
-![WBC2023-Quarterfinal-JPNvsITA_Sony-DSC-HX99_2023-03-16_011](https://user-images.githubusercontent.com/20723919/233027648-6e17a60f-157d-4346-9de5-b0420c40e495.JPG)
-![WBC2023-Quarterfinal-JPNvsITA_Sony-DSC-HX99_2023-03-16_012](https://user-images.githubusercontent.com/20723919/233027655-2e26ea2b-1fb8-497f-be02-b89819a689db.JPG)
-![WBC2023-Quarterfinal-JPNvsITA_Sony-DSC-HX99_2023-03-16_013](https://user-images.githubusercontent.com/20723919/233027663-a6599f9c-71cf-41bc-aabd-c2748a7ce985.JPG)
-![WBC2023-Quarterfinal-JPNvsITA_Sony-DSC-HX99_2023-03-16_014](https://user-images.githubusercontent.com/20723919/233027665-c9481c72-856b-4ae2-9e80-c6d71be8c38f.JPG)
-![WBC2023-Quarterfinal-JPNvsITA_Sony-DSC-HX99_2023-03-16_015](https://user-images.githubusercontent.com/20723919/233027667-6603b64c-ecab-4d7f-b1c7-4d28970dde63.JPG)
-![WBC2023-Quarterfinal-JPNvsITA_Sony-DSC-HX99_2023-03-16_016](https://user-images.githubusercontent.com/20723919/233027671-4f33b2f9-b0c5-4b7d-98e7-9b4dd010752d.JPG)
-![WBC2023-Quarterfinal-JPNvsITA_Sony-DSC-HX99_2023-03-16_017](https://user-images.githubusercontent.com/20723919/233027674-86dd2bda-45cd-4ad1-9165-77351290395a.JPG)
-![WBC2023-Quarterfinal-JPNvsITA_Sony-DSC-HX99_2023-03-16_018](https://user-images.githubusercontent.com/20723919/233027609-7f110c48-9df8-466a-929d-b59b566106a6.JPG)
+<li><img src="https://user-images.githubusercontent.com/20723919/233027630-bb2a46c9-7e6b-408a-9224-5eec6c291f22.JPG" width="500"></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/233027639-7080c994-8876-4549-ba1a-9da924903ccf.JPG" width="500"></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/233027648-6e17a60f-157d-4346-9de5-b0420c40e495.JPG" width="500"></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/233027655-2e26ea2b-1fb8-497f-be02-b89819a689db.JPG" width="500"></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/233027663-a6599f9c-71cf-41bc-aabd-c2748a7ce985.JPG" width="500"></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/233027665-c9481c72-856b-4ae2-9e80-c6d71be8c38f.JPG" width="500"></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/233027667-6603b64c-ecab-4d7f-b1c7-4d28970dde63.JPG" width="500"></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/233027671-4f33b2f9-b0c5-4b7d-98e7-9b4dd010752d.JPG" width="500"></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/233027674-86dd2bda-45cd-4ad1-9165-77351290395a.JPG" width="500"></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/233027609-7f110c48-9df8-466a-929d-b59b566106a6.JPG" width="500"></li>
 </ul>
 </div>
 
@@ -109,9 +108,9 @@ title: 写真ギャラリー8/Photo gallery 8
 </ul>
 </div>
 
-<div style="text-align:center;"><p><a href="https://ruindig.github.io/pages/photo-gallery-1"><<</a> <a href="https://ruindig.github.io/pages/photo-gallery-6"><button style="width:24px; height:24px; text-align:center;"><span style="color:blue; font-size:17px;">6</span></button></a> - <a href="https://ruindig.github.io/pages/photo-gallery-7"><button style="width:24px; height:24px; text-align:center;"><span style="color:blue; font-size:17px;">7</span></button></a> - 8 >></p></div>
+<div style="text-align:center;"><p><a href="https://ruindig.github.io/pages/photo-gallery-1"><<</a> <a href="https://ruindig.github.io/pages/photo-gallery-7"><button style="width:24px; height:24px; text-align:center;"><span style="color:blue; font-size:17px;">7</span></button></a> - 8 -  <a href="https://ruindig.github.io/pages/photo-gallery-9"><button style="width:24px; height:24px; text-align:center;"><span style="color:blue; font-size:17px;">9</span></button></a> <a href="https://ruindig.github.io/pages/photo-gallery-9">>></a></p></div>
 
-<div style="text-align: center;"><p><strong>8/8</strong></p></div>
+<div style="text-align: center;"><p><strong>8/9</strong></p></div>
 
 <hr>
 
