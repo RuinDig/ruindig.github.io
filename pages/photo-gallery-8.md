@@ -21,12 +21,17 @@ title: 写真ギャラリー8/Photo gallery 8
 <li><img src="https://user-images.githubusercontent.com/20723919/233027630-bb2a46c9-7e6b-408a-9224-5eec6c291f22.JPG" width="500"></li>
 <li><img src="https://user-images.githubusercontent.com/20723919/233027639-7080c994-8876-4549-ba1a-9da924903ccf.JPG" width="500"></li>
 <li><img src="https://user-images.githubusercontent.com/20723919/233027648-6e17a60f-157d-4346-9de5-b0420c40e495.JPG" width="500"></li>
-<li><img src="https://user-images.githubusercontent.com/20723919/233027655-2e26ea2b-1fb8-497f-be02-b89819a689db.JPG" width="500"></li>
 <li><img src="https://user-images.githubusercontent.com/20723919/233027663-a6599f9c-71cf-41bc-aabd-c2748a7ce985.JPG" width="500"></li>
-<li><img src="https://user-images.githubusercontent.com/20723919/233027665-c9481c72-856b-4ae2-9e80-c6d71be8c38f.JPG" width="500"></li>
 <li><img src="https://user-images.githubusercontent.com/20723919/233027667-6603b64c-ecab-4d7f-b1c7-4d28970dde63.JPG" width="500"></li>
 <li><img src="https://user-images.githubusercontent.com/20723919/233027671-4f33b2f9-b0c5-4b7d-98e7-9b4dd010752d.JPG" width="500"></li>
 <li><img src="https://user-images.githubusercontent.com/20723919/233027674-86dd2bda-45cd-4ad1-9165-77351290395a.JPG" width="500"></li>
+</ul>
+</div>
+
+<div style="text-align: center;">
+<ul class="slider">
+<li><img src="https://user-images.githubusercontent.com/20723919/233027655-2e26ea2b-1fb8-497f-be02-b89819a689db.JPG" width="500"></li>
+<li><img src="https://user-images.githubusercontent.com/20723919/233027665-c9481c72-856b-4ae2-9e80-c6d71be8c38f.JPG" width="500"></li>
 <li><img src="https://user-images.githubusercontent.com/20723919/233027609-7f110c48-9df8-466a-929d-b59b566106a6.JPG" width="500"></li>
 </ul>
 </div>
