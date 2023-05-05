@@ -24,8 +24,10 @@ title: 写真と動画のガイドライン / Guideline of using photos and vide
 
 ### 任意 Optional
 
-<li>If you want to support as tip, you can tip via <a href="https://paypal.me/ruindig/1000">PayPal</a>.</li>
-<li>投げ銭がしたい場合は<a href="https://paypal.me/ruindig/1000">PayPal</a>から投げ銭ができます。</li>
+<li>If you want to support as tip, you can tip via <a href="https://paypal.me/ruindig/500">PayPal</a>.</li>
+<li>投げ銭がしたい場合は<a href="https://paypal.me/ruindig/500">PayPal</a>から投げ銭ができます。</li>
 <li><a href="https://www.yggdore.com">ユグドア</a>のチップ送金サービスでの投げ銭ができます。送金先のURLに<code>https://ruindig.github.io</code>を入力してください。<a href="https://www.yggdore.com/flow/sendbank/">(使い方はこちら)</a></li>
 
 <script src="https://codoc.jp/js/cms.js" data-css="blue" data-usercode="c9TQJjS1dA" charset="UTF-8" defer></script><div id="codoc-entry-8FY1GS5i0A" class="codoc-entries" data-without-body="1" data-support-button-text="RuinDigに100円から投げ銭/Tip from 100JPY" data-show-like="0" data-show-about-codoc="0" data-support-message="よろしければここから投げ銭ができます。ブログと写真と動画の活力になります。Tip here will be energy for blog, photos and videos."></div>
+
+<div style="text-align:center"><p><a href="https://ruindig.github.io"><button style="width:130px; height:50px;"><span style="color:blue; font-size:16px;">Back to Home</span></button></a></p></div>
