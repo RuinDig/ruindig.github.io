@@ -11,7 +11,7 @@ title: 写真ギャラリー9/Photo gallery 9
 </div>
 
 <div style="text-align: center;">
-<img src="https://user-images.githubusercontent.com/20723919/236242236-636b78eb-41bf-4e07-b5b3-345446e15687.jpg" width="600"><p>東京ドームで行われた野球のワールド・ベースボール・クラシック2023の準々決勝の日本対イタリア戦の5回表、日本のピッチャーの大谷翔平からヒットを決めたイタリアのデイビッド・フレッチャー。共にMLBのロサンゼルス・エンゼルスのチームメイト。2023年3月16日撮影。</p>
+<img src="https://user-images.githubusercontent.com/20723919/236242236-636b78eb-41bf-4e07-b5b3-345446e15687.jpg" width="600"><p>東京ドームで行われた野球のワールド・ベースボール・クラシック2023の準々決勝の日本対イタリア戦の5回表、マウンドに立つ日本の大谷翔平選手からヒットを決めたイタリアのデイビッド・フレッチャー選手。共にMLBのロサンゼルス・エンゼルスのチームメイト。2023年3月16日撮影。</p>
 </div>
 
 <div style="text-align: center;">
