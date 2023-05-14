@@ -306,6 +306,20 @@ title: 写真ギャラリー7/Photo gallery 7
 </ul>
 </div>
 
+<div style="text-align: center;">
+<ul class="slider">
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/b9d7f5da-a4d1-42d8-bb7c-f2d6a9b3a1cf" width="500" height="500"><p class="slider-text4">ニュージーランド代表の4番ブロディー・レタリック(Brodie Retallick)がテレビジョンマッチオフィシャル(TMO)の判定によって後半にレッドカードの退場処分を受けてベンチに下がるまでの場面。主審はジョージアラグビー協会のニカ・アマシュケリ(Nika Amashukeli)。</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/56449d9e-9691-4c04-bff2-96b5e953140a" width="500" height="500"><p class="slider-text4">ニュージーランド代表の4番ブロディー・レタリック(Brodie Retallick)がテレビジョンマッチオフィシャル(TMO)の判定によって後半にレッドカードの退場処分を受けてベンチに下がるまでの場面。主審はジョージアラグビー協会のニカ・アマシュケリ(Nika Amashukeli)。</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/2babb908-1299-4ab8-ae3e-a3729f5d4eac" width="500" height="500"><p class="slider-text4">ニュージーランド代表の4番ブロディー・レタリック(Brodie Retallick)がテレビジョンマッチオフィシャル(TMO)の判定によって後半にレッドカードの退場処分を受けてベンチに下がるまでの場面。主審はジョージアラグビー協会のニカ・アマシュケリ(Nika Amashukeli)。</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/ca0a7831-d899-4d73-b0c5-b82c3e797a8c" width="500" height="500"><p class="slider-text4">ニュージーランド代表の4番ブロディー・レタリック(Brodie Retallick)がテレビジョンマッチオフィシャル(TMO)の判定によって後半にレッドカードの退場処分を受けてベンチに下がるまでの場面。主審はジョージアラグビー協会のニカ・アマシュケリ(Nika Amashukeli)。</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/ec7db75e-529e-476d-849c-433ca2a01140" width="500" height="500"><p class="slider-text4">ニュージーランド代表の4番ブロディー・レタリック(Brodie Retallick)がテレビジョンマッチオフィシャル(TMO)の判定によって後半にレッドカードの退場処分を受けてベンチに下がるまでの場面。主審はジョージアラグビー協会のニカ・アマシュケリ(Nika Amashukeli)。</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/e9a23398-55dd-4d3d-9dc0-70ab3b67fc48" width="500" height="500"><p class="slider-text4">ニュージーランド代表の4番ブロディー・レタリック(Brodie Retallick)がテレビジョンマッチオフィシャル(TMO)の判定によって後半にレッドカードの退場処分を受けてベンチに下がるまでの場面。主審はジョージアラグビー協会のニカ・アマシュケリ(Nika Amashukeli)。</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/036b05de-ed2d-4d44-ab38-e563c14a9903" width="500" height="500"></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/88353971-22f3-4e27-8935-b7acf8a3819a" width="500" height="500"><p class="slider-text4">ニュージーランド代表の4番ブロディー・レタリック(Brodie Retallick)がテレビジョンマッチオフィシャル(TMO)の判定によって後半にレッドカードの退場処分を受けてベンチに下がるまでの場面。主審はジョージアラグビー協会のニカ・アマシュケリ(Nika Amashukeli)。</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/98ee5727-cf3d-454d-ba90-7d347b999bdb" width="500" height="500"><p class="slider-text4">ニュージーランド代表の4番ブロディー・レタリック(Brodie Retallick)がテレビジョンマッチオフィシャル(TMO)の判定によって後半にレッドカードの退場処分を受けてベンチに下がるまでの場面。主審はジョージアラグビー協会のニカ・アマシュケリ(Nika Amashukeli)。</p></li>
+</ul>
+</div>
+
 <div style="text-align:center;"><p><a href="https://ruindig.github.io/pages/photo-gallery-1"><<</a> <a href="https://ruindig.github.io/pages/photo-gallery-6"><button style="width:24px; height:24px; text-align:center;"><span style="color:blue; font-size:17px;">6</span></button></a> - 7 -  <a href="https://ruindig.github.io/pages/photo-gallery-8"><button style="width:24px; height:24px; text-align:center;"><span style="color:blue; font-size:17px;">8</span></button></a> <a href="https://ruindig.github.io/pages/photo-gallery-9">>></a></p></div>
 
 <div style="text-align: center;"><p><strong>7/9</strong></p></div>
