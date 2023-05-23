@@ -96,10 +96,6 @@ title: 写真ギャラリー5/Photo gallery 5
 
 <div style="text-align: center;"><a href="https://creativecommons.org/licenses/by/4.0/deed.ja"><img src="https://user-images.githubusercontent.com/20723919/145936543-577c7705-90e2-4d56-ad5d-26b0fbcea02d.png"></a></div>
 
-<p>RuinDigがInternet Archiveにアップロードした写真と動画は<a href="https://archive.org/details/@ruindig?and[]=creator%3A%22ruindig%2Fyuki+uchida%22&sort=-date&and[]=mediatype%3A%22image%22&and[]=mediatype%3A%22movies%22">こちら</a>。各種動画や写真を無料でダウンロードできます。基本的には【<a href="https://creativecommons.org/licenses/by/4.0/deed.ja">CC-BY-4.0</a> - RuinDig/Yuki Uchida】を表記すれば利用できますが、動画や写真によって異なる場合があるので、それぞれの詳細を参照してください。</p>
-
-<p>You can download videos and images without any fees at <a href="https://archive.org/details/@ruindig?and[]=creator%3A%22ruindig%2Fyuki+uchida%22&sort=-date&and[]=mediatype%3A%22image%22&and[]=mediatype%3A%22movies%22">RuinDig's Internet Archive uploads</a>. Basically, you can use videos and images with credit "<a href="https://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a> - RuinDig/Yuki Uchida". Check each videos and images details.</p>
-
 <hr>
 
 <div style="text-align:center"><p><a href="https://ruindig.github.io"><button style="width:130px; height:50px;"><span style="color:blue; font-size:16px;">Back to Home</span></button></a></p></div>
