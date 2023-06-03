@@ -6,7 +6,7 @@ title: Home
 
 <div style="text-align:center"><p><a href="https://twitter.com/RuinDig"><button style="width:138px; height:60px;"><span style="color:blue; font-size:17px;">Twitter</span></button></a></p></div>
 
-<div style="text-align:center"><p><a href="https://twilog.org/RuinDig"><button style="width:138px; height:60px;"><span style="color:blue; font-size:17px;">Twilog</span></button></a></p></div>
+<div style="text-align:center"><p><a href="https://twilog.togetter.com/RuinDig"><button style="width:138px; height:60px;"><span style="color:blue; font-size:17px;">Twilog</span></button></a></p></div>
 
 <div style="text-align:center"><p><a href="https://www.instagram.com/ruin.dig"><button style="width:138px; height:60px;"><span style="color:blue; font-size:17px;">Instagram</span></button></a></p></div>
 
