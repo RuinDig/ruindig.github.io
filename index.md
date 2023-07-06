@@ -10,6 +10,8 @@ title: Home
 
 <div style="text-align:center"><p><a href="https://www.instagram.com/ruin.dig"><button style="width:138px; height:60px;"><span style="color:blue; font-size:17px;">Instagram</span></button></a></p></div>
 
+<div style="text-align:center"><p><a href="https://www.threads.net/@ruin.dig"><button style="width:138px; height:60px;"><span style="color:blue; font-size:17px;">Threads</span></button></a></p></div>
+
 <div style="text-align:center"><p><a href="https://ruindig.hatenablog.jp"><button style="width:138px; height:60px;"><span style="color:blue; font-size:17px;">blog-RuinDig</span></button></a></p></div>
 
 <div style="text-align:center"><p><a href="https://note.com/ruindig"><button style="width:138px; height:60px;"><span style="color:blue; font-size:17px">note</span></button></a></p></div>
