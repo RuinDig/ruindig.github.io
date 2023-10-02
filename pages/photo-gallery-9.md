@@ -64,6 +64,25 @@ Tokyo Game Show 2023 Day3 at Makuhari Messe, Chiba City, Chiba Prefecture, Japan
 </ul>
 </div>
 
+<div style="text-align: center;">
+<ul class="slider">
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/9564fd7d-fbdd-49e2-a92c-df9d5ca0a126" width="700"><p>山之内すず</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/059597e0-0174-4007-8f66-6606f920e06c" width="700"><p>山之内すず</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/9b109216-f339-4dfc-b64e-d91fc3e22ec4" width="700"><p>松本優</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/e6e646df-e74a-42d6-8afe-b82c18caa818" width="700"><p>松本優</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/9d927ed3-e731-4479-8759-668d5e2b9f4d" width="700"><p>西川裕規</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/05dd7b21-e57f-47b3-bb67-0e193b2a16ed" width="700"><p>遊馬</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/7703eabc-f431-464c-af04-5978a6be1a61" width="700"><p>涼那</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/4bcbedb0-8788-443d-ae5a-62d614540209" width="700"><p>佐久本歩夢</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/8c0b76d6-92b7-4e10-84d9-4a80ba90eb77" width="700"><p>中村歩加</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/0829751d-909a-430b-a860-94bfc94d8855" width="700"><p>大輔</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/ad8e59c6-7e75-4b3a-91b2-d43b689780a6" width="700"><p>みやひなた</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/fa82771c-a14c-46e5-a1c9-8bd4637ef918" width="700"><p>福岡みなみ</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/0ad0f59b-3105-4dc4-8e46-d4e9a6f7c0f4" width="700"><p>TGS2023×AZUL BY MOUSSY Fashion Showのフィナーレ</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/329ed532-5477-4d85-90c7-a9202f1d85c6" width="700"><p>TGS2023×AZUL BY MOUSSY Fashion Showの終了後の会場</p>
+</ul>
+</div>
+
 <div style="text-align:center;"><p><a href="https://ruindig.github.io/pages/photo-gallery-1"><<</a> <a href="https://ruindig.github.io/pages/photo-gallery-7"><button style="width:24px; height:24px; text-align:center;"><span style="color:blue; font-size:17px;">7</span></button></a> - <a href="https://ruindig.github.io/pages/photo-gallery-8"><button style="width:24px; height:24px; text-align:center;"><span style="color:blue; font-size:17px;">8</span></button></a> - 9 >></p></div>
 
 <div style="text-align: center;"><p><strong>9/9</strong></p></div>
