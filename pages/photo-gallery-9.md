@@ -28,39 +28,39 @@ Tokyo Game Show 2023 Day3 at Makuhari Messe, Chiba City, Chiba Prefecture, Japan
 
 <div style="text-align: center;">
 <ul class="slider">
-<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/b898fa23-a4fd-4829-859f-66841986a031" width="700"><p>TGS2023×AZUL BY MOUSSY Fashion Showの会場</p></li>
-<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/8cef8ba1-8c1d-4f4b-a529-d35f2291cfec" width="700"><p>TGS2023×AZUL BY MOUSSY Fashion Show</p></li>
-<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/c4384440-b2b0-47dd-8306-2273f16134a8" width="700"><p>司会は元日本テレビアナウンサー・ゲームキャスターの篠原光</p></li>
-<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/a4eb8c43-26ba-41af-8690-69fc21adedb8" width="700"><p>山之内すず</p></li>
-<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/475a6a35-78ad-4b99-9028-2eb4e3dbf76a" width="700"><p>山之内すず</p></li>
-<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/fa1caddb-9102-4c06-b835-f1f77c927a57" width="700"><p>西川裕規</p></li>
-<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/272c81c1-9d25-462a-9f8f-8ff3fda0d611" width="700"><p>福岡みなみ</p></li>
-<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/bf88a227-8a7a-4f5b-9d52-cb8cc5f54054" width="700"><p>福岡みなみ</p></li>
-<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/3979b92c-aef3-495b-9dcf-01f237927180" width="700"><p>福岡みなみ</p></li>
-<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/2c224ae7-f421-4c5a-b284-fe0093d6d32f" width="700"></p></li>福岡みなみ</p></li>
-<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/a9879cd1-f507-4550-805c-77018737058e" width="700"><p>涼那</p></li>
-<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/e61ab7fc-a1a7-425c-92a6-ddebfc288a5d" width="700"><p>涼那</p></li>
-<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/af9ef594-cc24-4079-b912-cde58d767cfc" width="700"><p>佐久本歩夢</p></li>
-<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/61a3db06-df12-4af7-92f9-3fc37f600514" width="700"><p>みやひなた</p></li>
-<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/3240f183-3f44-4ff9-b0de-caf9da365aa2" width="700"><p>大輔</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/b898fa23-a4fd-4829-859f-66841986a031" width="700"><p class="slider-text4">TGS2023×AZUL BY MOUSSY Fashion Showの会場</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/8cef8ba1-8c1d-4f4b-a529-d35f2291cfec" width="700"><p class="slider-text4">TGS2023×AZUL BY MOUSSY Fashion Show</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/c4384440-b2b0-47dd-8306-2273f16134a8" width="700"><p class="slider-text4">司会は元日本テレビアナウンサー・ゲームキャスターの篠原光</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/a4eb8c43-26ba-41af-8690-69fc21adedb8" width="700"><p class="slider-text4">山之内すず</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/475a6a35-78ad-4b99-9028-2eb4e3dbf76a" width="700"><p class="slider-text4">山之内すず</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/fa1caddb-9102-4c06-b835-f1f77c927a57" width="700"><p class="slider-text4">西川裕規</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/272c81c1-9d25-462a-9f8f-8ff3fda0d611" width="700"><p class="slider-text4">福岡みなみ</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/bf88a227-8a7a-4f5b-9d52-cb8cc5f54054" width="700"><p class="slider-text4">福岡みなみ</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/3979b92c-aef3-495b-9dcf-01f237927180" width="700"><p class="slider-text4">福岡みなみ</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/2c224ae7-f421-4c5a-b284-fe0093d6d32f" width="700"><p class="slider-text4">福岡みなみ</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/a9879cd1-f507-4550-805c-77018737058e" width="700"><p class="slider-text4">涼那</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/e61ab7fc-a1a7-425c-92a6-ddebfc288a5d" width="700"><p class="slider-text4">涼那</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/af9ef594-cc24-4079-b912-cde58d767cfc" width="700"><p class="slider-text4">佐久本歩夢</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/61a3db06-df12-4af7-92f9-3fc37f600514" width="700"><p class="slider-text4">みやひなた</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/3240f183-3f44-4ff9-b0de-caf9da365aa2" width="700"><p class="slider-text4">大輔</p></li>
 </ul>
 </div>
 
 <div style="text-align: center;">
 <ul class="slider">
-<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/6dfe5187-f9c6-4fd5-a5f5-7759d9c6230f" width="700"><p>福岡みなみ</p></li>
-<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/5d31374d-14da-49a5-bf86-c215bb1c6bb4" width="700"><p>福岡みなみ</p></li>
-<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/1c153890-aea8-493b-9185-0ee60cff10bd" width="700"><p>福岡みなみ</p></li>
-<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/749dd228-a4a0-4940-9aae-0003b79aaaec" width="700"><p>中村歩加</p></li>
-<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/bdf67915-3edf-48e8-8ae4-2ac1f9e10a09" width="700"><p>中村歩加</p></li>
-<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/11b5789b-8397-4ce7-b536-d80bbacb6c57" width="700"><p>中村歩加</p></li>
-<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/c20c56df-bbf0-4822-b4ae-2d8cb1a85d33" width="700"><p>中村歩加</p></li>
-<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/99b78ca5-7615-414d-b9a6-22faffe0a329" width="700"><p>佐久本歩夢</p></li>
-<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/c2665e54-4228-4dfe-8f0f-bf4ea15e1ba7" width="700"><p>佐久本歩夢</p></li>
-<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/246c74f1-b58e-4fe7-b81b-5e6174c5c06c" width="700"><p>佐久本歩夢</p></li>
-<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/4ee4aea5-b9c6-4528-8beb-481d6c4d1db1" width="700"><p>佐久本歩夢</p></li>
-<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/021cde02-3c9a-47a9-9a20-ccd6f725266c" width="700"><p>みやひなた</p></li>
-<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/653cda65-3a87-4c4f-9aaa-2a2ec2c8104f" width="700"><p>みやひなた</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/6dfe5187-f9c6-4fd5-a5f5-7759d9c6230f" width="700"><p class="slider-text4">福岡みなみ</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/5d31374d-14da-49a5-bf86-c215bb1c6bb4" width="700"><p class="slider-text4">福岡みなみ</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/1c153890-aea8-493b-9185-0ee60cff10bd" width="700"><p class="slider-text4">福岡みなみ</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/749dd228-a4a0-4940-9aae-0003b79aaaec" width="700"><p class="slider-text4">中村歩加</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/bdf67915-3edf-48e8-8ae4-2ac1f9e10a09" width="700"><p class="slider-text4">中村歩加</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/11b5789b-8397-4ce7-b536-d80bbacb6c57" width="700"><p class="slider-text4">中村歩加</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/c20c56df-bbf0-4822-b4ae-2d8cb1a85d33" width="700"><p class="slider-text4">中村歩加</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/99b78ca5-7615-414d-b9a6-22faffe0a329" width="700"><p class="slider-text4">佐久本歩夢</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/c2665e54-4228-4dfe-8f0f-bf4ea15e1ba7" width="700"><p class="slider-text4">佐久本歩夢</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/246c74f1-b58e-4fe7-b81b-5e6174c5c06c" width="700"><p class="slider-text4">佐久本歩夢</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/4ee4aea5-b9c6-4528-8beb-481d6c4d1db1" width="700"><p class="slider-text4">佐久本歩夢</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/021cde02-3c9a-47a9-9a20-ccd6f725266c" width="700"><p class="slider-text4">みやひなた</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/653cda65-3a87-4c4f-9aaa-2a2ec2c8104f" width="700"><p class="slider-text4">みやひなた</p></li>
 </ul>
 </div>
 
