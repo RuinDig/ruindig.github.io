@@ -4,7 +4,7 @@ title: 写真ギャラリー9/Photo gallery 9
 
 # 写真ギャラリー9/Photo gallery 9
 
-# 組み合わせ写真/Photo collages
+### 組み合わせ写真/Photo collages
 
 <div style="text-align: center;">
 <img src="https://user-images.githubusercontent.com/20723919/236242223-1969f6de-fe1d-4734-9ee2-4543ab4b9d15.jpg" width="700"><p>2022年7月5日、ZOZOマリンスタジアムで開催された日本のプロ野球のパ・リーグ公式戦、千葉ロッテマリーンズ対北海道日本ハムファイターズの試合。延長10回裏、千葉ロッテマリーンズの攻撃。千葉ロッテマリーンズ・小川龍成(背番号57)の第4打席ではバントの構えをするが、ロッテ・山口航輝(背番号51)の代走のロッテ・和田康士朗(背番号63)が2塁への盗塁に成功する。球審は深谷篤(袖番号23)、キャッチャーは北海道日本ハムファイターズ・石川亮(背番号68)、2塁の守備は北海道日本ハムファイターズ・上川畑大悟(背番号4)、セーフの判定は2塁塁審の敷田直人(袖番号3)。</p>
@@ -21,6 +21,12 @@ title: 写真ギャラリー9/Photo gallery 9
 <div style="text-align: center;">
 <img src="https://user-images.githubusercontent.com/20723919/236262259-27c262a4-db83-4fee-9def-3e448a98e2e9.jpg" width="700"><p> JR東日本の新型の砕石輸送気動車のGV-E197系はレールの下に敷く砕石(バラスト)を輸送する車両。発車標(電光掲示板)はGV-E197系が通過する際の表示で、JRのロゴが表示されている。千葉県のJR蘇我駅で2023年4月8日に撮影。</p>
 </div>
+
+### TGS2023×AZUL BY MOUSSY Fashion Show
+
+Tokyo Game Show 2023 Day3 at Makuhari Messe, Chiba City, Chiba Prefecture, Japan, on 2023.9.23.
+
+
 
 <div style="text-align:center;"><p><a href="https://ruindig.github.io/pages/photo-gallery-1"><<</a> <a href="https://ruindig.github.io/pages/photo-gallery-7"><button style="width:24px; height:24px; text-align:center;"><span style="color:blue; font-size:17px;">7</span></button></a> - <a href="https://ruindig.github.io/pages/photo-gallery-8"><button style="width:24px; height:24px; text-align:center;"><span style="color:blue; font-size:17px;">8</span></button></a> - 9 >></p></div>
 
