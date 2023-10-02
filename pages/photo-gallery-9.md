@@ -50,7 +50,7 @@ Tokyo Game Show 2023 Day3 at Makuhari Messe, Chiba City, Chiba Prefecture, Japan
 <ul class="slider">
 <li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/6dfe5187-f9c6-4fd5-a5f5-7759d9c6230f" width="700"><p>福岡みなみ</p></li>
 <li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/5d31374d-14da-49a5-bf86-c215bb1c6bb4" width="700"><p>福岡みなみ</p></li>
-<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/1c153890-aea8-493b-9185-0ee60cff10bd" width="700"><p></p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/1c153890-aea8-493b-9185-0ee60cff10bd" width="700"><p>福岡みなみ</p></li>
 <li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/749dd228-a4a0-4940-9aae-0003b79aaaec" width="700"><p>中村歩加</p></li>
 <li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/bdf67915-3edf-48e8-8ae4-2ac1f9e10a09" width="700"><p>中村歩加</p></li>
 <li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/11b5789b-8397-4ce7-b536-d80bbacb6c57" width="700"><p>中村歩加</p></li>
