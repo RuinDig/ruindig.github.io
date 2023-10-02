@@ -79,7 +79,7 @@ Tokyo Game Show 2023 Day3 at Makuhari Messe, Chiba City, Chiba Prefecture, Japan
 <li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/ad8e59c6-7e75-4b3a-91b2-d43b689780a6" width="700"><p>みやひなた</p></li>
 <li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/fa82771c-a14c-46e5-a1c9-8bd4637ef918" width="700"><p>福岡みなみ</p></li>
 <li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/0ad0f59b-3105-4dc4-8e46-d4e9a6f7c0f4" width="700"><p>TGS2023×AZUL BY MOUSSY Fashion Showのフィナーレ</p></li>
-<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/329ed532-5477-4d85-90c7-a9202f1d85c6" width="700"><p>TGS2023×AZUL BY MOUSSY Fashion Showの終了後の会場</p>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/329ed532-5477-4d85-90c7-a9202f1d85c6" width="700"><p>TGS2023×AZUL BY MOUSSY Fashion Showの終了後の会場</p></li>
 </ul>
 </div>
 
