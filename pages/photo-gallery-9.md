@@ -66,20 +66,20 @@ Tokyo Game Show 2023 Day3 at Makuhari Messe, Chiba City, Chiba Prefecture, Japan
 
 <div style="text-align: center;">
 <ul class="slider">
-<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/9564fd7d-fbdd-49e2-a92c-df9d5ca0a126" width="700"><<p class="slider-text4">山之内すず</p></li>
-<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/059597e0-0174-4007-8f66-6606f920e06c" width="700"><<p class="slider-text4">山之内すず</p></li>
-<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/9b109216-f339-4dfc-b64e-d91fc3e22ec4" width="700"><<p class="slider-text4">松本優</p></li>
-<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/e6e646df-e74a-42d6-8afe-b82c18caa818" width="700"><<p class="slider-text4">松本優</p></li>
-<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/9d927ed3-e731-4479-8759-668d5e2b9f4d" width="700"><<p class="slider-text4">西川裕規</p></li>
-<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/05dd7b21-e57f-47b3-bb67-0e193b2a16ed" width="700"><<p class="slider-text4">遊馬</p></li>
-<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/7703eabc-f431-464c-af04-5978a6be1a61" width="700"><<p class="slider-text4">涼那</p></li>
-<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/4bcbedb0-8788-443d-ae5a-62d614540209" width="700"><<p class="slider-text4">佐久本歩夢</p></li>
-<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/8c0b76d6-92b7-4e10-84d9-4a80ba90eb77" width="700"><<p class="slider-text4">中村歩加</p></li>
-<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/0829751d-909a-430b-a860-94bfc94d8855" width="700"><<p class="slider-text4">大輔</p></li>
-<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/ad8e59c6-7e75-4b3a-91b2-d43b689780a6" width="700"><<p class="slider-text4">みやひなた</p></li>
-<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/fa82771c-a14c-46e5-a1c9-8bd4637ef918" width="700"><<p class="slider-text4">福岡みなみ</p></li>
-<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/0ad0f59b-3105-4dc4-8e46-d4e9a6f7c0f4" width="700"><<p class="slider-text4">TGS2023×AZUL BY MOUSSY Fashion Showのフィナーレ</p></li>
-<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/329ed532-5477-4d85-90c7-a9202f1d85c6" width="700"><<p class="slider-text4">TGS2023×AZUL BY MOUSSY Fashion Showの終了後の会場</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/9564fd7d-fbdd-49e2-a92c-df9d5ca0a126" width="700"><p class="slider-text4">山之内すず</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/059597e0-0174-4007-8f66-6606f920e06c" width="700"><p class="slider-text4">山之内すず</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/9b109216-f339-4dfc-b64e-d91fc3e22ec4" width="700"><p class="slider-text4">松本優</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/e6e646df-e74a-42d6-8afe-b82c18caa818" width="700"><p class="slider-text4">松本優</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/9d927ed3-e731-4479-8759-668d5e2b9f4d" width="700"><p class="slider-text4">西川裕規</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/05dd7b21-e57f-47b3-bb67-0e193b2a16ed" width="700"><p class="slider-text4">遊馬</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/7703eabc-f431-464c-af04-5978a6be1a61" width="700"><p class="slider-text4">涼那</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/4bcbedb0-8788-443d-ae5a-62d614540209" width="700"><p class="slider-text4">佐久本歩夢</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/8c0b76d6-92b7-4e10-84d9-4a80ba90eb77" width="700"><p class="slider-text4">中村歩加</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/0829751d-909a-430b-a860-94bfc94d8855" width="700"><p class="slider-text4">大輔</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/ad8e59c6-7e75-4b3a-91b2-d43b689780a6" width="700"><p class="slider-text4">みやひなた</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/fa82771c-a14c-46e5-a1c9-8bd4637ef918" width="700"><p class="slider-text4">福岡みなみ</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/0ad0f59b-3105-4dc4-8e46-d4e9a6f7c0f4" width="700"><p class="slider-text4">TGS2023×AZUL BY MOUSSY Fashion Showのフィナーレ</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/329ed532-5477-4d85-90c7-a9202f1d85c6" width="700"><p class="slider-text4">TGS2023×AZUL BY MOUSSY Fashion Showの終了後の会場</p></li>
 </ul>
 </div>
 
