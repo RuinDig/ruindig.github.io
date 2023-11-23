@@ -113,6 +113,13 @@ title: 動画ギャラリー/Video gallery
 <p><iframe width="600" height="330" src="https://www.youtube.com/embed/KHrR9uQyQDE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 </div>
 
+<p><strong>JR幕張豊砂駅1番線ホームから見る京葉線の列車</strong></p>
+<p><a href="https://archive.org/details/jr-east-makuhari-toyosuna-platform1-keiyo-line-video">Watch on Internet Archive</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:JR-East-Makuhari-Toyosuna-Platform1-Keiyo-Line-video.webm">Watch on Wikimedia Commons</a></p>
+<div class="youtube">
+<iframe width="600" height="330" src="https://www.youtube.com/embed/1QYGzWA9DGw?si=gYygPazDTmjLZL0z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 <div style="text-align: center;"><p><a href="https://ruindig.github.io/pages/guide-photo-video"><strong>動画の使い方/Guideline for video use</strong></a></p></div>
 
 <div style="text-align: center;"><p>CC-BY-4.0 - RuinDig/Yuki Uchida</p></div>
