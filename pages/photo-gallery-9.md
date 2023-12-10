@@ -24,6 +24,7 @@ title: 写真ギャラリー9/Photo gallery 9
 
 ### TGS2023×AZUL BY MOUSSY Fashion Show
 
+2023年9月23日 千葉県千葉市の幕張メッセでの東京ゲームショウ2023 3日目
 Tokyo Game Show 2023 Day3 at Makuhari Messe, Chiba City, Chiba Prefecture, Japan, on 2023.9.23.
 
 <div style="text-align: center;">
