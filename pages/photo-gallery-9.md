@@ -92,7 +92,6 @@ Tokyo Game Show 2023 Day3 at Makuhari Messe, Chiba City, Chiba Prefecture, Japan
 <ul class="slider">
 <li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/1f3148b4-84fc-4b17-93eb-9b547be61d1f" width="700"><p class="slider-text4">延長戦を終えて0対0で迎えたPK戦、柏レイソルの10人目のキッカー、ゴールキーパーの松本健太</p></li>
 <li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/a9d6dde1-415f-442c-9aa3-5a6d09ab852e" width="700"><p class="slider-text4">延長戦を終えて0対0で迎えたPK戦、柏レイソルの10人目のキッカー、ゴールキーパーの松本健太</p></li>
-<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/32f859f0-8123-4d9f-bac5-c10567e06c34" width="700"><p class="slider-text4">延長戦を終えて0対0で迎えたPK戦、柏レイソルの10人目のキッカー、ゴールキーパーの松本健太</p></li>
 <li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/6d4cca8c-6bb6-40ab-a365-81bf5bca5d92" width="700"><p class="slider-text4">延長戦を終えて0対0で迎えたPK戦、柏レイソルの10人目のキッカー、ゴールキーパーの松本健太、川崎フロンターレのゴールキーパーはチョン・ソンリョン</p></li>
 <li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/5a7230c3-0f7c-4f4e-b132-90624960dc0f" width="700"><p class="slider-text4">延長戦を終えて0対0で迎えたPK戦、柏レイソルの10人目のキッカー、ゴールキーパーの松本健太、川崎フロンターレのゴールキーパーはチョン・ソンリョン</p></li>
 <li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/9d3ccbe3-17af-487f-b006-d33b6a5fe1ee" width="700"><p class="slider-text4">延長戦を終えて0対0で迎えたPK戦、柏レイソルの10人目のキッカー、ゴールキーパーの松本健太、川崎フロンターレのゴールキーパーはチョン・ソンリョン</p></li>
@@ -107,7 +106,7 @@ Tokyo Game Show 2023 Day3 at Makuhari Messe, Chiba City, Chiba Prefecture, Japan
 <li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/a48f7717-3cd5-4030-b410-9f6596b3eeb5" width="700"><p class="slider-text4">延長戦を終えて0対0で迎えたPK戦を終えて喜ぶ川崎フロンターレの面々(左)と、シュートを防がれて優勝を逃した柏レイソルのゴールキーパーの松本健太(右)。</p></li>
 <li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/3735f419-a41b-421b-82d2-2cb8dc2876a5" width="700"><p class="slider-text4">シュートを防がれて優勝を逃した柏レイソルのゴールキーパーの松本健太(右)は天を仰ぐ。松本の元に最初に駆け寄ったのは立田悠悟。</p></li>
 <li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/a8bacca7-710a-49f1-9bf2-c73d46c8ad88" width="700"><p class="slider-text4">シュートを防がれて優勝を逃した柏レイソルのゴールキーパーの松本健太(右)は天を仰ぐ。松本の元に駆け寄ったのは柏レイソルの立田悠悟や仙頭啓矢、川口尚紀が駆け寄った。</p></li>
-<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/46f7bf29-c968-423b-958b-5be593de1357" width="700"><p class="slider-text4">延長線を終えて0対0で迎えた、川崎フロンターレ対柏レイソルのPK戦のスコアボード。10人が蹴って8対7で川崎フロンターレが優勝を決めた。</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/46f7bf29-c968-423b-958b-5be593de1357" width="700"><p class="slider-text4">延長線を終えて0対0で迎えた、川崎フロンターレ対柏レイソルのPK戦のスコアボード。各チーム10人が蹴って8対7で川崎フロンターレが優勝を決めた。</p></li>
 </ul>
 </div>
 
