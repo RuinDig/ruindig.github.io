@@ -117,7 +117,14 @@ title: 動画ギャラリー/Video gallery
 <p><a href="https://archive.org/details/jr-east-makuhari-toyosuna-platform1-keiyo-line-video">Watch on Internet Archive</a></p>
 <p><a href="https://commons.wikimedia.org/wiki/File:JR-East-Makuhari-Toyosuna-Platform1-Keiyo-Line-video.webm">Watch on Wikimedia Commons</a></p>
 <div class="youtube">
-<iframe width="600" height="330" src="https://www.youtube.com/embed/1QYGzWA9DGw?si=gYygPazDTmjLZL0z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="600" height="330" src="https://www.youtube.com/embed/1QYGzWA9DGw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+<p><strong>アーカックスの動作デモンストレーション - Japan Mobility Show 2023</strong></p>
+<p><a href="https://archive.org/details/japan-mobility-show-2023-tsubame-industry-archax">Watch on Internet Archive</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Tsubame-Industry-Archax---Japan-Mobility-Show-2023.webm">Watch on Wikimedia Commons</a></p>
+<div class="youtube">
+<iframe width="600" height="330" src="https://www.youtube.com/embed/VAq5JsYaofs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <div style="text-align: center;"><p><a href="https://ruindig.github.io/pages/guide-photo-video"><strong>動画の使い方/Guideline for video use</strong></a></p></div>
