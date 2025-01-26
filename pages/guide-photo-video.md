@@ -6,12 +6,12 @@ title: 写真と動画のガイドライン / Guideline of using photos and vide
 
 ### 日本語
 
-* 「CC-BY-4.0 - RuinDig/Yuki Uchida」を記せば無償で利用可能
+* 「CC-BY-4.0 - RuinDig/Yuki Uchida」または「CC-表示-4.0 - RuinDig/Yuki Uchida」を記せば無償で利用可能
 * 営利目的の利用が可能(商用利用可能)
 * 使用許可の連絡は不要
-* 私の写真や動画の中に文字や何らかのデザインを加えるなどして使用する時は「CC-BY-4.0 - RuinDig/Yuki Uchida(改変)」で利用可能で、具体的な改変箇所の説明は不要
-* あなたが撮影・制作した動画を編集する時に、私の写真の表示サイズを調整してあなたの動画内に使用する場合は「CC-BY-4.0 - RuinDig/Yuki Uchida」と記せば利用可能
-* あなたが撮影・制作した動画を編集する時に、私の動画の表示サイズと動画の長さを調整して、あなたの動画内に使用する場合は「CC-BY-4.0 - RuinDig/Yuki Uchida(改変)」と記せば利用可能
+* 私の写真や動画の中に文字や何らかのデザインを加えるなどして使用する時は「CC-BY-4.0 - RuinDig/Yuki Uchida(改変)」または「CC-表示-4.0 - RuinDig/Yuki Uchida(改変)」で利用可能で、具体的な改変箇所の説明は不要
+* あなたが撮影・制作した動画を編集する時に、私の写真の表示サイズを調整してあなたの動画内に使用する場合は「CC-BY-4.0 - RuinDig/Yuki Uchida」または「CC-表示-4.0 - RuinDig/Yuki Uchida」と記せば利用可能
+* あなたが撮影・制作した動画を編集する時に、私の動画の表示サイズと動画の長さを調整して、あなたの動画内に使用する場合は「CC-BY-4.0 - RuinDig/Yuki Uchida(改変)」または「CC-表示-4.0 - RuinDig/Yuki Uchida(改変)」と記せば利用可能
 
 ### English
 
