@@ -224,4 +224,4 @@ title: 写真ギャラリー4/Photo gallery 4
 
 <div style="text-align:center"><p>投げ銭がしたい場合は<a href="https://paypal.me/ruindig/500">PayPal</a>を経由した投げ銭ができます。</p></div>
 
-<script src="https://codoc.jp/js/cms.js" data-css="blue" data-usercode="c9TQJjS1dA" charset="UTF-8" defer></script><div id="codoc-entry-8FY1GS5i0A" class="codoc-entries" data-without-body="1" data-support-button-text="RuinDigに100円から投げ銭/Tip from 100JPY" data-show-like="0" data-show-about-codoc="0" data-support-message="よろしければここから投げ銭ができます。ブログと写真と動画の活力になります。Tip here will be energy for blog, photos and videos."></div>
+<script src="https://codoc.jp/js/cms.js" data-css="blue" data-usercode="c9TQJjS1dA" charset="UTF-8" defer></script><div id="codoc-entry-8FY1GS5i0A" class="codoc-entries" data-without-body="1" data-support-button-text="RuinDigに100円から投げ銭/Tip from 100JPY" data-show-like="0" data-show-about-codoc="0" data-support-message="よろしければここから匿名でも投げ銭ができます。ブログと写真と動画の活力になります。Tip here will be energy for blog, photos and videos."></div>
