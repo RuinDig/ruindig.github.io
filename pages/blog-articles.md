@@ -69,6 +69,11 @@ Jabra Elite 85tを買ったのでレビュー - blog-RuinDig<br>
 
 <div style="text-align: center;"><a href="https://ruindig.hatenablog.jp/entry/2019/12/daijoukyu-openhouse"><img src="https://user-images.githubusercontent.com/20723919/188251951-f41581c8-51e1-460f-a5f2-ac2d5ee0a93c.jpg" width="600" alt="皇居での乾通り一般公開と大嘗宮一般公開 2019.12.3"></a></div>
 
+写真掲載の報告(2025年5月6日)｜RuinDig｜note<br>
+[https://note.com/ruindig/n/n3eb09ceed976](https://note.com/ruindig/n/n3eb09ceed976)
+
+<div style="text-align: center;"><a href="https://ruindig.hatenablog.jp/entry/2019/12/daijoukyu-openhouse"><img src="https://github.com/user-attachments/assets/a9d9ce34-2ff6-4b18-9ed6-a7856a577660" width="600" alt="写真掲載の報告(2025年5月6日)"></a></div>
+
 樋口久子さん「お金は使ったら無くなるけど、タイトルはずっと残るから」｜RuinDig｜note（ノート）<br>
 [https://note.com/ruindig/n/n408735552fa0](https://note.com/ruindig/n/n408735552fa0)
 
