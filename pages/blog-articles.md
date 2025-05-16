@@ -4,6 +4,11 @@ title: ブログ記事ピックアップ
 
 # ブログ記事ピックアップ
 
+ロングレポート：スマートフォンをXiaomi 14T Proに変えた - blog-RuinDig<br>
+[https://ruindig.hatenablog.jp/entry/items/xiaomi-14t-pro]([https://ruindig.hatenablog.jp/entry/items/xiaomi-14t-pro)
+
+<div style="text-align: center;"><a href="https://ruindig.hatenablog.jp/entry/items/xiaomi-14t-pro"><img src="https://github.com/user-attachments/assets/c77f273a-1ee9-446b-a0c1-904bc89e2b15" width="600" alt="ロングレポート：スマートフォンをXiaomi 14T Proに変えた"></a></div>
+
 写真で振り返る2022年秋巡業：大相撲千葉場所 - blog-RuinDig<br>
 [https://ruindig.hatenablog.jp/entry/2022-10/sumo-jungyo-tour-chiba](https://ruindig.hatenablog.jp/entry/2022-10/sumo-jungyo-tour-chiba)
 
@@ -72,7 +77,7 @@ Jabra Elite 85tを買ったのでレビュー - blog-RuinDig<br>
 写真掲載の報告(2025年5月6日)｜RuinDig｜note<br>
 [https://note.com/ruindig/n/n3eb09ceed976](https://note.com/ruindig/n/n3eb09ceed976)
 
-<div style="text-align: center;"><a href="https://ruindig.hatenablog.jp/entry/2019/12/daijoukyu-openhouse"><img src="https://github.com/user-attachments/assets/a9d9ce34-2ff6-4b18-9ed6-a7856a577660" width="600" alt="写真掲載の報告(2025年5月6日)"></a></div>
+<div style="text-align: center;"><a href="https://ruindig.hatenablog.jp/entry/2019/12/daijoukyu-openhouse"><img src="https://github.com/user-attachments/assets/a9d9ce34-2ff6-4b18-9ed6-a7856a577660" width="400" alt="写真掲載の報告(2025年5月6日)"></a></div>
 
 樋口久子さん「お金は使ったら無くなるけど、タイトルはずっと残るから」｜RuinDig｜note（ノート）<br>
 [https://note.com/ruindig/n/n408735552fa0](https://note.com/ruindig/n/n408735552fa0)
