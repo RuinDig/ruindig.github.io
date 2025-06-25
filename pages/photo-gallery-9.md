@@ -8,7 +8,7 @@ title: 写真ギャラリー9/Photo gallery 9
 
 <div style="text-align: center;">
 <ul class="slider">
-<li><img src="https://github.com/user-attachments/assets/a1557aff-b5b8-466f-b27e-64de7bbc47af" width="700"><p class="slider-text4">『森香澄と30歳を祝ってください！！』のステージ上で歌唱を披露する森香澄</p></li>
+<li><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/20723919/458397629-a1557aff-b5b8-466f-b27e-64de7bbc47af.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250625%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250625T001333Z&X-Amz-Expires=300&X-Amz-Signature=9e7eae923704fb2894395f572af2eb81855aa8502933398b772e98a0b36ab135&X-Amz-SignedHeaders=host" width="700"><p class="slider-text4">『森香澄と30歳を祝ってください！！』のステージ上で歌唱を披露する森香澄</p></li>
 <li><img src="https://github.com/user-attachments/assets/2e0b62b4-78e0-4a16-9b91-a0137afaf7fe" width="700"><p class="slider-text4">『森香澄と30歳を祝ってください！！』のステージ上で歌唱を披露しながら観客席に降りて行く森香澄</p></li>
 <li><img src="https://github.com/user-attachments/assets/e5e0e0c6-13b2-4c87-ba12-7d344badee92" width="700"><p class="slider-text4">『森香澄と30歳を祝ってください！！』で歌唱を披露しながら観客席を巡る森香澄</p></li>
 <li><img src="https://github.com/user-attachments/assets/8135a0b4-76c3-41f6-8332-179f7946632b" width="700"><p class="slider-text4">『森香澄と30歳を祝ってください！！』で歌唱を披露しながら観客席を巡る森香澄</p></li>
