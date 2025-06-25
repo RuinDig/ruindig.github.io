@@ -4,111 +4,109 @@ title: 写真ギャラリー8/Photo gallery 8
 
 # 写真ギャラリー8/Photo gallery 8
 
-### World Baseball Classic 2023 Quarter Final: Japan vs. Italy
+### 組み合わせ写真/Photo collages
+
+<div style="text-align: center;">
+<img src="https://user-images.githubusercontent.com/20723919/236242223-1969f6de-fe1d-4734-9ee2-4543ab4b9d15.jpg" width="700"><p>2022年7月5日、ZOZOマリンスタジアムで開催された日本のプロ野球のパ・リーグ公式戦、千葉ロッテマリーンズ対北海道日本ハムファイターズの試合。延長10回裏、千葉ロッテマリーンズの攻撃。千葉ロッテマリーンズ・小川龍成(背番号57)の第4打席ではバントの構えをするが、ロッテ・山口航輝(背番号51)の代走のロッテ・和田康士朗(背番号63)が2塁への盗塁に成功する。球審は深谷篤(袖番号23)、キャッチャーは北海道日本ハムファイターズ・石川亮(背番号68)、2塁の守備は北海道日本ハムファイターズ・上川畑大悟(背番号4)、セーフの判定は2塁塁審の敷田直人(袖番号3)。</p>
+</div>
+
+<div style="text-align: center;">
+<img src="https://user-images.githubusercontent.com/20723919/236242236-636b78eb-41bf-4e07-b5b3-345446e15687.jpg" width="700"><p>東京ドームで行われた野球のワールド・ベースボール・クラシック2023の準々決勝の日本対イタリア戦の5回表、マウンドに立つ日本の大谷翔平からヒットを決めたイタリアのデイビッド・フレッチャー。共にMLBのロサンゼルス・エンゼルスのチームメイト。2023年3月16日撮影。</p>
+</div>
+
+<div style="text-align: center;">
+<img src="https://user-images.githubusercontent.com/20723919/236242245-03b38d82-452d-4083-bc76-b85a164fbd52.jpg" width="700"><p>東京ドームで行われた野球のワールド・ベースボール・クラシック2023の準々決勝の日本対イタリア戦の8回表、イタリアのドミニク・フレッチャーのホームランについて2塁塁審とコミュニケーションを取るラーズ・ヌートバー。ベンチでは大谷翔平が手と柵を使ってホームランの当たりについて説明していた。日本代表チームの投手はダルビッシュ有、キャッチャーは甲斐拓也。2023年3月16日撮影。</p>
+</div>
+
+<div style="text-align: center;">
+<img src="https://user-images.githubusercontent.com/20723919/236262259-27c262a4-db83-4fee-9def-3e448a98e2e9.jpg" width="700"><p> JR東日本の新型の砕石輸送気動車のGV-E197系はレールの下に敷く砕石(バラスト)を輸送する車両。発車標(電光掲示板)はGV-E197系が通過する際の表示で、JRのロゴが表示されている。千葉県のJR蘇我駅で2023年4月8日に撮影。</p>
+</div>
+
+### TGS2023×AZUL BY MOUSSY Fashion Show
+
+2023年9月23日 千葉県千葉市の幕張メッセでの東京ゲームショウ2023 3日目
+Tokyo Game Show 2023 Day3 at Makuhari Messe, Chiba City, Chiba Prefecture, Japan, on 2023.9.23.
 
 <div style="text-align: center;">
 <ul class="slider">
-<li><img src="https://user-images.githubusercontent.com/20723919/233027399-a9d05dfd-ab93-4270-81f5-705f80d5db80.JPG" width="500"></li>
-<li><img src="https://user-images.githubusercontent.com/20723919/233027408-f58fab9b-057d-4442-bb98-ff45d0692d0a.JPG" width="500"></li>
-<li><img src="https://user-images.githubusercontent.com/20723919/233027413-ec627ccd-ed75-4d4c-886e-715b65d8778a.JPG" width="500"></li>
-<li><img src="https://user-images.githubusercontent.com/20723919/233027415-41275db8-abaf-40e7-b1b9-923e3279d039.JPG" width="500"></li>
-<li><img src="https://user-images.githubusercontent.com/20723919/233027420-61eea989-2612-407a-94eb-3b2ddc576c92.JPG" width="500"></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/b898fa23-a4fd-4829-859f-66841986a031" width="700"><p class="slider-text4">TGS2023×AZUL BY MOUSSY Fashion Showの会場</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/8cef8ba1-8c1d-4f4b-a529-d35f2291cfec" width="700"><p class="slider-text4">TGS2023×AZUL BY MOUSSY Fashion Show</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/c4384440-b2b0-47dd-8306-2273f16134a8" width="700"><p class="slider-text4">司会は元日本テレビアナウンサー・ゲームキャスターの篠原光</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/a4eb8c43-26ba-41af-8690-69fc21adedb8" width="700"><p class="slider-text4">山之内すず</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/475a6a35-78ad-4b99-9028-2eb4e3dbf76a" width="700"><p class="slider-text4">山之内すず</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/fa1caddb-9102-4c06-b835-f1f77c927a57" width="700"><p class="slider-text4">西川裕規</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/272c81c1-9d25-462a-9f8f-8ff3fda0d611" width="700"><p class="slider-text4">福岡みなみ</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/bf88a227-8a7a-4f5b-9d52-cb8cc5f54054" width="700"><p class="slider-text4">福岡みなみ</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/3979b92c-aef3-495b-9dcf-01f237927180" width="700"><p class="slider-text4">福岡みなみ</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/2c224ae7-f421-4c5a-b284-fe0093d6d32f" width="700"><p class="slider-text4">福岡みなみ</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/a9879cd1-f507-4550-805c-77018737058e" width="700"><p class="slider-text4">涼那</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/e61ab7fc-a1a7-425c-92a6-ddebfc288a5d" width="700"><p class="slider-text4">涼那</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/af9ef594-cc24-4079-b912-cde58d767cfc" width="700"><p class="slider-text4">佐久本歩夢</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/61a3db06-df12-4af7-92f9-3fc37f600514" width="700"><p class="slider-text4">みやひなた</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/3240f183-3f44-4ff9-b0de-caf9da365aa2" width="700"><p class="slider-text4">大輔</p></li>
 </ul>
 </div>
 
 <div style="text-align: center;">
 <ul class="slider">
-<li><img src="https://user-images.githubusercontent.com/20723919/233027630-bb2a46c9-7e6b-408a-9224-5eec6c291f22.JPG" width="500"></li>
-<li><img src="https://user-images.githubusercontent.com/20723919/233027639-7080c994-8876-4549-ba1a-9da924903ccf.JPG" width="500"></li>
-<li><img src="https://user-images.githubusercontent.com/20723919/233027648-6e17a60f-157d-4346-9de5-b0420c40e495.JPG" width="500"></li>
-<li><img src="https://user-images.githubusercontent.com/20723919/233027667-6603b64c-ecab-4d7f-b1c7-4d28970dde63.JPG" width="500"></li>
-<li><img src="https://user-images.githubusercontent.com/20723919/233027671-4f33b2f9-b0c5-4b7d-98e7-9b4dd010752d.JPG" width="500"></li>
-<li><img src="https://user-images.githubusercontent.com/20723919/233027674-86dd2bda-45cd-4ad1-9165-77351290395a.JPG" width="500"></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/6dfe5187-f9c6-4fd5-a5f5-7759d9c6230f" width="700"><p class="slider-text4">福岡みなみ</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/5d31374d-14da-49a5-bf86-c215bb1c6bb4" width="700"><p class="slider-text4">福岡みなみ</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/1c153890-aea8-493b-9185-0ee60cff10bd" width="700"><p class="slider-text4">福岡みなみ</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/749dd228-a4a0-4940-9aae-0003b79aaaec" width="700"><p class="slider-text4">中村歩加</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/bdf67915-3edf-48e8-8ae4-2ac1f9e10a09" width="700"><p class="slider-text4">中村歩加</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/11b5789b-8397-4ce7-b536-d80bbacb6c57" width="700"><p class="slider-text4">中村歩加</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/c20c56df-bbf0-4822-b4ae-2d8cb1a85d33" width="700"><p class="slider-text4">中村歩加</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/99b78ca5-7615-414d-b9a6-22faffe0a329" width="700"><p class="slider-text4">佐久本歩夢</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/c2665e54-4228-4dfe-8f0f-bf4ea15e1ba7" width="700"><p class="slider-text4">佐久本歩夢</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/246c74f1-b58e-4fe7-b81b-5e6174c5c06c" width="700"><p class="slider-text4">佐久本歩夢</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/4ee4aea5-b9c6-4528-8beb-481d6c4d1db1" width="700"><p class="slider-text4">佐久本歩夢</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/021cde02-3c9a-47a9-9a20-ccd6f725266c" width="700"><p class="slider-text4">みやひなた</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/653cda65-3a87-4c4f-9aaa-2a2ec2c8104f" width="700"><p class="slider-text4">みやひなた</p></li>
 </ul>
 </div>
 
 <div style="text-align: center;">
 <ul class="slider">
-<li><img src="https://user-images.githubusercontent.com/20723919/233027655-2e26ea2b-1fb8-497f-be02-b89819a689db.JPG" width="500"></li>
-<li><img src="https://user-images.githubusercontent.com/20723919/233027665-c9481c72-856b-4ae2-9e80-c6d71be8c38f.JPG" width="500"></li>
-<li><img src="https://user-images.githubusercontent.com/20723919/233027609-7f110c48-9df8-466a-929d-b59b566106a6.JPG" width="500"></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/9564fd7d-fbdd-49e2-a92c-df9d5ca0a126" width="700"><p class="slider-text4">山之内すず</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/059597e0-0174-4007-8f66-6606f920e06c" width="700"><p class="slider-text4">山之内すず</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/9b109216-f339-4dfc-b64e-d91fc3e22ec4" width="700"><p class="slider-text4">松本優</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/e6e646df-e74a-42d6-8afe-b82c18caa818" width="700"><p class="slider-text4">松本優</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/9d927ed3-e731-4479-8759-668d5e2b9f4d" width="700"><p class="slider-text4">西川裕規</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/05dd7b21-e57f-47b3-bb67-0e193b2a16ed" width="700"><p class="slider-text4">遊馬</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/7703eabc-f431-464c-af04-5978a6be1a61" width="700"><p class="slider-text4">涼那</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/4bcbedb0-8788-443d-ae5a-62d614540209" width="700"><p class="slider-text4">佐久本歩夢</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/8c0b76d6-92b7-4e10-84d9-4a80ba90eb77" width="700"><p class="slider-text4">中村歩加</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/0829751d-909a-430b-a860-94bfc94d8855" width="700"><p class="slider-text4">大輔</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/ad8e59c6-7e75-4b3a-91b2-d43b689780a6" width="700"><p class="slider-text4">みやひなた</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/fa82771c-a14c-46e5-a1c9-8bd4637ef918" width="700"><p class="slider-text4">福岡みなみ</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/0ad0f59b-3105-4dc4-8e46-d4e9a6f7c0f4" width="700"><p class="slider-text4">TGS2023×AZUL BY MOUSSY Fashion Showのフィナーレ</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/329ed532-5477-4d85-90c7-a9202f1d85c6" width="700"><p class="slider-text4">TGS2023×AZUL BY MOUSSY Fashion Showの終了後の会場</p></li>
 </ul>
 </div>
 
-<div style="text-align: center;">
-<ul class="slider">
-<li><img src="https://user-images.githubusercontent.com/20723919/229515258-f6f9d0de-0af4-4f6e-98ec-f8917d89976c.JPG" width="500" alt="外野でウォーミングアップする佐々木朗希投手(左)と話をする吉井理人投手コーチ"><p class="slider-text4">外野でウォーミングアップする佐々木朗希投手(左)と話をする吉井理人投手コーチ</p></li>
-<li><img src="https://user-images.githubusercontent.com/20723919/229515267-01076ea4-e8b5-49d8-be28-57c8c29162a7.JPG" width="500" alt="外野でウォーミングアップする佐々木朗希投手(左)と話をする吉井理人投手コーチ"><p class="slider-text4">外野でウォーミングアップする佐々木朗希投手(左)と話をする吉井理人投手コーチ</p></li>
-<li><img src="https://user-images.githubusercontent.com/20723919/229515269-6fe8026d-4ada-474e-9578-a3ad6d598cb9.JPG" width="500" alt="外野でウォーミングアップする佐々木朗希投手(左)と話をする吉井理人投手コーチ"><p class="slider-text4">外野でウォーミングアップする佐々木朗希投手(左)と話をする吉井理人投手コーチ</p></li>
-<li><img src="https://user-images.githubusercontent.com/20723919/229515275-46158db2-0bbf-4eda-b8f3-6bb1c5f573cf.JPG" width="500" alt="外野でウォーミングアップする佐々木朗希投手(左)と話をする吉井理人投手コーチ"><p class="slider-text4">外野でウォーミングアップする佐々木朗希投手(左)と話をする吉井理人投手コーチ</p></li>
-<li><img src="https://user-images.githubusercontent.com/20723919/229515278-51c014fb-2c84-462f-8884-93d5c0c65e41.JPG" width="500" alt="外野でウォーミングアップする佐々木朗希投手(左)と話をする吉井理人投手コーチ"><p class="slider-text4">吉井理人投手コーチと話をする佐々木朗希投手(左)の姿</p></li>
-<li><img src="https://user-images.githubusercontent.com/20723919/229515283-2af690ca-3c9f-43fc-a531-44d1e3eb86c1.JPG" width="500" alt="外野でウォーミングアップする佐々木朗希投手(左)と話をする吉井理人投手コーチ"><p class="slider-text4">吉井理人投手コーチと話をする佐々木朗希投手(左)の姿</p></li>
-</ul>
-</div>
+### 天皇杯 第103回全日本サッカー選手権 決勝 2023.12.9
+
+**川崎フロンターレ 対 柏レイソル**
 
 <div style="text-align: center;">
 <ul class="slider">
-<li><img src="https://user-images.githubusercontent.com/20723919/229873300-2d4e608f-8260-4c8a-a692-8d8fb2c5e945.JPG" width="500" alt="試合前の内野守備練習に参加する源田壮亮選手(背番号2)と中野拓夢選手(背番号7)"><p class="slider-text4">試合前の内野守備練習に参加する源田壮亮選手(背番号2)と中野拓夢選手(背番号7)</p></li>
-<li><img src="https://user-images.githubusercontent.com/20723919/229873307-8e799709-8cca-4242-95d8-2631bb19458a.JPG" width="500" alt="試合前の内野守備練習に参加する源田壮亮選手(背番号2)と中野拓夢選手(背番号7)"><p class="slider-text4">試合前の内野守備練習に参加する源田壮亮選手(背番号2)と中野拓夢選手(背番号7)</p></li>
-<li><img src="https://user-images.githubusercontent.com/20723919/229873310-1896243e-8da5-45f4-8f56-c2e2c38d6f26.JPG" width="500" alt="試合前の内野守備練習に参加する源田壮亮選手(背番号2)と中野拓夢選手(背番号7)"><p class="slider-text4">試合前の内野守備練習に参加する源田壮亮選手(背番号2)と中野拓夢選手(背番号7)</p></li>
-<li><img src="https://user-images.githubusercontent.com/20723919/229873314-8095d07f-aa0a-4596-ab7c-4d4e5504c987.JPG" width="500" alt="試合前の内野守備練習に参加する源田壮亮選手(背番号2)と中野拓夢選手(背番号7)"><p class="slider-text4">試合前の内野守備練習に参加する源田壮亮選手(背番号2)と中野拓夢選手(背番号7)</p></li>
-<li><img src="https://user-images.githubusercontent.com/20723919/229873316-a230ad69-6be3-46b4-80f1-8814e9039179.JPG" width="500" alt="試合前の内野守備練習に参加する源田壮亮選手(背番号2)と中野拓夢選手(背番号7)"><p class="slider-text4">試合前の内野守備練習に参加する源田壮亮選手(背番号2)と中野拓夢選手(背番号7)</p></li>
-</ul>
-</div>
-
-<div style="text-align: center;">
-<ul class="slider">
-<li><img src="https://user-images.githubusercontent.com/20723919/229873726-eb96b59c-2eef-4d11-a9ab-6a07119d90a4.JPG" width="500" alt="試合前、外野で準備するブルペンキャッチャーの鶴岡慎也さん"><p class="slider-text4">試合前、外野で準備するブルペンキャッチャーの鶴岡慎也さん</p></li>
-<li><img src="https://user-images.githubusercontent.com/20723919/229873736-244a4990-3c5f-406d-b786-415c30138aec.JPG" width="500" alt="試合前、外野で準備するブルペンキャッチャーの鶴岡慎也さん(右)と水原一平さん(左)"><p class="slider-text4">試合前、外野で準備するブルペンキャッチャーの梶原有司さん(右)と水原一平さん(左)</p></li>
-<li><img src="https://user-images.githubusercontent.com/20723919/229873741-19931fed-830c-451f-bc4a-7f8e03175e18.JPG" width="500" alt="試合前、外野で準備するブルペンキャッチャーの鶴岡慎也さん(手前)と水原一平さん(奥)"><p class="slider-text4">試合前、外野で準備するブルペンキャッチャーの梶原有司さん(手前)と水原一平さん(奥)</p></li>
-<li><img src="https://user-images.githubusercontent.com/20723919/229873744-3589724e-e485-485b-bb4b-2fdd25eecf05.JPG" width="500" alt="試合前、外野でプライオボールを使って練習する大谷翔平選手"><p class="slider-text4">試合前、外野でプライオボールを使って練習する大谷翔平選手</p></li>
-<li><img src="https://user-images.githubusercontent.com/20723919/229873749-73eef99b-6d1d-450a-bcdd-e577e24e466e.JPG" width="500" alt="試合前、外野でプライオボールを使って練習する大谷翔平選手"><p class="slider-text4">試合前、外野でプライオボールを使って練習する大谷翔平選手</p></li>
-<li><img src="https://user-images.githubusercontent.com/20723919/229873751-73ced30a-ff09-4cb6-a118-25e819c6d96f.JPG" width="500" alt="試合前、外野でプライオボールを使って練習する大谷翔平選手をスピードガンで計測する水原一平さん"><p class="slider-text4">試合前、外野でプライオボールを使って練習する大谷翔平選手をスピードガンで計測する水原一平さん</p></li>
-<li><img src="https://user-images.githubusercontent.com/20723919/229873754-68109412-53a5-40ff-aea1-aa60dff51b82.JPG" width="500" alt="試合前、外野で練習する大谷翔平選手"><p class="slider-text4">試合前、外野で練習する大谷翔平選手</p></li>
-<li><img src="https://user-images.githubusercontent.com/20723919/229873759-54676e22-332b-4dc0-b183-4b7b44f7458d.JPG" width="500" alt="試合前、大谷翔平選手(左)と水原一平さん(右)の外野での様子"><p class="slider-text4">試合前、大谷翔平選手(左)と水原一平さん(右)の外野での様子</p></li>
-<li><img src="https://user-images.githubusercontent.com/20723919/229873764-44c306cc-3952-4623-be33-fce65fb36a3d.JPG" width="500" alt="試合前、外野で牽制球の投球練習をする大谷翔平選手(左)とスピードガンで計測する水原一平さん(右)の様子"><p class="slider-text4">試合前、外野で牽制球の投球練習をする大谷翔平選手(左)とスピードガンで計測する水原一平さん(右)の様子</p></li>
-<li><img src="https://user-images.githubusercontent.com/20723919/229873769-cd4b543e-98b3-4ff7-b2ad-8d4866bff91a.JPG" width="500" alt="試合前、外野で練習をする大谷翔平選手"><p class="slider-text4">試合前、外野で練習をする大谷翔平選手の様子</p></li>
-<li><img src="https://user-images.githubusercontent.com/20723919/229873773-9c52f980-aa85-436d-a3b7-51a3ef96c9f2.JPG" width="500" alt="試合前、外野でプライオボールを使って練習する大谷翔平選手(左)とスピードガンで計測する水原一平さん(右)"><p class="slider-text4">試合前、外野でプライオボールを使って練習する大谷翔平選手(左)とスピードガンで計測する水原一平さん(右)</p></li>
-<li><img src="https://user-images.githubusercontent.com/20723919/229873775-37f2cce3-3a92-422d-9ad4-0b54827ab081.JPG" width="500" alt="試合前、外野で練習をする大谷翔平選手"><p class="slider-text4">試合前、外野で練習をする大谷翔平選手</p></li>
-</ul>
-</div>
-
-<div style="text-align: center;">
-<ul class="slider">
-<li><img src="https://user-images.githubusercontent.com/20723919/232673285-248bdb84-6a7b-4062-9ec4-70177b4fde91.JPG" width="500" height="500"><p class="slider-text4">試合開始前、1塁側ベンチの野球日本代表・侍ジャパンの様子</p></li>
-<li><img src="https://user-images.githubusercontent.com/20723919/232673293-28b25332-8177-42b5-9425-7c2f32db76c3.JPG" width="500" height="500"><p class="slider-text4">試合開始前、1塁側ベンチの野球日本代表・侍ジャパンの様子</p></li>
-<li><img src="https://user-images.githubusercontent.com/20723919/232673297-abc37f23-3879-4b5b-950e-1da7a188daea.JPG" width="500" height="500"><p class="slider-text4">試合開始前、1塁側ベンチの野球日本代表・侍ジャパンの様子</p></li>
-<li><img src="https://user-images.githubusercontent.com/20723919/232673301-b0a05d36-1e47-44a8-9847-327ad18915a5.JPG" width="500" height="500"><p class="slider-text4">試合開始前、1塁側ベンチの野球日本代表・侍ジャパンの様子</p></li>
-<li><img src="https://user-images.githubusercontent.com/20723919/232673302-ed1190eb-03c7-4069-ae52-a73c6231ab8d.JPG" width="500" height="500"><p class="slider-text4">試合開始前、1塁側ベンチの野球日本代表・侍ジャパンの様子</p></li>
-<li><img src="https://user-images.githubusercontent.com/20723919/232673304-8e9ae922-41a2-434e-a3fd-3c67bc6a6944.JPG" width="500" height="500"><p class="slider-text4">試合開始前、1塁側ベンチの野球日本代表・侍ジャパンの様子</p></li>
-<li><img src="https://user-images.githubusercontent.com/20723919/232673305-3f24a742-abb6-4e0d-8889-8e98177b75e2.JPG" width="500" height="500"><p class="slider-text4">試合開始前、1塁側ベンチの野球日本代表・侍ジャパンの様子</p></li>
-<li><img src="https://user-images.githubusercontent.com/20723919/232673307-65688aac-4238-4be1-856a-b81c26ecee1a.JPG" width="500" height="500"><p class="slider-text4">試合開始前、1塁側ベンチの野球日本代表・侍ジャパンの様子</p></li>
-<li><img src="https://user-images.githubusercontent.com/20723919/232673309-63a8d139-1ee1-4aa3-92f9-de3524042055.JPG" width="500" height="500"><p class="slider-text4">試合開始前、1塁側ベンチの野球日本代表・侍ジャパンの様子</p></li>
-<li><img src="https://user-images.githubusercontent.com/20723919/232673311-02a618cc-865e-49cb-8e4b-315e261fa4d3.JPG" width="500" height="500"><p class="slider-text4">試合開始前の東京ドームのグラウンド</p></li>
-</ul>
-</div>
-
-<div style="text-align: center;">
-<ul class="slider">
-<li><img src="https://user-images.githubusercontent.com/20723919/229874109-c715c96c-9468-4771-8744-a6d966e3a224.JPG" width="500" alt="5回表、マウンド上、大谷翔平選手(左)と源田壮亮選手(右)"><p class="slider-text4">5回表、マウンド上、大谷翔平選手(左)と源田壮亮選手(右)</p></li>
-<li><img src="https://user-images.githubusercontent.com/20723919/229874118-1834dd43-7966-4245-a1dd-cdb40dc6fa78.JPG" width="500" alt="5回表、マウンド上に集まる内野手陣"><p class="slider-text4">5回表、マウンド上に集まる内野手陣</p></li>
-<li><img src="https://user-images.githubusercontent.com/20723919/229874121-80e93a51-69d7-4337-b8fd-658a9ae32738.JPG" width="500" alt="5回表、栗山英樹監督が大谷翔平選手に投手交代を告げる"><p class="slider-text4">5回表、栗山英樹監督が大谷翔平選手に投手交代を告げる</p></li>
-<li><img src="https://user-images.githubusercontent.com/20723919/229874124-2def4cf2-82ea-483b-8dac-78d52dca01af.JPG" width="500" alt="5回表、投手交代のためマウンドから降りてベンチに下がる大谷翔平選手(奥)"><p class="slider-text4">5回表、投手交代のためマウンドから降りてベンチに下がる大谷翔平選手(奥)</p></li>
-<li><img src="https://user-images.githubusercontent.com/20723919/229874125-0d9139e8-b8cf-423c-8aa3-c7855c62c7d0.JPG" width="500" alt="5回表、大谷翔平選手に代わって伊藤大海投手(中央左)が登板する。"><p class="slider-text4">5回表、大谷翔平選手に代わって伊藤大海投手(中央左)が登板する。</p></li>
-<li><img src="https://user-images.githubusercontent.com/20723919/229874129-299d61d7-86e4-4c96-9aab-f611abddb676.JPG" width="500" alt="5回表、伊藤大海投手(奥)がロジンを使うと粉が舞い上がる。手前左は源田壮亮選手、手前右は村上宗隆選手。"><p class="slider-text4">5回表、伊藤大海投手(奥)がロジンを使うと粉が舞い上がる。手前左は源田壮亮選手、手前右は村上宗隆選手。</p></li>
-<li><img src="https://user-images.githubusercontent.com/20723919/229874133-fb7e4eb9-188c-4f0c-8c17-400a35dc2d83.JPG" width="500" alt="5回表、伊藤大海投手がロジンを手にする"><p class="slider-text4">5回表、伊藤大海投手がロジンを手にする</p></li>
-<li><img src="https://user-images.githubusercontent.com/20723919/229874136-74899615-ab19-4213-afe2-3fd17581bc28.JPG" width="500" alt="5回表、マウンド上で投球する伊藤大海投手"><p class="slider-text4">5回表、マウンド上で投球する伊藤大海投手</p></li>
-</ul>
-</div>
-
-<div style="text-align: center;">
-<ul class="slider">
-<li><img src="https://user-images.githubusercontent.com/20723919/233025992-3fee21f6-003d-41d9-aea6-84600a8fc226.JPG" width="500" height="500"><p class="slider-text4">8回表のイタリアの攻撃で、ドミニク・フレッチャー選手のホームランについて2塁塁審とコミュニケーションを取るラーズ・ヌートバー選手。ベンチでは大谷翔平選手が手と柵を使ってホームランの当たりについて説明していた。投手はダルビッシュ有投手、キャッチャーは甲斐拓也選手。</p></li>
-<li><img src="https://user-images.githubusercontent.com/20723919/233025997-ffb19960-5b58-44e1-bdfb-cfa472d9be14.JPG" width="500" height="500"><p class="slider-text4">8回表のイタリアの攻撃で、ドミニク・フレッチャー選手のホームランについて2塁塁審とコミュニケーションを取るラーズ・ヌートバー選手。ベンチでは大谷翔平選手が手と柵を使ってホームランの当たりについて説明していた。投手はダルビッシュ有投手、キャッチャーは甲斐拓也選手。</p></li>
-<li><img src="https://user-images.githubusercontent.com/20723919/233026001-60ddb296-61b8-4f62-adc0-c4e948cca388.JPG" width="500" height="500"><p class="slider-text4">8回表のイタリアの攻撃で、ドミニク・フレッチャー選手のホームランについて2塁塁審とコミュニケーションを取るラーズ・ヌートバー選手。ベンチでは大谷翔平選手が手と柵を使ってホームランの当たりについて説明していた。投手はダルビッシュ有投手、キャッチャーは甲斐拓也選手。</p></li>
-<li><img src="https://user-images.githubusercontent.com/20723919/233026008-9714203f-a428-4dfd-bc15-cfa225ae3d9e.JPG" width="500" height="500"><p class="slider-text4">8回表のイタリアの攻撃で、ドミニク・フレッチャー選手のホームランについて2塁塁審とコミュニケーションを取るラーズ・ヌートバー選手。ベンチでは大谷翔平選手が手と柵を使ってホームランの当たりについて説明していた。投手はダルビッシュ有投手、キャッチャーは甲斐拓也選手。</p></li>
-<li><img src="https://user-images.githubusercontent.com/20723919/233026010-92d76207-956b-41c2-ab39-a32480f6c80b.JPG" width="500" height="500"><p class="slider-text4">8回表のイタリアの攻撃で、ドミニク・フレッチャー選手のホームランについて2塁塁審とコミュニケーションを取るラーズ・ヌートバー選手。ベンチでは大谷翔平選手が手と柵を使ってホームランの当たりについて説明していた。投手はダルビッシュ有投手、キャッチャーは甲斐拓也選手。</p></li>
-<li><img src="https://user-images.githubusercontent.com/20723919/233026016-f6de7ff6-e4f1-4d61-adc2-3ceaaf55cb13.JPG" width="500" height="500"><p class="slider-text4">8回表のイタリアの攻撃で、ドミニク・フレッチャー選手のホームランについて2塁塁審とコミュニケーションを取るラーズ・ヌートバー選手。ベンチでは大谷翔平選手が手と柵を使ってホームランの当たりについて説明していた。投手はダルビッシュ有投手、キャッチャーは甲斐拓也選手。</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/1f3148b4-84fc-4b17-93eb-9b547be61d1f" width="700"><p class="slider-text4">延長戦を終えて0対0で迎えたPK戦、柏レイソルの10人目のキッカー、ゴールキーパーの松本健太</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/a9d6dde1-415f-442c-9aa3-5a6d09ab852e" width="700"><p class="slider-text4">延長戦を終えて0対0で迎えたPK戦、柏レイソルの10人目のキッカー、ゴールキーパーの松本健太</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/6d4cca8c-6bb6-40ab-a365-81bf5bca5d92" width="700"><p class="slider-text4">延長戦を終えて0対0で迎えたPK戦、柏レイソルの10人目のキッカー、ゴールキーパーの松本健太、川崎フロンターレのゴールキーパーはチョン・ソンリョン</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/5a7230c3-0f7c-4f4e-b132-90624960dc0f" width="700"><p class="slider-text4">延長戦を終えて0対0で迎えたPK戦、柏レイソルの10人目のキッカー、ゴールキーパーの松本健太、川崎フロンターレのゴールキーパーはチョン・ソンリョン</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/9d3ccbe3-17af-487f-b006-d33b6a5fe1ee" width="700"><p class="slider-text4">延長戦を終えて0対0で迎えたPK戦、柏レイソルの10人目のキッカー、ゴールキーパーの松本健太、川崎フロンターレのゴールキーパーはチョン・ソンリョン</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/417ca09e-2890-4c5a-b5d3-ac62fa463091" width="700"><p class="slider-text4">延長戦を終えて0対0で迎えたPK戦、柏レイソルの10人目のキッカー、ゴールキーパーの松本健太、川崎フロンターレのゴールキーパーはチョン・ソンリョン</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/cee6b4ca-e442-4f8a-8927-8d4fdacddec1" width="700"><p class="slider-text4">延長戦を終えて0対0で迎えたPK戦、柏レイソルの10人目のキッカー、ゴールキーパーの松本健太のシュートを川崎フロンターレのゴールキーパーのチョン・ソンリョンが防ぐ。</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/3425d6bd-371d-4a83-9add-9e9a718b5471" width="700"><p class="slider-text4">延長戦を終えて0対0で迎えたPK戦、柏レイソルの10人目のキッカー、ゴールキーパーの松本健太のシュートを川崎フロンターレのゴールキーパーのチョン・ソンリョンが防ぐ。</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/50513bbc-a86b-4e5e-85d3-fc0386d7b6a0" width="700"><p class="slider-text4">延長戦を終えて0対0で迎えたPK戦、柏レイソルの10人目のキッカー、ゴールキーパーの松本健太のシュートを川崎フロンターレのゴールキーパーのチョン・ソンリョンが防ぐ。</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/d9b78106-5249-4819-8724-726e6ee74163" width="700"><p class="slider-text4">延長戦を終えて0対0で迎えたPK戦、柏レイソルの10人目のキッカー、ゴールキーパーの松本健太のシュートを防ぎ、優勝を決めた川崎フロンターレのゴールキーパー、チョン・ソンリョンはチームメイトと飛び上がって喜んだ。ゴールキーパーの松本健太はシュートが防がれて優勝を逃すと、その場にうずくまった。</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/75dc9d5f-947e-4d4b-9acb-95db1cdf2862" width="700"><p class="slider-text4">延長戦を終えて0対0で迎えたPK戦、柏レイソルの10人目のキッカー、ゴールキーパーの松本健太はシュートが防がれて優勝を逃すと、その場にうずくまった。</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/86f4474a-e9e1-4410-b40f-eb8a9f626dfc" width="700"><p class="slider-text4">延長戦を終えて0対0で迎えたPK戦を終えて喜ぶ川崎フロンターレの面々(左)と、その場にうずくまったまましばらく動かなかったのはシュートを防がれて優勝を逃した柏レイソルのゴールキーパーの松本健太(右)。</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/23c1e9a1-cd2e-40ab-859b-71f32c835a0d" width="700"><p class="slider-text4">延長戦を終えて0対0で迎えたPK戦を終えて喜ぶ川崎フロンターレの面々(左)と、その場にうずくまったまましばらく動かなかったのはシュートを防がれて優勝を逃した柏レイソルのゴールキーパーの松本健太(右)。</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/a48f7717-3cd5-4030-b410-9f6596b3eeb5" width="700"><p class="slider-text4">延長戦を終えて0対0で迎えたPK戦を終えて喜ぶ川崎フロンターレの面々(左)と、シュートを防がれて優勝を逃した柏レイソルのゴールキーパーの松本健太(右)。</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/3735f419-a41b-421b-82d2-2cb8dc2876a5" width="700"><p class="slider-text4">シュートを防がれて優勝を逃した柏レイソルのゴールキーパーの松本健太(右)は天を仰ぐ。松本の元に最初に駆け寄ったのは立田悠悟。</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/a8bacca7-710a-49f1-9bf2-c73d46c8ad88" width="700"><p class="slider-text4">シュートを防がれて優勝を逃した柏レイソルのゴールキーパーの松本健太(右)は天を仰ぐ。松本の元に駆け寄ったのは柏レイソルの立田悠悟や仙頭啓矢、川口尚紀が駆け寄った。</p></li>
+<li><img src="https://github.com/RuinDig/ruindig.github.io/assets/20723919/46f7bf29-c968-423b-958b-5be593de1357" width="700"><p class="slider-text4">延長線を終えて0対0で迎えた、川崎フロンターレ対柏レイソルのPK戦のスコアボード。各チーム10人が蹴って8対7で川崎フロンターレが優勝を決めた。</p></li>
 </ul>
 </div>
 
