@@ -39,6 +39,16 @@ title: 写真ギャラリー9/Photo gallery 9
 </ul>
 </div>
 
+### MLB東京シリーズ 2025.3.19
+
+<div style="text-align: center;">
+<ul class="slider">
+<li><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/20723919/459115213-0f37a8cd-1cf7-482d-b7f4-8cc9e0ff1307.JPG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250627%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250627T020111Z&X-Amz-Expires=300&X-Amz-Signature=540e8aa4681f263d82bffd1848967f72cc7a50f10659dc59761d98e5f756180c&X-Amz-SignedHeaders=host" width="700"><p class="slider-text4">レフト側外野フィールドで投球練習をする大谷翔平</p></li>
+<li><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/20723919/459115222-70771611-33ea-4dfd-8646-2b04b7f65123.JPG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250627%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250627T020441Z&X-Amz-Expires=300&X-Amz-Signature=fa69a46f35a8201aa5774f2ba5fb748e1f3ddd84cfa0a19d284c068dabef275e&X-Amz-SignedHeaders=host" width="700"><p class="slider-text4">レフト側外野フィールドで投球練習をする大谷翔平</p></li>
+<li><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/20723919/459115224-af8268e4-eae5-46cd-a8de-181c739deaea.JPG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250627%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250627T020506Z&X-Amz-Expires=300&X-Amz-Signature=02d228673b4fca168fdf5c945a4af655911cefe616dffdc79152ce6151310f30&X-Amz-SignedHeaders=host" width="700"><p class="slider-text4">レフト側外野フィールドで投球練習をする大谷翔平</p></li>
+</ul>
+</div>
+
 <div style="text-align:center;"><p><a href="https://ruindig.github.io/pages/photo-gallery-1"><<</a> <a href="https://ruindig.github.io/pages/photo-gallery-7"><button style="width:24px; height:24px; text-align:center;"><span style="color:blue; font-size:17px;">7</span></button></a> - <a href="https://ruindig.github.io/pages/photo-gallery-8"><button style="width:24px; height:24px; text-align:center;"><span style="color:blue; font-size:17px;">8</span></button></a> - 9 >></p></div>
 
 <div style="text-align: center;"><p><strong>9/9</strong></p></div>
