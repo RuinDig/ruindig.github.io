@@ -8,24 +8,35 @@ title: 写真ギャラリー9/Photo gallery 9
 
 <div style="text-align: center;">
 <ul class="slider">
-<li><img src="https://camo.githubusercontent.com/2f57b35f489725a54ef47e432ecce868a21c84b99b1d14737ddb3d7ae9db11ac/68747470733a2f2f6769746875622d70726f64756374696f6e2d757365722d61737365742d3632313064662e73332e616d617a6f6e6177732e636f6d2f32303732333931392f3435383339373632392d61313535376166662d623562382d343636662d623237652d3634646537626263343761662e6a70673f582d416d7a2d416c676f726974686d3d415753342d484d41432d53484132353626582d416d7a2d43726564656e7469616c3d414b494156434f44594c5341353350514b345a41253246323032353036323525324675732d656173742d312532467333253246617773345f7265717565737426582d416d7a2d446174653d3230323530363235543030313333335a26582d416d7a2d457870697265733d33303026582d416d7a2d5369676e61747572653d3965376561653932333730346662323839343339356635373261663265623831383535616138353032393333333938623737326539386130623336616231333526582d416d7a2d5369676e6564486561646572733d686f7374" width="700"><p class="slider-text4">『森香澄と30歳を祝ってください！！』のステージ上で歌唱を披露する森香澄</p></li>
-<li><img src="https://github.com/user-attachments/assets/2e0b62b4-78e0-4a16-9b91-a0137afaf7fe" width="700"><p class="slider-text4">『森香澄と30歳を祝ってください！！』のステージ上で歌唱を披露しながら観客席に降りて行く森香澄</p></li>
-<li><img src="https://github.com/user-attachments/assets/e5e0e0c6-13b2-4c87-ba12-7d344badee92" width="700"><p class="slider-text4">『森香澄と30歳を祝ってください！！』で歌唱を披露しながら観客席を巡る森香澄</p></li>
-<li><img src="https://github.com/user-attachments/assets/8135a0b4-76c3-41f6-8332-179f7946632b" width="700"><p class="slider-text4">『森香澄と30歳を祝ってください！！』で歌唱を披露しながら観客席を巡る森香澄</p></li>
-<li><img src="https://github.com/user-attachments/assets/e262f8f2-1310-4644-9dd6-2983fcf2a793" width="700"><p class="slider-text4">『森香澄と30歳を祝ってください！！』のステージ上で歌唱を披露する森香澄</p></li>
-<li><img src="https://github.com/user-attachments/assets/39be4ab9-c293-4042-92b6-5286b83804ac" width="700"><p class="slider-text4">『森香澄と30歳を祝ってください！！』のステージ上で歌唱を披露する森香澄</p></li>
-<li><img src="https://github.com/user-attachments/assets/46ac3926-b6bd-49cc-9353-a4a6cf4c6e4d" width="700"><p class="slider-text4">『森香澄と30歳を祝ってください！！』のステージ上で歌唱を披露する森香澄</p></li>
-<li><img src="https://github.com/user-attachments/assets/1d1b6b16-5926-4b0c-84ce-8e746765e883" width="700"><p class="slider-text4">『森香澄と30歳を祝ってください！！』のステージ上で歌唱を披露する森香澄</p></li>
-<li><img src="https://github.com/user-attachments/assets/3bcf7cd8-2795-4db3-8fe1-3f679039f88e" width="700"><p class="slider-text4">『森香澄と30歳を祝ってください！！』のステージ上で歌唱を披露する森香澄</p></li>
-<li><img src="https://github.com/user-attachments/assets/a7395657-9080-432e-bb61-76bce94cdb93" width="700"><p class="slider-text4">『森香澄と30歳を祝ってください！！』のステージ上で歌唱を披露する森香澄</p></li>
-<li><img src="https://github.com/user-attachments/assets/7bde7e7e-1561-494b-82d8-095a61682dc7" width="700"><p class="slider-text4">『森香澄と30歳を祝ってください！！』のステージ上で歌唱を披露する森香澄</p></li>
-<li><img src="https://github.com/user-attachments/assets/ba8fa00a-bb9d-441c-8022-d650057acac6" width="700"><p class="slider-text4">『森香澄と30歳を祝ってください！！』のステージ上で歌唱を披露する森香澄</p></li>
-<li><img src="https://github.com/user-attachments/assets/a23012ab-e672-47af-b041-97bbe63a1e87" width="700"><p class="slider-text4">『森香澄と30歳を祝ってください！！』のステージ上で歌唱を披露しながら観客席に手を振る森香澄</p></li>
-<li><img src="https://github.com/user-attachments/assets/6388feb0-3373-4fa1-aefd-0d407da2f1ac" width="700"><p class="slider-text4">『森香澄と30歳を祝ってください！！』のステージ上で歌唱を披露する森香澄</p></li>
-<li><img src="https://github.com/user-attachments/assets/93d893dc-db5f-4e60-af50-5f495cda7628" width="700"><p class="slider-text4">『森香澄と30歳を祝ってください！！』のステージ上で歌唱を披露する森香澄</p></li>
-<li><img src="https://github.com/user-attachments/assets/411093a6-a9b4-42b4-986b-de2eb053b06e" width="700"><p class="slider-text4">『森香澄と30歳を祝ってください！！』のステージ上で歌唱を披露しながら観客席に手を振る森香澄</p></li>
-<li><img src="https://github.com/user-attachments/assets/7bcdba96-6550-4c7f-b639-efca6e6a0574" width="700"><p class="slider-text4">『森香澄と30歳を祝ってください！！』のステージ上で歌唱を披露する森香澄</p></li>
-<li><img src="https://github.com/user-attachments/assets/3c266dbd-ddde-4d5a-b97e-653d562467b6" width="700"><p class="slider-text4">『森香澄と30歳を祝ってください！！』のステージ上で歌唱を終えて一礼する森香澄</p></li>
+<li><img src="https://raw.githubusercontent.com/RuinDig/Kasumi-Mori-2025-06-15/refs/heads/main/Photos/Kasumi-Mori---2025-06-15_001.jpg" width="700"><p class="slider-text4">『森香澄と30歳を祝ってください！！』のステージ上で歌唱を披露する森香澄</p></li>
+<li><img src="https://raw.githubusercontent.com/RuinDig/Kasumi-Mori-2025-06-15/refs/heads/main/Photos/Kasumi-Mori---2025-06-15_003.jpg" width="700"><p class="slider-text4">『森香澄と30歳を祝ってください！！』のステージ上で歌唱を披露しながら観客席に降りて行く森香澄</p></li>
+<li><img src="https://raw.githubusercontent.com/RuinDig/Kasumi-Mori-2025-06-15/refs/heads/main/Photos/Kasumi-Mori---2025-06-15_118.jpg" width="700"><p class="slider-text4">『森香澄と30歳を祝ってください！！』で歌唱を披露しながら観客席を巡る森香澄</p></li>
+<li><img src="https://raw.githubusercontent.com/RuinDig/Kasumi-Mori-2025-06-15/refs/heads/main/Photos/Kasumi-Mori---2025-06-15_121.jpg" width="700"><p class="slider-text4">『森香澄と30歳を祝ってください！！』で歌唱を披露しながら観客席を巡る森香澄</p></li>
+<li><img src="https://raw.githubusercontent.com/RuinDig/Kasumi-Mori-2025-06-15/refs/heads/main/Photos/Kasumi-Mori---2025-06-15_124.jpg" width="700"><p class="slider-text4">『森香澄と30歳を祝ってください！！』のステージ上で歌唱を披露する森香澄</p></li>
+<li><img src="https://raw.githubusercontent.com/RuinDig/Kasumi-Mori-2025-06-15/refs/heads/main/Photos/Kasumi-Mori---2025-06-15_014.jpg" width="700"><p class="slider-text4">『森香澄と30歳を祝ってください！！』のステージ上で歌唱を披露する森香澄</p></li>
+<li><img src="https://raw.githubusercontent.com/RuinDig/Kasumi-Mori-2025-06-15/refs/heads/main/Photos/Kasumi-Mori---2025-06-15_017.jpg" width="700"><p class="slider-text4">『森香澄と30歳を祝ってください！！』のステージ上で歌唱を披露する森香澄</p></li>
+<li><img src="https://raw.githubusercontent.com/RuinDig/Kasumi-Mori-2025-06-15/refs/heads/main/Photos/Kasumi-Mori---2025-06-15_023.jpg" width="700"><p class="slider-text4">『森香澄と30歳を祝ってください！！』のステージ上で歌唱を披露する森香澄</p></li>
+<li><img src="https://raw.githubusercontent.com/RuinDig/Kasumi-Mori-2025-06-15/refs/heads/main/Photos/Kasumi-Mori---2025-06-15_028.jpg" width="700"><p class="slider-text4">『森香澄と30歳を祝ってください！！』のステージ上で歌唱を披露する森香澄</p></li>
+<li><img src="https://raw.githubusercontent.com/RuinDig/Kasumi-Mori-2025-06-15/refs/heads/main/Photos/Kasumi-Mori---2025-06-15_033.jpg" width="700"><p class="slider-text4">『森香澄と30歳を祝ってください！！』のステージ上で歌唱を披露する森香澄</p></li>
+<li><img src="https://raw.githubusercontent.com/RuinDig/Kasumi-Mori-2025-06-15/refs/heads/main/Photos/Kasumi-Mori---2025-06-15_048.jpg" width="700"><p class="slider-text4">『森香澄と30歳を祝ってください！！』のステージ上で歌唱を披露する森香澄</p></li>
+<li><img src="https://raw.githubusercontent.com/RuinDig/Kasumi-Mori-2025-06-15/refs/heads/main/Photos/Kasumi-Mori---2025-06-15_057.jpg" width="700"><p class="slider-text4">『森香澄と30歳を祝ってください！！』のステージ上で歌唱を披露する森香澄</p></li>
+<li><img src="https://raw.githubusercontent.com/RuinDig/Kasumi-Mori-2025-06-15/refs/heads/main/Photos/Kasumi-Mori---2025-06-15_060.jpg" width="700"><p class="slider-text4">『森香澄と30歳を祝ってください！！』のステージ上で歌唱を披露する森香澄</p></li>
+<li><img src="https://raw.githubusercontent.com/RuinDig/Kasumi-Mori-2025-06-15/refs/heads/main/Photos/Kasumi-Mori---2025-06-15_067.jpg" width="700"><p class="slider-text4">『森香澄と30歳を祝ってください！！』のステージ上で歌唱を披露しながら観客席に手を振る森香澄</p></li>
+<li><img src="https://raw.githubusercontent.com/RuinDig/Kasumi-Mori-2025-06-15/refs/heads/main/Photos/Kasumi-Mori---2025-06-15_069.jpg" width="700"><p class="slider-text4">『森香澄と30歳を祝ってください！！』のステージ上で歌唱を披露する森香澄</p></li>
+<li><img src="https://raw.githubusercontent.com/RuinDig/Kasumi-Mori-2025-06-15/refs/heads/main/Photos/Kasumi-Mori---2025-06-15_072.jpg" width="700"><p class="slider-text4">『森香澄と30歳を祝ってください！！』のステージ上で歌唱を披露しながら観客席に手を振る森香澄</p></li>
+<li><img src="https://raw.githubusercontent.com/RuinDig/Kasumi-Mori-2025-06-15/refs/heads/main/Photos/Kasumi-Mori---2025-06-15_073.jpg" width="700"><p class="slider-text4">『森香澄と30歳を祝ってください！！』のステージ上で歌唱を披露しながら観客席に手を振る森香澄</p></li>
+<li><img src="https://raw.githubusercontent.com/RuinDig/Kasumi-Mori-2025-06-15/refs/heads/main/Photos/Kasumi-Mori---2025-06-15_074.jpg" width="700"><p class="slider-text4">『森香澄と30歳を祝ってください！！』のステージ上で歌唱を披露する森香澄</p></li>
+<li><img src="https://raw.githubusercontent.com/RuinDig/Kasumi-Mori-2025-06-15/refs/heads/main/Photos/Kasumi-Mori---2025-06-15_080.jpg" width="700"><p class="slider-text4">『森香澄と30歳を祝ってください！！』のステージ上で歌唱を披露する森香澄</p></li>
+<li><img src="https://raw.githubusercontent.com/RuinDig/Kasumi-Mori-2025-06-15/refs/heads/main/Photos/Kasumi-Mori---2025-06-15_083.jpg" width="700"><p class="slider-text4">『森香澄と30歳を祝ってください！！』のステージ上で歌唱を披露する森香澄</p></li>
+<li><img src="https://raw.githubusercontent.com/RuinDig/Kasumi-Mori-2025-06-15/refs/heads/main/Photos/Kasumi-Mori---2025-06-15_088.jpg" width="700"><p class="slider-text4">『森香澄と30歳を祝ってください！！』のステージ上で歌唱を披露しながら観客席に手を振る森香澄</p></li>
+<li><img src="https://raw.githubusercontent.com/RuinDig/Kasumi-Mori-2025-06-15/refs/heads/main/Photos/Kasumi-Mori---2025-06-15_092.jpg" width="700"><p class="slider-text4">『森香澄と30歳を祝ってください！！』のステージ上で歌唱を披露しながら観客席に手を振る森香澄</p></li>
+<li><img src="https://raw.githubusercontent.com/RuinDig/Kasumi-Mori-2025-06-15/refs/heads/main/Photos/Kasumi-Mori---2025-06-15_093.jpg" width="700"><p class="slider-text4">『森香澄と30歳を祝ってください！！』のステージ上で歌唱を披露しながら観客席に手を振る森香澄</p></li>
+<li><img src="https://raw.githubusercontent.com/RuinDig/Kasumi-Mori-2025-06-15/refs/heads/main/Photos/Kasumi-Mori---2025-06-15_101.jpg" width="700"><p class="slider-text4">『森香澄と30歳を祝ってください！！』のステージ上で歌唱を披露しながら観客席に手を振る森香澄</p></li>
+<li><img src="https://raw.githubusercontent.com/RuinDig/Kasumi-Mori-2025-06-15/refs/heads/main/Photos/Kasumi-Mori---2025-06-15_101.jpg" width="700"><p class="slider-text4">『森香澄と30歳を祝ってください！！』のステージ上で歌唱を披露しながら観客席に手を振る森香澄</p></li>
+<li><img src="https://raw.githubusercontent.com/RuinDig/Kasumi-Mori-2025-06-15/refs/heads/main/Photos/Kasumi-Mori---2025-06-15_106.jpg" width="700"><p class="slider-text4">『森香澄と30歳を祝ってください！！』のステージ上で歌唱を披露しながら観客席の奥の方の様子を窺う森香澄</p></li>
+<li><img src="https://raw.githubusercontent.com/RuinDig/Kasumi-Mori-2025-06-15/refs/heads/main/Photos/Kasumi-Mori---2025-06-15_107.jpg" width="700"><p class="slider-text4">『森香澄と30歳を祝ってください！！』のステージ上で歌唱を披露しながら観客席の奥の方に向かって手を振る森香澄</p></li>
+<li><img src="https://raw.githubusercontent.com/RuinDig/Kasumi-Mori-2025-06-15/refs/heads/main/Photos/Kasumi-Mori---2025-06-15_112.jpg" width="700"><p class="slider-text4">『森香澄と30歳を祝ってください！！』のステージ上で歌唱を披露し終えてステージ中央に立つ森香澄</p></li>
+<li><img src="https://raw.githubusercontent.com/RuinDig/Kasumi-Mori-2025-06-15/refs/heads/main/Photos/Kasumi-Mori---2025-06-15_116.jpg" width="700"><p class="slider-text4">『森香澄と30歳を祝ってください！！』のステージ上で歌唱を披露し終えて一礼する森香澄</p></li>
 </ul>
 </div>
 
