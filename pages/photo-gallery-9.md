@@ -16,14 +16,14 @@ title: 写真ギャラリー9/Photo gallery 9
 
 <div style="text-align: center;">
 <ul class="slider">
-<li><img src="https://github.com/user-attachments/assets/9ad16402-197d-4498-a59d-c51188672cd2" width="700px"><p class="slider-text4">試合前にレフト側外野フィールドで投球練習をするロサンゼルス・ドジャースの佐々木朗希</p></li><li>
-<li><img src="https://github.com/user-attachments/assets/b8bc5a51-4910-483a-921a-32849e7f3b6a" width="700px"><p class="slider-text4">試合前にレフト側外野フィールドで投球練習をするロサンゼルス・ドジャースの佐々木朗希</p></li><li>
-<li><img src="https://github.com/user-attachments/assets/1073d190-affa-41eb-87c9-bb318f3b2a6e" width="700px"><p class="slider-text4">試合前にレフト側外野フィールドで投球練習をするロサンゼルス・ドジャースの佐々木朗希</p></li><li>
-<li><img src="https://github.com/user-attachments/assets/1db0a097-24a6-40f7-9aac-3823832171b8" width="700px"><p class="slider-text4">試合前にレフト側外野フィールドで投球練習をするロサンゼルス・ドジャースの佐々木朗希</p></li><li>
-<li><img src="https://github.com/user-attachments/assets/55614cb2-b815-4574-a853-988221e20bd8" width="700px"><p class="slider-text4">試合前にレフト側外野フィールドで投球練習をするロサンゼルス・ドジャースの佐々木朗希</p></li><li>
-<li><img src="https://github.com/user-attachments/assets/9f0d5d67-c9c3-4ff6-8dab-ccc5aaada9d6" width="700px"><p class="slider-text4">試合前にレフト側外野フィールドで投球練習をするロサンゼルス・ドジャースの佐々木朗希</p></li><li>
-<li><img src="https://github.com/user-attachments/assets/7a405fd3-868e-4439-82f6-e3d867e3bff7" width="700px"><p class="slider-text4">試合前にレフト側外野フィールドで投球練習をするロサンゼルス・ドジャースの佐々木朗希</p></li><li>
-<li><img src="https://github.com/user-attachments/assets/3d433425-a368-45b8-83ff-4f3674ca2bac" width="700px"><p class="slider-text4">試合前にレフト側外野フィールドで投球練習をするロサンゼルス・ドジャースの佐々木朗希</p></li><li>
+<li><img src="https://github.com/user-attachments/assets/9ad16402-197d-4498-a59d-c51188672cd2" width="700px"><p class="slider-text4">試合前にレフト側外野フィールドで投球練習をするロサンゼルス・ドジャースの佐々木朗希</p></li>
+<li><img src="https://github.com/user-attachments/assets/b8bc5a51-4910-483a-921a-32849e7f3b6a" width="700px"><p class="slider-text4">試合前にレフト側外野フィールドで投球練習をするロサンゼルス・ドジャースの佐々木朗希</p></li>
+<li><img src="https://github.com/user-attachments/assets/1073d190-affa-41eb-87c9-bb318f3b2a6e" width="700px"><p class="slider-text4">試合前にレフト側外野フィールドで投球練習をするロサンゼルス・ドジャースの佐々木朗希</p></li>
+<li><img src="https://github.com/user-attachments/assets/1db0a097-24a6-40f7-9aac-3823832171b8" width="700px"><p class="slider-text4">試合前にレフト側外野フィールドで投球練習をするロサンゼルス・ドジャースの佐々木朗希</p></li>
+<li><img src="https://github.com/user-attachments/assets/55614cb2-b815-4574-a853-988221e20bd8" width="700px"><p class="slider-text4">試合前にレフト側外野フィールドで投球練習をするロサンゼルス・ドジャースの佐々木朗希</p></li>
+<li><img src="https://github.com/user-attachments/assets/9f0d5d67-c9c3-4ff6-8dab-ccc5aaada9d6" width="700px"><p class="slider-text4">試合前にレフト側外野フィールドで投球練習をするロサンゼルス・ドジャースの佐々木朗希</p></li>
+<li><img src="https://github.com/user-attachments/assets/7a405fd3-868e-4439-82f6-e3d867e3bff7" width="700px"><p class="slider-text4">試合前にレフト側外野フィールドで投球練習をするロサンゼルス・ドジャースの佐々木朗希</p></li>
+<li><img src="https://github.com/user-attachments/assets/3d433425-a368-45b8-83ff-4f3674ca2bac" width="700px"><p class="slider-text4">試合前にレフト側外野フィールドで投球練習をするロサンゼルス・ドジャースの佐々木朗希</p></li>
 </ul>
 </div>
 
