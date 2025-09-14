@@ -27,6 +27,31 @@ title: 写真ギャラリー9/Photo gallery 9
 </ul>
 </div>
 
+<div style="text-align: center;">
+<ul class="slider">
+<li><img src="https://github.com/user-attachments/assets/96518567-0706-4a82-89c1-de7fe5395611" width="700"><p class="slider-text4">5回表のロサンゼルス・ドジャースの攻撃、カウント2ボール2ストライクから、シカゴ・カブスのネイト・ピアーソン投手の5球目でライトスタンドにホームランを放つ大谷翔平の第3打席、審判団の映像確認を挟んでホームランと認められた</p></li>
+<li><img src="https://github.com/user-attachments/assets/2eb1ae05-4408-49d1-9e87-1e37f4a82614" width="700"><p class="slider-text4">5回表のロサンゼルス・ドジャースの攻撃、カウント2ボール2ストライクから、シカゴ・カブスのネイト・ピアーソン投手の5球目でライトスタンドにホームランを放つ大谷翔平の第3打席、審判団の映像確認を挟んでホームランと認められた</p></li>
+<li><img src="https://github.com/user-attachments/assets/52a19c5f-e82d-4151-a7a0-758fd8742a90" width="700"><p class="slider-text4">5回表のロサンゼルス・ドジャースの攻撃、カウント2ボール2ストライクから、シカゴ・カブスのネイト・ピアーソン投手の5球目でライトスタンドにホームランを放つ大谷翔平の第3打席、審判団の映像確認を挟んでホームランと認められた</p></li>
+<li><img src="https://github.com/user-attachments/assets/edb5bd0e-e05c-4096-b2bb-082b496a2ef0" width="700"><p class="slider-text4">5回表のロサンゼルス・ドジャースの攻撃、カウント2ボール2ストライクから、シカゴ・カブスのネイト・ピアーソン投手の5球目でライトスタンドにホームランを放つ大谷翔平の第3打席、審判団の映像確認を挟んでホームランと認められた</p></li>
+<li><img src="https://github.com/user-attachments/assets/15b63c4b-b4e7-49de-a739-b9493c537a10" width="700"><p class="slider-text4">5回表のロサンゼルス・ドジャースの攻撃、カウント2ボール2ストライクから、シカゴ・カブスのネイト・ピアーソン投手の5球目でライトスタンドにホームランを放つ大谷翔平の第3打席、審判団の映像確認を挟んでホームランと認められた</p></li>
+<li><img src="https://github.com/user-attachments/assets/59f8a5cf-e0be-4ab5-8f57-aa77cf3b7cd1" width="700"><p class="slider-text4">5回表のロサンゼルス・ドジャースの攻撃、カウント2ボール2ストライクから、シカゴ・カブスのネイト・ピアーソン投手の5球目でライトスタンドにホームランを放つ大谷翔平の第3打席、審判団の映像確認を挟んでホームランと認められた</p></li>
+<li><img src="https://github.com/user-attachments/assets/6c645456-57d3-4a1f-a015-7e345c38f4b0" width="700"><p class="slider-text4">5回表のロサンゼルス・ドジャースの攻撃、カウント2ボール2ストライクから、シカゴ・カブスのネイト・ピアーソン投手の5球目でライトスタンドにホームランを放つ大谷翔平の第3打席、審判団の映像確認を挟んでホームランと認められた</p></li>
+<li><img src="https://github.com/user-attachments/assets/b18f092e-e6d2-4d55-8d76-7ffcd463ca97" width="700"><p class="slider-text4">5回表のロサンゼルス・ドジャースの攻撃、カウント2ボール2ストライクから、シカゴ・カブスのネイト・ピアーソン投手の5球目でライトスタンドにホームランを放つ大谷翔平の第3打席、審判団の映像確認を挟んでホームランと認められた</p></li>
+<li><img src="https://github.com/user-attachments/assets/19f1bd41-5f6f-44d1-b60d-f8e5d47dad77" width="700"><p class="slider-text4">5回表のロサンゼルス・ドジャースの攻撃、カウント2ボール2ストライクから、シカゴ・カブスのネイト・ピアーソン投手の5球目でライトスタンドにホームランを放つ大谷翔平の第3打席、審判団の映像確認を挟んでホームランと認められた</p></li>
+<li><img src="https://github.com/user-attachments/assets/683425cd-4b69-443b-9219-f94f0c51d620" width="700"><p class="slider-text4">5回表のロサンゼルス・ドジャースの攻撃、カウント2ボール2ストライクから、シカゴ・カブスのネイト・ピアーソン投手の5球目でライトスタンドにホームランを放つ大谷翔平の第3打席、審判団の映像確認を挟んでホームランと認められた</p></li>
+<li><img src="https://github.com/user-attachments/assets/24a6d04e-9b99-487d-b575-40fb2759f5ab" width="700"><p class="slider-text4">5回表のロサンゼルス・ドジャースの攻撃、カウント2ボール2ストライクから、シカゴ・カブスのネイト・ピアーソン投手の5球目でライトスタンドにホームランを放つ大谷翔平の第3打席、審判団の映像確認を挟んでホームランと認められた</p></li>
+<li><img src="https://github.com/user-attachments/assets/5e834337-804b-4522-a886-5bbb00182300" width="700"><p class="slider-text4">5回表のロサンゼルス・ドジャースの攻撃、カウント2ボール2ストライクから、シカゴ・カブスのネイト・ピアーソン投手の5球目でライトスタンドにホームランを放つ大谷翔平の第3打席、審判団の映像確認を挟んでホームランと認められた</p></li>
+<li><img src="https://github.com/user-attachments/assets/36199e12-0763-4824-ab4f-1fe7646794b2" width="700"><p class="slider-text4">5回表のロサンゼルス・ドジャースの攻撃、カウント2ボール2ストライクから、シカゴ・カブスのネイト・ピアーソン投手の5球目でライトスタンドにホームランを放つ大谷翔平の第3打席、審判団の映像確認を挟んでホームランと認められた</p></li>
+<li><img src="https://github.com/user-attachments/assets/982e7a17-d5aa-4dda-bc46-9c1478ddc082" width="700"><p class="slider-text4">5回表のロサンゼルス・ドジャースの攻撃、カウント2ボール2ストライクから、シカゴ・カブスのネイト・ピアーソン投手の5球目でライトスタンドにホームランを放つ大谷翔平の第3打席、審判団の映像確認を挟んでホームランと認められた</p></li>
+<li><img src="https://github.com/user-attachments/assets/4a259a4e-c63d-4e2d-80f6-3cdeee159dd8" width="700"><p class="slider-text4">5回表のロサンゼルス・ドジャースの攻撃、カウント2ボール2ストライクから、シカゴ・カブスのネイト・ピアーソン投手の5球目でライトスタンドにホームランを放つ大谷翔平の第3打席、審判団の映像確認を挟んでホームランと認められた</p></li>
+<li><img src="https://github.com/user-attachments/assets/4f230353-ded8-4470-b0a5-6c0fa413d336" width="700"><p class="slider-text4">5回表のロサンゼルス・ドジャースの攻撃、カウント2ボール2ストライクから、シカゴ・カブスのネイト・ピアーソン投手の5球目でライトスタンドにホームランを放つ大谷翔平の第3打席、審判団の映像確認を挟んでホームランと認められた</p></li>
+<li><img src="https://github.com/user-attachments/assets/55e95400-e3b7-494c-a446-6314cefb58b5" width="700"><p class="slider-text4">5回表のロサンゼルス・ドジャースの攻撃、カウント2ボール2ストライクから、シカゴ・カブスのネイト・ピアーソン投手の5球目でライトスタンドにホームランを放つ大谷翔平の第3打席、審判団の映像確認を挟んでホームランと認められた</p></li>
+<li><img src="https://github.com/user-attachments/assets/15ecb72e-988b-4c26-8a15-ca5530f898b9" width="700"><p class="slider-text4">5回表のロサンゼルス・ドジャースの攻撃、カウント2ボール2ストライクから、シカゴ・カブスのネイト・ピアーソン投手の5球目でライトスタンドにホームランを放つ大谷翔平の第3打席、審判団の映像確認を挟んでホームランと認められた</p></li>
+<li><img src="https://github.com/user-attachments/assets/aa9e6694-fa00-4537-84ae-7cca58ecfe7a" width="700"><p class="slider-text4">5回表のロサンゼルス・ドジャースの攻撃、カウント2ボール2ストライクから、シカゴ・カブスのネイト・ピアーソン投手の5球目でライトスタンドにホームランを放つ大谷翔平の第3打席、審判団の映像確認を挟んでホームランと認められた</p></li>
+<li><img src="https://github.com/user-attachments/assets/853e9c58-14ca-4ac6-9768-354dc10ecc78" width="700"><p class="slider-text4">5回表のロサンゼルス・ドジャースの攻撃、カウント2ボール2ストライクから、シカゴ・カブスのネイト・ピアーソン投手の5球目でライトスタンドにホームランを放つ大谷翔平の第3打席、審判団の映像確認を挟んでホームランと認められた</p></li>
+</ul>
+</div>
+
 ### 『森香澄と30歳を祝ってください！！』2025.6.15
 
 <div style="text-align: center;">
