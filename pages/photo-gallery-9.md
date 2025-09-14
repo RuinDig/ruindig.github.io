@@ -36,6 +36,31 @@ title: 写真ギャラリー9/Photo gallery 9
 </ul>
 </div>
 
+<div style="text-align: center;">
+<ul class="slider">
+<li><img src="https://github.com/user-attachments/assets/f9c519a7-e1b0-4e16-946f-edb928f55046" width="600"><p class="slider-text4">2024年パリオリンピック・フェンシング女子フルーレ団体銅メダリストの宮脇花綸と上野優佳、2024年パリパラリンピック・卓球男子男子シングルス(立位9)日本代表の岩渕幸洋、2024年パリパラリンピック・卓球男子シングルス(車椅子4)日本代表の齋藤元希と七野一輝</p></li>
+<li><img src="https://github.com/user-attachments/assets/6dcf0abe-788c-4a4c-8bd5-88918478f47f" width="600"><p class="slider-text4">2024年パリパラリンピック・卓球男子シングルス(車椅子4)日本代表の齋藤元希(左)と七野一輝(右)</p></li>
+<li><img src="https://github.com/user-attachments/assets/7258e909-f46c-40f0-a576-3f9ab6e91033" width="600"><p class="slider-text4">2024年パリオリンピック・フェンシング女子フルーレ団体銅メダリストの宮脇花綸は沿道に集まった観衆とハイタッチを交わす</p></li>
+<li><img src="https://github.com/user-attachments/assets/a5ce49f0-1329-4124-8f9c-e0d1a9ca5cc9" width="600"><p class="slider-text4">2024年パリオリンピック・フェンシング女子フルーレ団体銅メダリストの宮脇花綸は沿道の子供に銅メダルを触ってもらう</p></li>
+<li><img src="https://github.com/user-attachments/assets/f7907883-98d0-47e5-b4a1-089413366841" width="600"><p class="slider-text4">2024年パリパラリンピック・卓球男子男子シングルス(立位9)日本代表の岩渕幸洋</p></li>
+<li><img src="https://github.com/user-attachments/assets/9c2c46e0-5abb-4621-835a-14575336305c" width="600"><p class="slider-text4">2024年パリオリンピック・フェンシング女子フルーレ団体銅メダリストの上野優佳</p></li>
+<li><img src="https://github.com/user-attachments/assets/04d8b344-1fdc-4023-9e67-a7e61404a999" width="600"><p class="slider-text4">奥から、2024年パリパラリンピック・バドミントン女子ダブルス(車椅子)銀メダリストの山崎悠麻、2024年パリパラリンピック・バドミントン女子シングルス(車椅子WH1)金メダリストの里見紗李奈</p></li>
+<li><img src="https://github.com/user-attachments/assets/8106e436-a634-40b8-a889-944ddd32c305" width="600"><p class="slider-text4">左から、2024年パリパラリンピック・競泳男子100m背泳ぎ(運動機能障害S8)・競泳男子100m自由形(運動機能障害S8)日本代表の荻原虎太郎、2024年パリパラリンピック・競泳男子100m平泳ぎ(知的障害)銅メダリストの山口尚秀、2024年パリパラリンピック・競泳男子100メートル背泳ぎ(運動機能障害S8)銀メダリストの窪田幸太、2024年パリパラリンピック・競泳男子200m個人メドレー(視覚障害SM13)日本代表の斎藤元希、2024年パリパラリンピック・競泳男子100mバタフライ(知的障害)日本代表の村上舜也</p></li>
+<li><img src="https://github.com/user-attachments/assets/4c19116e-ab7d-498b-b2f3-e00955d63b40" width="600"><p class="slider-text4">左から、2024年パリオリンピック・柔道男子66kg級金メダリストの阿部一二三、2024年パリオリンピック・柔道女子57kg級銅メダリストの舟久保遥香</p></li>
+<li><img src="https://github.com/user-attachments/assets/68c2a730-88bd-4d4e-8638-52edbd461ff7" width="600"><p class="slider-text4">2024年パリオリンピック・ビーチバレー女子日本代表の石井美樹(左)と長谷川暁子(右)</p></li>
+<li><img src="https://github.com/user-attachments/assets/6eb71cfb-aba3-4532-a9ac-ce44f8ec1284" width="600"><p class="slider-text4">左から、2024年パリオリンピック・セーリング女子49erFX級日本代表の永松瀬羅、2024年パリオリンピック・セーリング混合470級銀メダリストの吉岡美帆、2024年パリパラリンピック・競泳女子100m背泳ぎ(視覚障害S11)日本代表の石浦智美、2024年パリパラリンピック・競泳女子200m個人メドレー(知的障害)銅メダリストの木下あいら、2024年パリパラリンピック・競泳女子100m自由形(視覚障害S12)銅メダリストの辻内彩野、2024年パリオリンピック・セーリング混合ナクラ17級日本代表の西田カピーリア桜良</p></li>
+<li><img src="https://github.com/user-attachments/assets/4cbe9190-b458-4d31-8d99-1619330e1ae8" width="600"><p class="slider-text4">左から、2024年パリオリンピック・フェンシング男子エペ団体銀メダリストの見延和靖、2024年パリパラリンピック・バドミントン女子シングルス(下肢障害SL3)日本代表の伊藤則子</p></li>
+<li><img src="https://github.com/user-attachments/assets/c50f8e11-7bc2-4788-92ab-de5efc43c978" width="600"><p class="slider-text4">左から、2024年パリオリンピック・フェンシング男子エペ団体銀メダリストの見延和靖、2024年パリパラリンピック・バトミントン女子シングルス(上肢障害SU5)日本代表の豊田まみ子</p></li>
+<li><img src="https://github.com/user-attachments/assets/ff0507c3-2a98-4933-9c55-29331bc51ad8" width="600"><p class="slider-text4">左から、2024年パリパラリンピック・陸上競技男子円盤投げ(脳性まひF37・立位)日本代表の新保大和と2024年パリオリンピック・フェンシング男子エペ団体銀メダリストの見延和靖</p></li>
+<li><img src="https://github.com/user-attachments/assets/b4bf5fc0-a369-44c3-ac10-ab89ad4da0e2" width="600"><p class="slider-text4">2024年パリオリンピック・フェンシング男子フルーレ団体金メダリストの松山恭助</p></li>
+<li><img src="https://github.com/user-attachments/assets/e8844996-fe2e-4fe7-9871-3a3779f691c4" width="600"><p class="slider-text4">左から、2024年パリパラリンピック・自転車女子個人ロードレース(運動機能障害C1～3)金メダリストの杉浦佳子、2024年パリパラリンピック・車椅子バスケットボール女子日本代表の石川優衣、2024年パリパラリンピック・車椅子バスケットボール女子日本代表の江口侑里、2024年パリオリンピック・陸上競技女子やり投げ日本代表の斉藤真理菜</p></li>
+<li><img src="https://github.com/user-attachments/assets/28b0fac4-d199-47ca-9102-d22b85dc728d" width="600"><p class="slider-text4">先頭から、2024年パリパラリンピック・車椅子バスケットボール女子日本代表の清水千浪、小島瑠莉、西村葵、大津美穂、荻野真世</p></li>
+<li><img src="https://github.com/user-attachments/assets/30009f2d-5a24-41a5-b1ec-fdf2c51fd2e6" width="600"><p class="slider-text4">2024年パリパラリンピック・車椅子バスケットボール女子日本代表の小島瑠莉(左)と西村葵(右)</p></li>
+<li><img src="https://github.com/user-attachments/assets/1d1d3b8b-af63-4e38-b182-4d4e16c4fbdc" width="600"><p class="slider-text4">2024年パリパラリンピック・車椅子バスケットボール女子日本代表の大津美穂</p></li>
+<li><img src="https://github.com/user-attachments/assets/6559dc77-a77c-41f2-a9cd-b749f400542e" width="600"><p class="slider-text4">2024年パリパラリンピック・車椅子バスケットボール女子日本代表の荻野真世</p></li>
+</ul>
+</div>
+
 ### MLB東京シリーズ ロサンゼルス・ドジャース対シカゴ・カブス 2025.3.19
 
 <div style="text-align: center;">
