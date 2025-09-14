@@ -26,7 +26,7 @@ title: 写真ギャラリー9/Photo gallery 9
 
 <div style="text-align: center;">
 <ul class="slider">
-<li><img src="https://github.com/user-attachments/assets/9abf2847-baff-4458-91a5-5acbcc42e814" width="600"><p class="slider-text4">後列左から、2024年パリオリンピック・サーフィン女子日本代表の松田詩野、2024年パリパラリンピック・競泳男子100メートルバタフライ(視覚障害S11)金メダル・男子50メートル自由形(視覚障害S11)金メダルの木村敬一、2024年パリオリンピック・重量挙げ(ウエイトリフティング)男子102kg超級日本代表の村上英士朗の姿。前列左から、2024年パリパラリンピック・競泳男子50メートル平泳ぎ(運動機能障害SB3)金メダリストの鈴木孝幸、2024年パリパラリンピック・車椅子ラグビー金メダリストの池崎大輔、島川慎一、羽賀理之の姿。</p></li>
+<li><img src="https://github.com/user-attachments/assets/9abf2847-baff-4458-91a5-5acbcc42e814" width="600"><p class="slider-text4">後列左から、2024年パリオリンピック・サーフィン女子日本代表の松田詩野、2024年パリパラリンピック・競泳男子100メートルバタフライ(視覚障害S11)金メダル・男子50メートル自由形(視覚障害S11)金メダルの木村敬一、2024年パリオリンピック・重量挙げ(ウエイトリフティング)男子102kg超級日本代表の村上英士朗。前列左から、2024年パリパラリンピック・競泳男子50メートル平泳ぎ(運動機能障害SB3)金メダリストの鈴木孝幸、2024年パリパラリンピック・車椅子ラグビー金メダリストの池崎大輔、島川慎一、羽賀理之。</p></li>
 <li><img src="https://github.com/user-attachments/assets/d3e7e3e9-a8e0-418e-b853-15e5b836dfe6" width="600"><p class="slider-text4">2024年パリパラリンピック・競泳男子50メートル平泳ぎ(運動機能障害SB3)金メダル・男子50メートル自由形(運動機能障害S4)銀メダル・男子100メートル自由形(運動機能障害S4)銀メダル・男子200メートル自由形(運動機能障害S4)銅メダルの鈴木孝幸</p></li>
 <li><img src="https://github.com/user-attachments/assets/01e8fca0-7ff5-4aa9-8482-e5defca376b6" width="600"><p class="slider-text4">2024年パリパラリンピック・車椅子ラグビー金メダリストの池崎大輔</p></li>
 <li><img src="https://github.com/user-attachments/assets/86f4a238-fa70-4e15-8aff-5e4e20cf6ed6" width="600"><p class="slider-text4">2024年パリパラリンピック・車椅子ラグビー金メダリストの島川慎一(左)と羽賀理之(右)</p></li>
