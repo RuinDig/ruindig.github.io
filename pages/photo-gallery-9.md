@@ -63,6 +63,40 @@ title: 写真ギャラリー9/Photo gallery 9
 </ul>
 </div>
 
+<div style="text-align: center;">
+<ul class="slider">
+<li><img src="https://github.com/user-attachments/assets/96fa1f11-c484-4871-9ecb-0829d9182f73" width="600"><p class="slider-text4">2024年パリパラリンピック・陸上競技混合400mユニバーサルリレー日本代表の松本武尊、2024年パリオリンピック・カヌースラローム男子カヤックシングル/男子カヤッククロス日本代表の田中雄己、2024年パリパラリンピック・陸上競技女子走り幅跳び(知的障害)日本代表の酒井園実、2024年パリパラリンピック・陸上競技女子1500m(知的障害)日本代表の山本萌恵子、2024年パリパラリンピック・陸上競技女子100メートル(義足T64)/女子走り幅跳び(義足T64)日本代表の高桑早生、2024年パリオリンピック・カヌースラローム女子カナディアンシングル/女子カヤックシングル日本代表の岡崎遥海、2024年パリオリンピック・カヌースラローム男子カナディアンシングル日本代表の羽根田卓也</p></li>
+<li><img src="https://github.com/user-attachments/assets/943c1a59-d16c-485b-bf50-e86a7ef9b6ac" width="600"><p class="slider-text4">左から、2024年パリパラリンピック・陸上競技女子100メートル(義足T64)/女子走り幅跳び(義足T64)日本代表の高桑早生、2024年パリオリンピック・カヌースラローム女子カナディアンシングル/女子カヤックシングル日本代表の岡崎遥海</p></li>
+<li><img src="https://github.com/user-attachments/assets/375bfcad-627d-4cbd-972b-187944652144" width="600"><p class="slider-text4">2024年パリパラリンピック・陸上競技混合400mユニバーサルリレー日本代表の松本武尊(左)と2024年パリオリンピック・カヌースラローム男子カヤックシングル/男子カヤッククロス日本代表の田中雄己(右)</p></li>
+<li><img src="https://github.com/user-attachments/assets/4a99d8b7-6e16-4763-b7f5-0ce30873cf83" width="600"><p class="slider-text4">2024年パリオリンピック・カヌースラローム男子カナディアンシングル日本代表で2016年リオデジャネイロオリンピック・カヌースラローム男子カナディアンシングル銅メダリストの羽根田卓也</p></li>
+<li><img src="https://github.com/user-attachments/assets/c49d965c-da21-490a-b7cc-6466d9be6a79" width="600"><p class="slider-text4">左から、2024年パリパラリンピック・馬術個人規定(障害2)/個人自由演技(障害2)日本代表の稲場将、2024年パリオリンピック・スケートボード女子ストリート金メダリストの吉沢恋、2024年パリオリンピック・スケートボード女子ストリート銀メダリストの赤間凛音、2024年パリパラリンピック・馬術個人規定(障害2)日本代表の吉越奏詞、2024年パリオリンピック・スケートボード女子パーク日本代表の草木ひなの</p></li>
+<li><img src="https://github.com/user-attachments/assets/fd481a0a-470b-4d10-bf34-abfe6cf12d66" width="600"><p class="slider-text4">2024年パリオリンピック・フェンシング女子フルーレ団体銅メダリストの上野優佳</p></li>
+<li><img src="https://github.com/user-attachments/assets/76af3fe3-6054-4c06-9ced-9495c7a748fb" width="600"><p class="slider-text4">2024年パリオリンピック・フェンシング女子フルーレ団体銅メダリストの宮脇花綸</p></li>
+<li><img src="https://github.com/user-attachments/assets/c3a8c080-14e9-4198-b14d-79cb109dded4" width="600"><p class="slider-text4">2024年パリオリンピック・フェンシング女子フルーレ団体銅メダリストの宮脇花綸(左)と上野優佳(右)</p></li>
+<li><img src="https://github.com/user-attachments/assets/7e6ca86c-2004-467c-ada6-7c8379c3f5ef" width="600"><p class="slider-text4">2024年パリパラリンピック・競泳男子100m平泳ぎ(知的障害)銅メダリストの山口尚秀(右)、2024年パリパラリンピック・競泳男子100mバタフライ(知的障害)日本代表の村上舜也(左)</p></li>
+<li><img src="https://github.com/user-attachments/assets/705e33d6-51f1-428e-a6cf-d6b27cd25e1a" width="600"><p class="slider-text4">2024年パリオリンピック・柔道男子66kg級金メダリストの阿部一二三</p></li>
+<li><img src="https://github.com/user-attachments/assets/3c54ae3b-c361-4826-94fd-5dac5488f800" width="600"><p class="slider-text4">2024年パリパラリンピック・ゴールボール男子金メダリストの佐野優人、田口侑治、萩原直輝、宮食行次、2024年パリオリンピック・総合馬術団体銅メダリストの大岩義明、2024年パリオリンピック・自転車女子個人ロードレース日本代表の與那嶺恵理</p></li>
+<li><img src="https://github.com/user-attachments/assets/7190f18c-d016-446e-8cfa-093e5b792378" width="600"><p class="slider-text4">左から、2024年パリパラリンピック・ブラインドサッカー日本代表の川村怜と泉健也、2024年パリパラリンピック・アーチェリー男子リカーブ個人(車いす、立位など)日本代表の上山友裕</p></li>
+<li><img src="https://github.com/user-attachments/assets/69b73380-d95c-4ea9-9822-fc9367d14319" width="600"><p class="slider-text4">2024年パリオリンピック・レスリング男子フリースタイル65kg級金メダリストの清岡幸太郎</p></li>
+<li><img src="https://github.com/user-attachments/assets/ac767dc8-7d7f-4263-a7bc-3fc62d83dba0" width="600"><p class="slider-text4">2024年パリオリンピック・レスリング女子76kg級金メダリストの鏡優翔</p></li>
+<li><img src="https://github.com/user-attachments/assets/5c2bec0f-29d2-4477-93f4-34d76b3121e3" width="600"><p class="slider-text4">左から、2024年パリオリンピック・レスリング男子フリースタイル74kg級銀メダリストの高谷大地、2024年パリオリンピック・レスリング女子53kg級金メダリストの藤波朱理</p></li>
+<li><img src="https://github.com/user-attachments/assets/189d98a1-118e-472d-a122-349bdc5cb41d" width="600"><p class="slider-text4">2024年パリオリンピック・レスリング女子50kg級銅メダリストの須﨑優衣</p></li>
+<li><img src="https://github.com/user-attachments/assets/ef68f7eb-b6b2-487d-b8e6-f611c0c15440" width="600"><p class="slider-text4">左から、2024年パリオリンピック・セーリング混合470級銀メダリストの吉岡美帆、2024年パリパラリンピック・競泳女子100m自由形(視覚障害S12)銅メダリストの辻内彩野</p></li>
+<li><img src="https://github.com/user-attachments/assets/eb16ee90-e6f1-41d9-bf7c-311bd3beb671" width="600"><p class="slider-text4">左から、2024年パリオリンピック・セーリング混合ナクラ17級日本代表の西田カピーリア桜良、2024年パリオリンピック・セーリング女子49erFX級日本代表の永松瀬羅</p></li>
+<li><img src="https://github.com/user-attachments/assets/8a58d8fb-c786-456f-b0c1-eccedda77894" width="600"><p class="slider-text4">2024年パリパラリンピック・カヌースプリント女子カヤックシングル(運動機能障害KL1)日本代表の瀬立モニカ</p></li>
+<li><img src="https://github.com/user-attachments/assets/2be7d129-d3bd-4025-9810-b30542b7b58f" width="600"><p class="slider-text4">2024年パリパラリンピック・競泳女子200m個人メドレー(運動機能障害SM7)/競泳女子50mバタフライ(運動機能障害S7)日本代表の西田杏(中央)、2024年パリパラリンピック・競泳女子100m背泳ぎ(視覚障害S11)/女子200m個人メドレー(視覚障害SM11)日本代表の小野智華子(右端)</p></li>
+<li><img src="https://github.com/user-attachments/assets/d380add2-5891-47ed-956f-64f7126d5ba0" width="600"><p class="slider-text4">2024年パリオリンピック・フェンシング女子サーブル団体銅メダリストの江村美咲(左)と尾崎世梨(右)</p></li>
+<li><img src="https://github.com/user-attachments/assets/bbcc7a59-7022-41ff-9346-2150fc864905" width="600"><p class="slider-text4">2024年パリオリンピック・陸上競技女子やり投げ日本代表の斉藤真里菜</p></li>
+<li><img src="https://github.com/user-attachments/assets/1c358e3c-3305-4293-8679-6e19111defd2" width="600"><p class="slider-text4">2024年パリパラリンピック・自転車女子個人ロードレース(運動機能障害C1～3)金メダリストの杉浦佳子</p></li>
+<li><img src="https://github.com/user-attachments/assets/635a8545-9115-4c12-8a3b-fd24510d89a5" width="600"><p class="slider-text4">左から、2024年パリパラリンピック・馬術個人規定(障害2)日本代表の吉越奏詞、2024年パリパラリンピック・馬術個人規定(障害2)/個人自由演技(障害2)日本代表の稲場将</p></li>
+<li><img src="https://github.com/user-attachments/assets/9c371e48-3370-4db9-9ce9-abcd421f9686" width="600"><p class="slider-text4">左から、2024年パリオリンピック・スケートボード女子ストリート銀メダリストの赤間凛音、2024年パリオリンピック・スケートボード女子パーク日本代表の草木ひなの、2024年パリオリンピック・スケートボード女子ストリート金メダリストの吉沢恋</p></li>
+<li><img src="https://github.com/user-attachments/assets/9375d843-79f4-45b5-bf52-f5e1be9805d6" width="600"><p class="slider-text4">右から、2024年パリパラリンピック・ゴールボール男子金メダリストの佐野優人、萩原直輝、田口侑治、宮食行次</p></li>
+<li><img src="https://github.com/user-attachments/assets/70572d62-20e6-4c8e-8e88-17ea43546f57" width="600"><p class="slider-text4">2024年パリオリンピック・総合馬術団体銅メダリストの大岩義明</p></li>
+<li><img src="https://github.com/user-attachments/assets/d4b607cf-1236-4705-afaf-9a10443e174f" width="600"><p class="slider-text4">2024年パリオリンピック・飛び込み男子高飛び込み銀メダリストの玉井陸斗(左)と2024年パリパラリンピック・陸上競技女子100m(義足T63)/陸上競技女子走り幅跳び(義足T63)日本代表の兎澤朋美(右)</p></li>
+<li><img src="https://github.com/user-attachments/assets/6e7e00c3-88f4-4f74-81d3-d1415cc8fd14" width="600"><p class="slider-text4">右から、2024年パリパラリンピック・陸上競技女子100m(義足T63)/陸上競技女子走り幅跳び(義足T63)日本代表の兎澤朋美、2024年パリオリンピック・飛び込み男子高飛び込み銀メダリストの玉井陸斗、2024年パリパラリンピック・陸上競技男子やり投げ(上肢障害F46)日本代表の山崎晃裕、2024年パリパラリンピック・陸上競技女子100m(脳性まひT38・立位)日本代表の高松佑圭、2024年パリパラリンピック・陸上競技女子100m(脳性まひT34・車椅子)日本代表の吉田彩乃、2024年パリオリンピック・飛び込み女子高飛び込み日本代表の荒井祭里</p></li>
+</ul>
+</div>
+
 ### MLB東京シリーズ ロサンゼルス・ドジャース対シカゴ・カブス 2025.3.19
 
 <div style="text-align: center;">
