@@ -28,6 +28,13 @@ title: 写真と動画のガイドライン / Guideline of using photos and vide
 
 <p>You can download videos and images without any fees at <a href="https://archive.org/details/@ruindig?and[]=creator%3A%22ruindig%2Fyuki+uchida%22&sort=-date&and[]=mediatype%3A%22image%22&and[]=mediatype%3A%22movies%22">RuinDig's Internet Archive uploads</a>. Basically, you can use videos and images with credit "<a href="https://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a> - RuinDig/Yuki Uchida". Check each videos and images details.</p>
 
+### Wikimedia Commons
+
+<p><a href="https://commons.wikimedia.org/wiki/User:RuinDig">RuinDig</a>は<a href="https://commons.wikimedia.org">ウィキメディア・コモンズ</a>にも写真と動画を掲載。<a href="https://creativecommons.org/licenses/by/4.0/deed.ja">CC-BY-4.0</a>または<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.ja">CC0</a>で掲載。</p>
+
+<p><a href="https://commons.wikimedia.org/wiki/User:RuinDig">RuinDig</a> uploaded photos and videos at <a href="https://commons.wikimedia.org">Wikimedia Commons</a>. License will be <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a> or <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.ja">CC0</a>.</p>
+
+
 ### 任意 Optional
 
 <li>If you want to support as tip, you can tip via <a href="https://paypal.me/ruindig/500">PayPal</a>.</li>
