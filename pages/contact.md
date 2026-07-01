@@ -1,9 +1,9 @@
 ---
-title: Contact
+title: Contact お問い合わせ
 ---
 
 <meta name="robots" content="noindex">
-<div style="text-align:center"><h1 id="Contact" title="Contact">Contact</h1></div>
+<div style="text-align:center"><h1 id="Contact" title="Contact">Contact お問い合わせ</h1></div>
 
 お問い合わせは以下のメールアドレス、またはお問い合わせフォームからお願いします。メールまたはフォームでお問い合わせの際は件名を入力してください。<br>
 Please contact from this email address. Entar a subject When you send contact.
