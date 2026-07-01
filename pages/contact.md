@@ -1,9 +1,8 @@
-<meta name="robots" content="noindex">
-
 ---
 title: Contact
 ---
 
+<meta name="robots" content="noindex">
 <div style="text-align:center"><h1 id="Contact" title="Contact">Contact</h1></div>
 
 お問い合わせは以下のメールアドレス、またはお問い合わせフォームからお願いします。メールまたはフォームでお問い合わせの際は件名を入力してください。<br>
