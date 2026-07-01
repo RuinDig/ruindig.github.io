@@ -12,4 +12,6 @@ Please contact from this email address. Entar a subject When you send contact.
 
 <div style="text-align:center"><p><a href="https://docs.google.com/forms/d/e/1FAIpQLSecnBpo4VsHkX3KVSFkJ_q0oOwtzdVeEdWtjO9z7eH3nXBqTg/viewform"><button style="width:130px; height:50px;"><span style="color:blue; font-size:16px;">お問い合わせフォーム Contact form</span></button></a></p></div>
 
+<hr>
+
 <div style="text-align:center"><p><a href="https://ruindig.github.io"><button style="width:130px; height:50px;"><span style="color:blue; font-size:16px;">Back to Home</span></button></a></p></div>
