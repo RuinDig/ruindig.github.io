@@ -2,6 +2,10 @@
 title: 写真ギャラリー2/Photo gallery 2
 ---
 
+最新の写真はWikimedia Commonsの[ギャラリー一覧](https://commons.wikimedia.org/wiki/User:RuinDig/gallery)や[Internet Archive](https://archive.org/details/@ruindig?and%5B%5D=creator%3A%22ruindig%2Fyuki+uchida%22)をご覧ください。
+
+See latest photos on Wikimedia Commons' [gallery list](https://commons.wikimedia.org/wiki/User:RuinDig/gallery)や[Internet Archive](https://archive.org/details/@ruindig?and%5B%5D=mediatype%3A%22image%22&and%5B%5D=creator%3A%22ruindig%2Fyuki+uchida%22).
+
 # 写真ギャラリー2/Photo gallery 2
 
 ### プロ野球 - NPB
