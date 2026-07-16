@@ -2,7 +2,13 @@
 title: Contact お問い合わせ
 ---
 
-<meta name="robots" content="noindex">
+<script>
+  var newMeta = document.createElement("meta");
+  newMeta.setAttribute("name", "robots");
+  newMeta.setAttribute("content", "noindex");
+  document.getElementsByTagName("head")[0].appendChild(newMeta);
+</script>
+
 <div style="text-align:center"><h1 id="Contact" title="Contact">Contact お問い合わせ</h1></div>
 
 お問い合わせは以下のメールアドレス、またはお問い合わせフォームからお願いします。メールまたはフォームでお問い合わせの際は件名を入力してください。<br>
