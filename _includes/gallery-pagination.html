@@ -13,19 +13,19 @@
 {% if gallery_position > 0 %}
   {% assign gallery_previous_index = gallery_position | minus: 1 %}
   {% assign gallery_previous = gallery_pages[gallery_previous_index] %}
-  <a href="{{ gallery_previous.url | relative_url | escape }}" rel="prev">前へ</a>
+  <a href="{{ gallery_previous.url | remove: ".html" | relative_url | escape }}" rel="prev">前へ</a>
 {% endif %}
 {% for gallery_item in gallery_pages %}
   {% if gallery_item.url == page.url %}
     <span class="is-current" aria-current="page" aria-label="ギャラリー{{ gallery_item.gallery_number }}、現在のページ">{{ gallery_item.gallery_number }}</span>
   {% else %}
-    <a href="{{ gallery_item.url | relative_url | escape }}" aria-label="ギャラリー{{ gallery_item.gallery_number }}">{{ gallery_item.gallery_number }}</a>
+    <a href="{{ gallery_item.url |  remove: ".html" |relative_url | escape }}" aria-label="ギャラリー{{ gallery_item.gallery_number }}">{{ gallery_item.gallery_number }}</a>
   {% endif %}
 {% endfor %}
 {% if gallery_position < gallery_last %}
   {% assign gallery_next_index = gallery_position | plus: 1 %}
   {% assign gallery_next = gallery_pages[gallery_next_index] %}
-  <a href="{{ gallery_next.url | relative_url | escape }}" rel="next">次へ</a>
+  <a href="{{ gallery_next.url | remove: ".html" | relative_url | escape }}" rel="next">次へ</a>
 {% endif %}
 </nav>
 <p class="gallery-page-status">{{ gallery_position | plus: 1 }} / {{ gallery_total }}</p>
