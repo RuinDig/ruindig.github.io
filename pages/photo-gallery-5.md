@@ -1,6 +1,12 @@
 ---
 title: 写真ギャラリー5/Photo gallery 5
+gallery: true
+gallery_number: 5
 ---
+
+{% include gallery-pagination-styles.html %}
+
+{% include gallery-pagination.html %}
 
 最新の写真はWikimedia Commonsの[ギャラリー一覧](https://commons.wikimedia.org/wiki/User:RuinDig/gallery)や[Internet Archive](https://archive.org/details/@ruindig?and%5B%5D=creator%3A%22ruindig%2Fyuki+uchida%22)をご覧ください。
 
@@ -135,9 +141,9 @@ Visit of the General Public to the Imperial Palace after the Accession to the Th
 </ul>
 </div>
 
-<div style="text-align:center;"><p><a href="https://ruindig.github.io/pages/photo-gallery-1"><<</a> <a href="https://ruindig.github.io/pages/photo-gallery-4"><button style="width:24px; height:24px; text-align:center;"><span style="color:blue; font-size:17px;">4</span></button></a> - 5 - <a href="https://ruindig.github.io/pages/photo-gallery-6"><button style="width:24px; height:24px; text-align:center;"><span style="color:blue; font-size:17px;">6</span></button></a> <a href="https://ruindig.github.io/pages/photo-gallery-9">>></a></p></div>
+{% include gallery-pagination.html %}
 
-<div style="text-align: center; font-size:17px;"><p><strong>5/9</strong></p></div>
+
 
 <hr>
 

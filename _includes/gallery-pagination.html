@@ -1,0 +1,33 @@
+{% assign gallery_pages = site.pages | where: "gallery", true | sort: "gallery_number" %}
+{% assign gallery_position = -1 %}
+{% for gallery_item in gallery_pages %}
+  {% if gallery_item.url == page.url %}
+    {% assign gallery_position = forloop.index0 %}
+  {% endif %}
+{% endfor %}
+{% if gallery_position >= 0 %}
+{% assign gallery_total = gallery_pages | size %}
+{% assign gallery_last = gallery_total | minus: 1 %}
+<div class="gallery-navigation">
+<nav class="gallery-pagination" aria-label="写真ギャラリーのページ切り替え">
+{% if gallery_position > 0 %}
+  {% assign gallery_previous_index = gallery_position | minus: 1 %}
+  {% assign gallery_previous = gallery_pages[gallery_previous_index] %}
+  <a href="{{ gallery_previous.url | relative_url | escape }}" rel="prev">前へ</a>
+{% endif %}
+{% for gallery_item in gallery_pages %}
+  {% if gallery_item.url == page.url %}
+    <span class="is-current" aria-current="page" aria-label="ギャラリー{{ gallery_item.gallery_number }}、現在のページ">{{ gallery_item.gallery_number }}</span>
+  {% else %}
+    <a href="{{ gallery_item.url | relative_url | escape }}" aria-label="ギャラリー{{ gallery_item.gallery_number }}">{{ gallery_item.gallery_number }}</a>
+  {% endif %}
+{% endfor %}
+{% if gallery_position < gallery_last %}
+  {% assign gallery_next_index = gallery_position | plus: 1 %}
+  {% assign gallery_next = gallery_pages[gallery_next_index] %}
+  <a href="{{ gallery_next.url | relative_url | escape }}" rel="next">次へ</a>
+{% endif %}
+</nav>
+<p class="gallery-page-status">{{ gallery_position | plus: 1 }} / {{ gallery_total }}</p>
+</div>
+{% endif %}

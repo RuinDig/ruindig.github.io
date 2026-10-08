@@ -1,6 +1,12 @@
 ---
 title: 写真ギャラリー2/Photo gallery 2
+gallery: true
+gallery_number: 2
 ---
+
+{% include gallery-pagination-styles.html %}
+
+{% include gallery-pagination.html %}
 
 最新の写真はWikimedia Commonsの[ギャラリー一覧](https://commons.wikimedia.org/wiki/User:RuinDig/gallery)や[Internet Archive](https://archive.org/details/@ruindig?and%5B%5D=creator%3A%22ruindig%2Fyuki+uchida%22)をご覧ください。
 
@@ -368,9 +374,9 @@ See latest photos on Wikimedia Commons' [gallery list](https://commons.wikimedia
 </ul>
 </div>
 
-<div style="text-align: center;"><p><a href="https://ruindig.github.io/pages/photo-gallery-1"><<</a> <a href="https://ruindig.github.io/pages/photo-gallery-1"><button style="width:26px; height:26px; text-align:center;"><span style="color:blue; font-size:17px;">1</span></button></a> - 2 - <a href="https://ruindig.github.io/pages/photo-gallery-3"><button style="width:26px; height:26px; text-align:center;"><span style="color:blue; font-size:17px;">3</span></button></a> <a href="https://ruindig.github.io/pages/photo-gallery-9">>></a></p></div>
+{% include gallery-pagination.html %}
 
-<div style="text-align: center;"><p><strong>2/9</strong></p></div>
+
 
 <hr>
 

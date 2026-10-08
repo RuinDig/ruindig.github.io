@@ -1,0 +1,17 @@
+---
+title: 写真ギャラリー10/Photo gallery 10
+gallery: true
+gallery_number: 10
+---
+
+{% include gallery-pagination-styles.html %}
+
+{% include gallery-pagination.html %}
+
+# 写真ギャラリー10/Photo gallery 10
+
+ここを写真と説明文に置き換えてください。
+
+{% include gallery-pagination.html %}
+
+ここに写真の利用条件やホームへのリンクなどを追加してください。
