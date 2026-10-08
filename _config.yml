@@ -11,10 +11,7 @@ defaults:
         path: /RuinDig.jpg
 exclude:
   - templates
-  - assets
-  - _layouts
   - _includes
   - .vscode
-  - hook.js
   - _config.yml
   - README.md
