@@ -4,9 +4,9 @@ gallery: true
 gallery_number: 2
 ---
 
-{% include gallery-pagination-styles.html %}
+{% include gallery-pagenation-styles.html %}
 
-{% include gallery-pagination.html %}
+{% include gallery-pagenation.html %}
 
 掲載している写真は予告なく変更する場合があります。最新の写真はWikimedia Commonsの[ギャラリー一覧](https://commons.wikimedia.org/wiki/User:RuinDig/gallery)や[Internet Archive](https://archive.org/details/@ruindig?and%5B%5D=creator%3A%22ruindig%2Fyuki+uchida%22)をご覧ください。
 
@@ -374,9 +374,7 @@ The photos shown are subject to change without notice. See latest photos on Wiki
 </ul>
 </div>
 
-{% include gallery-pagination.html %}
-
-
+{% include gallery-pagenation.html %}
 
 <hr>
 

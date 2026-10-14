@@ -1,0 +1,70 @@
+{% assign galleries = site.pages | where: "gallery", true | sort: "gallery_number" %}
+{% assign position = -1 %}
+
+{% for item in galleries %}
+  {% if item.url == page.url %}
+    {% assign position = forloop.index0 %}
+  {% endif %}
+{% endfor %}
+
+{% if position >= 0 %}
+  {% assign total = galleries | size %}
+  {% assign last_index = total | minus: 1 %}
+  {% assign first_page = galleries | first %}
+  {% assign last_page = galleries | last %}
+
+  {% assign start = position | minus: 2 %}
+  {% assign max_start = total | minus: 5 %}
+  {% if max_start < 0 %}
+    {% assign max_start = 0 %}
+  {% endif %}
+  {% if start > max_start %}
+    {% assign start = max_start %}
+  {% endif %}
+  {% if start < 0 %}
+    {% assign start = 0 %}
+  {% endif %}
+
+<div class="gallery-navigation">
+  <nav class="gallery-pagination"
+       aria-label="写真ギャラリーのページ切り替え">
+
+    {% if position > 0 %}
+      {% assign previous_index = position | minus: 1 %}
+      {% assign previous_page = galleries[previous_index] %}
+
+      {{ first_page.url | remove: '.html' | relative_url | escape }}最初</a>
+      {{ previous_page.url | remove: '.html' | relative_url | escape }}前へ</a>
+    {% else %}
+      <span class="is-disabled" aria-disabled="true">最初</span>
+      <span class="is-disabled" aria-disabled="true">前へ</span>
+    {% endif %}
+
+    {% for item in galleries offset:start limit:5 %}
+      {% if item.url == page.url %}
+        <span class="is-current" aria-current="page">
+          {{ item.gallery_number }}
+        </span>
+      {% else %}
+        {{ item.url | remove: '.html' | relative_url | escape }}
+          {{ item.gallery_number }}
+        </a>
+      {% endif %}
+    {% endfor %}
+
+    {% if position < last_index %}
+      {% assign next_index = position | plus: 1 %}
+      {% assign next_page = galleries[next_index] %}
+
+      {{ next_page.url | remove: '.html' | relative_url | escape }}次へ</a>
+      {{ last_page.url | remove: '.html' | relative_url | escape }}最後</a>
+    {% else %}
+      <span class="is-disabled" aria-disabled="true">次へ</span>
+      <span class="is-disabled" aria-disabled="true">最後</span>
+    {% endif %}
+
+  </nav>
+
+  <p class="gallery-page-status">{{ position | plus: 1 }}/{{ total }}</p>
+</div>
+{% endif %}
