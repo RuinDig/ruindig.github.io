@@ -8,9 +8,9 @@ gallery_number: 7
 
 {% include gallery-pagination.html %}
 
-最新の写真はWikimedia Commonsの[ギャラリー一覧](https://commons.wikimedia.org/wiki/User:RuinDig/gallery)や[Internet Archive](https://archive.org/details/@ruindig?and%5B%5D=creator%3A%22ruindig%2Fyuki+uchida%22)をご覧ください。
+掲載している写真は予告なく変更する場合があります。最新の写真はWikimedia Commonsの[ギャラリー一覧](https://commons.wikimedia.org/wiki/User:RuinDig/gallery)や[Internet Archive](https://archive.org/details/@ruindig?and%5B%5D=creator%3A%22ruindig%2Fyuki+uchida%22)をご覧ください。
 
-See latest photos on Wikimedia Commons' [gallery list](https://commons.wikimedia.org/wiki/User:RuinDig/gallery)や[Internet Archive](https://archive.org/details/@ruindig?and%5B%5D=mediatype%3A%22image%22&and%5B%5D=creator%3A%22ruindig%2Fyuki+uchida%22).
+The photos shown are subject to change without notice. See latest photos on Wikimedia Commons' [gallery list](https://commons.wikimedia.org/wiki/User:RuinDig/gallery)や[Internet Archive](https://archive.org/details/@ruindig?and%5B%5D=mediatype%3A%22image%22&and%5B%5D=creator%3A%22ruindig%2Fyuki+uchida%22).
 
 # 写真ギャラリー7/Photo gallery 7
 
