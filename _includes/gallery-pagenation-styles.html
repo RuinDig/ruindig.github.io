@@ -1,10 +1,33 @@
 <style>
-.gallery-navigation { margin:24px 0; }
-.gallery-pagenation { display:flex; flex-wrap:wrap; justify-content:center; align-items:center; gap:6px; }
-.gallery-pagenation a, .gallery-pagenation .is-current { box-sizing:border-box; display:inline-flex; justify-content:center; align-items:center; min-width:44px; min-height:44px; padding:8px 12px; border:1px solid #767676; border-radius:6px; text-decoration:none; line-height:1.2; }
-.gallery-pagenation a { background:#fff; color:#174ea6; }
-.gallery-pagenation a:hover { background:#edf3ff; }
-.gallery-pagenation a:focus-visible { outline:3px solid #174ea6; outline-offset:3px; }
-.gallery-pagenation .is-current { background:#174ea6; border-color:#174ea6; color:#fff; font-weight:bold; }
-.gallery-page-status { text-align:center; margin:8px 0 0; }
+.gallery-navigation { margin:24px 0; width:100%; }
+.gallery-navigation .gallery-pagenation {
+  display:flex; flex-wrap:wrap; justify-content:center; align-items:center;
+  gap:4px; padding:0; margin:0; border:0;
+}
+.gallery-navigation .gallery-pagenation > a,
+.gallery-navigation .gallery-pagenation > span {
+  box-sizing:border-box; display:inline-flex; flex:0 0 auto;
+  justify-content:center; align-items:center; min-width:40px; min-height:44px;
+  padding:6px 8px; margin:0; border:1px solid #767676; border-radius:6px;
+  background:#fff; color:#174ea6; font-size:14px; font-weight:normal;
+  line-height:1.2; text-decoration:none; white-space:nowrap;
+}
+.gallery-navigation .gallery-pagenation > a:hover { background:#edf3ff; }
+.gallery-navigation .gallery-pagenation > a:focus-visible {
+  outline:3px solid #174ea6; outline-offset:2px;
+}
+.gallery-navigation .gallery-pagenation > .is-current {
+  background:#174ea6; border-color:#174ea6; color:#fff; font-weight:bold;
+}
+.gallery-navigation .gallery-pagenation > .is-disabled {
+  background:#f3f3f3; border-color:#ccc; color:#666;
+}
+.gallery-navigation .gallery-page-status { text-align:center; margin:8px 0 0; }
+@media (max-width:480px) {
+  .gallery-navigation .gallery-pagenation { gap:2px; }
+  .gallery-navigation .gallery-pagenation > a,
+  .gallery-navigation .gallery-pagenation > span {
+    min-width:24px; min-height:44px; padding:6px 4px; font-size:12px;
+  }
+}
 </style>
