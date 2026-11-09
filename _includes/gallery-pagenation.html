@@ -1,4 +1,4 @@
-{%- assign galleries = site.pages | where: "gallery", true | sort: "gallery_number" -%}
+{%- assign galleries = site.pages | where: "gallery", true | sort: "gallery_number" | reverse -%}
 {%- assign position = -1 -%}
 
 {%- for item in galleries -%}
