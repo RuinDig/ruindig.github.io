@@ -1,7 +1,7 @@
 ---
-title: 写真ギャラリー8/Photo gallery 8
+title: 写真ギャラリー2/Photo gallery 2
 gallery: true
-gallery_number: 8
+gallery_number: 2
 ---
 
 {% include gallery-pagenation-styles.html %}
@@ -12,7 +12,7 @@ gallery_number: 8
 
 The photos shown are subject to change without notice. See latest photos on Wikimedia Commons' [gallery list](https://commons.wikimedia.org/wiki/User:RuinDig/gallery)や[Internet Archive](https://archive.org/details/@ruindig?and%5B%5D=mediatype%3A%22image%22&and%5B%5D=creator%3A%22ruindig%2Fyuki+uchida%22).
 
-# 写真ギャラリー8/Photo gallery 8
+# 写真ギャラリー2/Photo gallery 2
 
 ### 組み合わせ写真/Photo collages
 
