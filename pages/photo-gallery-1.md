@@ -1,7 +1,7 @@
 ---
-title: 写真ギャラリー9/Photo gallery 9
+title: 写真ギャラリー1/Photo gallery 1
 gallery: true
-gallery_number: 9
+gallery_number: 1
 ---
 
 {% include gallery-pagenation-styles.html %}
@@ -12,7 +12,7 @@ gallery_number: 9
 
 The photos shown are subject to change without notice. See latest photos on Wikimedia Commons' [gallery list](https://commons.wikimedia.org/wiki/User:RuinDig/gallery)や[Internet Archive](https://archive.org/details/@ruindig?and%5B%5D=mediatype%3A%22image%22&and%5B%5D=creator%3A%22ruindig%2Fyuki+uchida%22).
 
-# 写真ギャラリー9/Photo gallery 9
+# 写真ギャラリー1/Photo gallery 1
 
 ### 2024パリオリンピック・パラリンピック日本代表応援感謝イベント 2024.11.30
 
